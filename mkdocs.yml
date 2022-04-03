@@ -18,6 +18,8 @@ site_url: https://chanel.nicholaslyz.com/
 nav:
   - Home: index.md
   - Trading Bot Core: trading-bot-core.md
+  - Posts:
+    - 9-10 Apr 2022 Lazarus Camping: posts/2022-04-09-lazarus-camping.md
 markdown_extensions:
   - abbr
   - attr_list
