@@ -1,0 +1,36 @@
+site_name: Chanel & Nicholas
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    scheme: slate
+    primary: cyan
+    accent: yellow
+  favicon: '/static/images/favicon.png'
+  icon:
+    logo: material/home
+  features:
+    - navigation.instant
+    - header.autohide
+extra_css:
+  - stylesheets/code.css
+site_url: https://chanel.nicholaslyz.com/
+nav:
+  - Home: index.md
+  - Trading Bot Core: trading-bot-core.md
+markdown_extensions:
+  - abbr
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - footnotes
+  - pymdownx.snippets
+  - pymdownx.keys
+plugins:
+  - search
