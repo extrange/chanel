@@ -19,6 +19,7 @@ nav:
   - Home: index.md
   - Trading Bot: trading-bot.md
   - Posts:
+    - 7-10 May 2022 Ireland Hiking: posts/2022-05-ireland-hiking.md
     - 9-10 Apr 2022 Lazarus Camping: posts/2022-04-09-lazarus-camping.md
 markdown_extensions:
   - abbr
