@@ -13,6 +13,12 @@
 
 - [x] 10 May: LH1065 NCE to FRA (1840hrs), FRA to SIN (LH778)
 
+
+## Travel Insurance
+
+- [ ] Nicholas
+- [ ] Chanel
+
 ## Car
 
 - [x] Peugeot 308 or similar [(details)](https://www.klook.com/en-SG/voucher/KLK3789734420?lang=en_SG&token=0b0d2960-c0b8-44ea-6e89-901de5693a45&c=system_email&pid=email)
