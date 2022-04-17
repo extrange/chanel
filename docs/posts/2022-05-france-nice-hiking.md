@@ -48,12 +48,17 @@
 - Waterproof outer layer
 - Fleece/mid layer jacket
 
+## Weather
+
+- Sunrise: 0610-0620, Sunset: 2035-2045 (>14hrs of daylight)
+- Temperature: 5-15°C 
+
 ## Itinerary
 
 - [Our hiking routes][our-hiking-routes]. [Hiking route options][hiking-routes]. [Trekking map][trekking-map].
 - Milky Way/stargazing - need to check ephemeris (Nicholas)
 
-## Total Costs
+## Total Cost
 - Flight from LHR to NCE
 - Car
 - Fuel
