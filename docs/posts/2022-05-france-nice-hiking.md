@@ -6,7 +6,7 @@
 
 **7 May, Saturday**
 
--   4.20pm: Nicholas reaches NCE T1, Chanel is reading Kobo
+-   4.20pm: Nicholas reaches NCE T1
 -   Walk to [Carrefour][carrefour]/[Supermarche Casino][supermarche-casino] to buy:
 
     -   Dinner
@@ -21,17 +21,19 @@
 
 -   Free breakfast at hotel
 -   Checkout, fill water
--   [ ] Hiking route TBD
+-   Hiking route:
 
-    -   Lake Petit/Fremamorte/Valdeblore
-    -   [Our hiking routes][our-hiking-routes]
-    -   [Options][hiking-routes]
+    -   [Col de Veillos, Col du Barn, Mont Pépoiri and Baus de la Frema][col-de-veillos] (16.9km loop)
+    -   Optionally detour to [Lacs des Millefonts][lacs-des-millefonts]
+    -   [Map of routes (Chanel)][our-hiking-routes]
+    -   [Other options (AllTrails)][hiking-routes]
 
 -   Pitch campsite by sunset (~8pm)
--   Overnight in tent, with Milky Way/stargazing
+-   Overnight in tent, with [Milky Way/stargazing](#weather-celestial-bodies)
 
 **9 May, Monday**
 
+-   If not camping, [La Colmiane, Col de Varaire, Caire Gros][la-colmiane-hike] (12.4km loop) is another option in the south.
 -   Begin trek back to hotel
 -   Check-in, enjoy nice shower
 -   7.30pm: EUR27 Dinner with local cheese
@@ -57,13 +59,18 @@
 -   [ ] Sleeping bag (I will lend you one)
 -   [ ] Baselayer, preferably wool
 -   [ ] Waterproof outer layer
--   [ ] Fleece/mid layer jacket
+-   [x] Fleece/mid layer jacket
 
 ## Weather, Celestial Bodies
 
 -   Sunrise: 0610-0620, Sunset: 2035-2045 (>14hrs of daylight)
--   Temperature: 5-15°C
--   [ ] Milky Way visibility
+-   Temperature: 14°C day, 5°C night
+-   [Comprehensive weather information][weather]
+-   Milky Way visibility:
+
+    -   8 May: 0020-0414 (moonset 0249 40%)
+    -   9 May: 0016-0412 (moonset 0319 49%)
+    -   10 May: 0012-0410 (moonset 0345 61%)
 
 ## Miscellaneous
 
@@ -73,12 +80,12 @@
 
 **Nicholas**
 
--   [x] 7 May: BA0334 LHR, T5 (1310hrs) to NCE, T1 (1620hrs)
--   [x] 10 May: LH1065 NCE to FRA (1840hrs), FRA to SIN (LH778)
+-   7 May: BA0334 LHR, T5 (1310hrs) to NCE, T1 (1620hrs)
+-   10 May: LH1065 NCE to FRA (1840hrs), FRA to SIN (LH778)
 
 **Chanel**
 
--   [x] 10 May: LH1065 NCE to FRA (1840hrs), FRA to SIN (LH778)
+-   10 May: LH1065 NCE to FRA (1840hrs), FRA to SIN (LH778)
 
 ### Bus Schedules
 
@@ -93,11 +100,14 @@
 [bus-90-french-schedule]: https://ftp.lignesdazur.com/ligne_90.pdf
 [bus-90-schedule]: https://www.lignesdazur.com/en/horaire/886/80/1
 [carrefour]: https://goo.gl/maps/1eyvzNNzQiX2CUGV7
+[col-de-veillos]: https://www.alltrails.com/trail/france/alpes-maritimes/col-de-veillos-col-du-barn-mont-pepoiri-et-baus-de-la-frema?u=m
 [gr52-trail]: https://happilyevertravels.com/hike-gr52-trail/
 [grand-arenas]: https://goo.gl/maps/x726JbXk9GRtG5Fn9
-[hiking-routes]: https://www.hika.app/explore?latitude=44.15215339999999&longitude=7.001411599999999&locality=France
+[hiking-routes]: https://www.alltrails.com/explore?b_tl_lat=44.11672307739917&b_tl_lng=7.146440621716721&b_br_lat=44.04558903319381&b_br_lng=7.31264860468238
 [hotel]: https://secure.booking.com/myreservations.en-gb.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaMkBiAEBmAEJuAEXyAEM2AEB6AEB-AEMiAIBqAIDuAKm5O2SBsACAdICJDJlY2Q4ZDYwLTUxMmYtNDQ3ZC1iMGVlLWMwNWI5NzdiZDNjYdgCBuACAQ;sid=7cac10f4d05cbbae03cc85e6295fde9c;auth_key=T16tVU7bJrMJJxai&;label=from_conf_1
+[la-colmiane-hike]: https://www.alltrails.com/explore/trail/france/alpes-maritimes/la-colmiane-col-de-varaire-caire-gros
 [la-colmiane]: https://goo.gl/maps/KEguaXFsoxJszkNf8
+[lacs-des-millefonts]: https://www.alltrails.com/trail/france/alpes-maritimes/lacs-des-millefonts-mont-pepoiri/photos
 [mercantour-to-nice-bus]: https://goo.gl/maps/giMtPFhKf7s8HCce8
 [nice-to-mercantour-bus]: https://goo.gl/maps/4yQzqo8yo1jFuTsC8
 [our-hiking-routes]: https://www.google.com/maps/d/viewer?mid=110bE46beRht3PU2x6XfYhVFYqQdaD4gS&ll=44.14368121724446%2C7.187836335386026&z=11
@@ -105,3 +115,4 @@
 [saint-dalmas]: https://goo.gl/maps/peDVK6vxcCPVxM9T9
 [supermarche-casino]: https://goo.gl/maps/CVW2jDJPWHptKZBu6
 [trekking-map]: https://www.openstreetmap.org/relation/1024511#map=10/44.1674/7.0615
+[weather]: https://www.weather-atlas.com/en/france/paris-weather-may
