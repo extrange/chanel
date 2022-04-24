@@ -13,6 +13,7 @@
     -   Hiking snacks
     -   Water
     -   Camping fuel
+    -   Lighter
 
 -   [ ] Buy bus card if necessary
 -   6.30pm: Bus 90 from [Grand Arenas][grand-arenas] to [La Colmiane][la-colmiane], 1hr 35min ([Google Maps Directions][nice-to-mercantour-bus])
