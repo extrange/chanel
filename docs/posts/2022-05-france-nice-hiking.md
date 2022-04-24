@@ -12,6 +12,7 @@
     -   Dinner
     -   Hiking snacks
     -   Water
+    -   Camping fuel
 
 -   [ ] Buy bus card if necessary
 -   6.30pm: Bus 90 from [Grand Arenas][grand-arenas] to [La Colmiane][la-colmiane], 1hr 35min ([Google Maps Directions][nice-to-mercantour-bus])
@@ -23,8 +24,8 @@
 -   Checkout, fill water
 -   Hiking route:
 
-    -   [Col de Veillos, Col du Barn, Mont Pépoiri and Baus de la Frema][col-de-veillos] (16.9km loop)
-    -   Optionally detour to [Lacs des Millefonts][lacs-des-millefonts]
+    -   [Col de Veillos, Col du Barn, Mont Pépoiri and Baus de la Frema][col-de-veillos] (16.9km loop, [.gpx file][col-de-veillos-gpx])
+    -   Optionally detour to [Lacs des Millefonts][lacs-des-millefonts] ([.gpx file][lacs-des-millefonts-gpx])
     -   [Map of routes (Chanel)][our-hiking-routes]
     -   [Other options (AllTrails)][hiking-routes]
 
@@ -33,7 +34,7 @@
 
 **9 May, Monday**
 
--   If not camping, [La Colmiane, Col de Varaire, Caire Gros][la-colmiane-hike] (12.4km loop) is another option in the south.
+-   If not camping, [La Colmiane, Col de Varaire, Caire Gros][la-colmiane-hike] ([.gpx file][la-colmiane-hike-gpx]) (12.4km loop) is another option in the south.
 -   Begin trek back to hotel
 -   Check-in, enjoy nice shower
 -   7.30pm: EUR27 Dinner with local cheese
@@ -52,7 +53,9 @@
     -   EUR27 Aperitif & dinner at 1930 for (reservation must be made 72hrs in advance)
 -   [Other properties][properties]
 
-## Chanel Items to get/pack
+## Misc
+
+### Chanel Items to get/pack
 
 -   [ ] Trekking shoes (after looking at the temperature, the brown one is fine)
 -   [ ] Backpack: 30L and above, with **waist strap** (I can lend you)
@@ -61,7 +64,7 @@
 -   [ ] Waterproof outer layer
 -   [x] Fleece/mid layer jacket
 
-## Weather, Celestial Bodies
+### Weather, Celestial Bodies
 
 -   Sunrise: 0610-0620, Sunset: 2035-2045 (>14hrs of daylight)
 -   Temperature: 14°C day, 5°C night
@@ -71,10 +74,6 @@
     -   8 May: 0020-0414 (moonset 0249 40%)
     -   9 May: 0016-0412 (moonset 0319 49%)
     -   10 May: 0012-0410 (moonset 0345 61%)
-
-## Miscellaneous
-
--   [GR52 Trail][gr52-trail]
 
 ### Flight Details
 
@@ -101,13 +100,15 @@
 [bus-90-schedule]: https://www.lignesdazur.com/en/horaire/886/80/1
 [carrefour]: https://goo.gl/maps/1eyvzNNzQiX2CUGV7
 [col-de-veillos]: https://www.alltrails.com/trail/france/alpes-maritimes/col-de-veillos-col-du-barn-mont-pepoiri-et-baus-de-la-frema?u=m
-[gr52-trail]: https://happilyevertravels.com/hike-gr52-trail/
+[col-de-veillos-gpx]: /static/2022-05/col_de_veillos.gpx
 [grand-arenas]: https://goo.gl/maps/x726JbXk9GRtG5Fn9
 [hiking-routes]: https://www.alltrails.com/explore?b_tl_lat=44.11672307739917&b_tl_lng=7.146440621716721&b_br_lat=44.04558903319381&b_br_lng=7.31264860468238
 [hotel]: https://secure.booking.com/myreservations.en-gb.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaMkBiAEBmAEJuAEXyAEM2AEB6AEB-AEMiAIBqAIDuAKm5O2SBsACAdICJDJlY2Q4ZDYwLTUxMmYtNDQ3ZC1iMGVlLWMwNWI5NzdiZDNjYdgCBuACAQ;sid=7cac10f4d05cbbae03cc85e6295fde9c;auth_key=T16tVU7bJrMJJxai&;label=from_conf_1
 [la-colmiane-hike]: https://www.alltrails.com/explore/trail/france/alpes-maritimes/la-colmiane-col-de-varaire-caire-gros
+[la-colmiane-hike-gpx]: /static/2022-05/la_colmiane.gpx
 [la-colmiane]: https://goo.gl/maps/KEguaXFsoxJszkNf8
-[lacs-des-millefonts]: https://www.alltrails.com/trail/france/alpes-maritimes/lacs-des-millefonts-mont-pepoiri/photos
+[lacs-des-millefonts]: https://www.alltrails.com/trail/france/alpes-maritimes/lacs-des-millefonts-mont-pepoiri
+[lacs-des-millefonts-gpx]: /static/2022-05/lacs_des_millefonts.gpx
 [mercantour-to-nice-bus]: https://goo.gl/maps/giMtPFhKf7s8HCce8
 [nice-to-mercantour-bus]: https://goo.gl/maps/4yQzqo8yo1jFuTsC8
 [our-hiking-routes]: https://www.google.com/maps/d/viewer?mid=110bE46beRht3PU2x6XfYhVFYqQdaD4gS&ll=44.14368121724446%2C7.187836335386026&z=11
