@@ -10,7 +10,14 @@
 -   Walk to [Carrefour][carrefour]/[Supermarche Casino][supermarche-casino] to buy:
 
     -   Dinner
-    -   Hiking snacks
+    -   Hiking snacks:
+
+        -   Noodles
+        -   Yogurt
+        -   Canned meat
+        -   Fruits
+        -   Vegetables
+
     -   Water
     -   Camping fuel
     -   Lighter
