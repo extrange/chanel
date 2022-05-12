@@ -1,30 +1,32 @@
 # France (Nice) Hiking 7-10 May 2022
 
-![](/static/2022-05/mercantour-national-park.jpg)
-
-## Itinerary
+![](/static/2022-05/mercantour_np.jpg)
 
 **7 May, Saturday**
 
--   4.20pm: Nicholas reaches NCE T1
--   Walk to [Carrefour][carrefour]/[Supermarche Casino][supermarche-casino] to buy:
+-   4.50pm: Nicholas reached NCE T1
+-   We walked to a nearby Carrefour City and bought:
 
     -   Dinner
     -   Hiking snacks:
 
         -   Noodles
-        -   Yogurt
         -   Canned meat
-        -   Fruits
-        -   Vegetables
+        -   Some 'pate' thing
+        -   Baguettes
+        -   Marshmallows
+        -   Apple juice
 
     -   Water
     -   Camping fuel
     -   Lighter
 
--   [ ] Buy bus card if necessary
 -   6.30pm: Bus 90 from [Grand Arenas][grand-arenas] to [La Colmiane][la-colmiane], 1hr 35min ([Google Maps Directions][nice-to-mercantour-bus])
--   Overnight in [hotel](#accomodation)
+-   Overnight in [hotel][hotel]
+
+![](/static/2022-05/room.jpg)
+
+![](/static/2022-05/hotel.jpg)
 
 **8 May, Sunday**
 
@@ -33,66 +35,67 @@
 -   Hiking route:
 
     -   [Col de Veillos, Col du Barn, Mont Pépoiri and Baus de la Frema][col-de-veillos] (16.9km loop, [.gpx file][col-de-veillos-gpx])
-    -   Optionally detour to [Lacs des Millefonts][lacs-des-millefonts] ([.gpx file][lacs-des-millefonts-gpx])
+    -   Detour to [Lacs des Millefonts][lacs-des-millefonts] ([.gpx file][lacs-des-millefonts-gpx])
     -   [Map of routes (Chanel)][our-hiking-routes]
     -   [Other options (AllTrails)][hiking-routes]
 
--   Pitch campsite by sunset (~8pm)
--   Overnight in tent, with [Milky Way/stargazing](#weather-celestial-bodies)
+-   We pitched our campsite on a ridge after a harrowing scramble up rocks.
+
+![](/static/2022-05/campsite.jpg)
+
+-   We cooked dinner:
+
+![](/static/2022-05/marshmallows.jpg)
+
+![](/static/2022-05/stove.jpg)
+
+-   Overnight in tent, where we saw the stars and Milky Way
+
+
+![](/static/2022-05/campsite_evening.jpg)
+
+![](/static/2022-05/campsite_night.jpg)
 
 **9 May, Monday**
 
--   If not camping, [La Colmiane, Col de Varaire, Caire Gros][la-colmiane-hike] ([.gpx file][la-colmiane-hike-gpx]) (12.4km loop) is another option in the south.
 -   Begin trek back to hotel
--   Check-in, enjoy nice shower
--   7.30pm: EUR27 Dinner with local cheese
--   Overnight in [hotel](#accomodation)
+
+    -   Unfortunately, route to Mt Pépoiri was inaccesible due to snow, so we made a detour further to the east.
+
+    ![](/static/2022-05/snowman.jpg)
+
+-   We were offered a ride back to our hotel from the end of the trail by an elderly American couple, who asked if we were vaccinated against Covid, to which we answered in the affirmative. Nicholas took the offer for the ride, much to Chanel's distress.
+-   We checked-in and enjoyed a nice shower while cleaning equipment.
+-   7.30pm: We had a EUR27 dinner with quiche, salad, mustard cream chicken with potatoes, local cheese, pancakes with strawberries (all cooked by the host Cyrill himself)
+-   Overnight in [hotel][hotel]
+
+![](/static/2022-05/quiche.jpg)
 
 **10 May, Tuesday**
 
--   10.36am: Bus 90 from [Saint-Dalmas][saint-dalmas] to [Grand Arenas][grand-arenas], 1hr 44min ([Google Maps Directions][mercantour-to-nice-bus])
+-   We were planning to take bus 90 back to Nice, but our host Cyrill kindly gave us a lift all the way to the airport.
+-   We visited Old Nice and had lunch at a restaurant recommended by Cyrill.
+-   Chanel very kindly bought Nicholas a bar of soap.
+
+![](/static/2022-05/lunch.jpg)
+
 -   6.40pm: Flight back to Singapore (LH1065 at NCE T1)
-
-## Accomodation
-
--   [ ] 7-10May [Chambres d'hôtes Le Grand Chalet][hotel] EUR262.20 (128/night)
-    -   Free cancellation until 29Apr
-    -   Complimentary breakfast 0730-0930
-    -   EUR27 Aperitif & dinner at 1930 for (reservation must be made 72hrs in advance)
--   [Other properties][properties]
 
 ## Misc
 
-### Chanel Items to get/pack
+### Accomodation Writeup
 
--   [ ] Trekking shoes (after looking at the temperature, the brown one is fine)
--   [ ] Backpack: 30L and above, with **waist strap** (I can lend you)
--   [ ] Sleeping bag (I will lend you one)
--   [ ] Baselayer, preferably wool
--   [ ] Waterproof outer layer
--   [x] Fleece/mid layer jacket
+We went in May 2022 for 2 nights of stay (and camping in the Mercantour National Park for 1 night in between). The host, Cyrill and his wife Stephanie were extremely cordial and welcoming. Cyrill gave us a lift from the La Colmiane bus stop (accesible via bus 90 from Nice). The views from the room were magnificent - the entire village below with the mountains as a backdrop. The night sky was very clear and we could see stars from the comfort of the warm room. We had dinner in the guesthouse (27 EUR) and it was cooked by Cyrill himself - the quiche was excellent. On the last day, Cyrill even offered to drop us back to the airport in Nice.
 
-### Weather, Celestial Bodies
+The guesthouse is situated right at the start of the hike toward the Lacs des Millefonts.
 
--   Sunrise: 0610-0620, Sunset: 2035-2045 (>14hrs of daylight)
--   Temperature: 14°C day, 5°C night
--   [Comprehensive weather information][weather]
--   Milky Way visibility:
+Overall, it was an extremely pleasant stay, and we enjoyed ourselves thoroughly, in no small part due to the excellent hospitality of Cyrill and his wife.
 
-    -   8 May: 0020-0414 (moonset 0249 40%)
-    -   9 May: 0016-0412 (moonset 0319 49%)
-    -   10 May: 0012-0410 (moonset 0345 61%)
+### Future Improvements
 
-### Flight Details
-
-**Nicholas**
-
--   7 May: BA0334 LHR, T5 (1310hrs) to NCE, T1 (1620hrs)
--   10 May: LH1065 NCE to FRA (1840hrs), FRA to SIN (LH778)
-
-**Chanel**
-
--   10 May: LH1065 NCE to FRA (1840hrs), FRA to SIN (LH778)
+-   Get powder soups + bread for dipping
+-   Prefer dried noodles/rice/pasta for carbohydrates
+-   Toasted marshmallows are legit
 
 ### Bus Schedules
 
@@ -101,8 +104,9 @@
 
 ### Total Cost
 
--   Accommodation
--   Food
+Approximately SGD $300 per person, all-inclusive.
+
+A lot of the savings were due to not having to rent a car for the duration of the trip.
 
 [bus-90-french-schedule]: https://ftp.lignesdazur.com/ligne_90.pdf
 [bus-90-schedule]: https://www.lignesdazur.com/en/horaire/886/80/1
@@ -111,7 +115,7 @@
 [col-de-veillos-gpx]: /static/2022-05/col_de_veillos.gpx
 [grand-arenas]: https://goo.gl/maps/x726JbXk9GRtG5Fn9
 [hiking-routes]: https://www.alltrails.com/explore?b_tl_lat=44.11672307739917&b_tl_lng=7.146440621716721&b_br_lat=44.04558903319381&b_br_lng=7.31264860468238
-[hotel]: https://secure.booking.com/myreservations.en-gb.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaMkBiAEBmAEJuAEXyAEM2AEB6AEB-AEMiAIBqAIDuAKm5O2SBsACAdICJDJlY2Q4ZDYwLTUxMmYtNDQ3ZC1iMGVlLWMwNWI5NzdiZDNjYdgCBuACAQ;sid=7cac10f4d05cbbae03cc85e6295fde9c;auth_key=T16tVU7bJrMJJxai&;label=from_conf_1
+[hotel]: https://www.booking.com/hotel/fr/le-grand-chalet-valdeblore.en-gb.html
 [la-colmiane-hike]: https://www.alltrails.com/explore/trail/france/alpes-maritimes/la-colmiane-col-de-varaire-caire-gros
 [la-colmiane-hike-gpx]: /static/2022-05/la_colmiane.gpx
 [la-colmiane]: https://goo.gl/maps/KEguaXFsoxJszkNf8
