@@ -17,6 +17,7 @@ nav:
   - Home: index.md
   - Trading Bot: trading-bot.md
   - Posts:
+    - Zoom Meetings: posts/zoom-meetings.md
     - 27-29 Oct 2022 Bintan: posts/2022-09-15-bintan.md
     - 13-19 Nov 2022 Vietnam Camping: posts/2022-08-22-vietnam.md
     - 7-10 May 2022 France (Nice) Hiking: posts/2022-05-france-nice-hiking.md
