@@ -15,6 +15,7 @@ theme:
 site_url: https://chanel.nicholaslyz.com/
 nav:
   - Home: index.md
+  - Story: story.md
   - Trading Bot: trading-bot.md
   - Posts:
     - 13-19 Nov 2022 Vietnam Camping: posts/2022-08-22-vietnam.md
