@@ -818,3 +818,21 @@ He began reaching his hand out, trying to grope, to feel whatever it was. As he 
 The elevator lights turned on without warning, and he jumped back in shock.
 
 Tricia was standing in front of him.
+
+"Did you miss me?"
+
+Nicholas was not surprised that she would come looking for him. He was also looking for her for answers.
+
+"Have you come to take me away?" He was amazed to find himself not filled with rage in front of creature who had cursed and corrupted his life. In front of her, he was unexpectedly calm and mostly curious.
+
+"You are a smart man. Let's make things easy for both of us. I am sure you want to know where you truly belong?"
+
+"How about Chanel?"
+
+"You live in different worlds now. There is no need to concern yourself with her. She will be fine here but unfortunately or fortunately for you, the transformation has began. For a complete transformation, you will have to drink the water of the Cerulean Soto Temple or else you will die. "
+
+"The tides will change when the sun rises. If you want to enter the Cerulean Soto Temple, you must go now. The next opening will be the June solstice and I cannot promise that you or me will still be here. "
+
+Nicholas thought for a moment. He knew he had no choice. He has felt the calling to the temple through his veins and bones. It beckons and coaxes him to fulfil his or its need and he needs to find out more.
+
+The lift doors opened and the two figures walked out. One following the other to the edge of the ship deck. The feminine leader grew out a lizard-like tail and encouraged the male behind to follow suit. Quick to adapt, both of them dived into the dark ocean.
