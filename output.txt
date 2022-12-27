@@ -1,0 +1,346 @@
+Ladies and gentlemen, thank you for being here and for your written representations. You know what the purpose of this select committee is. We are exploring the risks, the ways in which deliberate online falsehoods are spread, and we are primarily restricting ourselves to deliberate online falsehoods. We call them DOFs, and what we should do about the situation. 
+
+So I think it's useful to be clear about the approach we are going to take in these discussions. We see you, the entire panel, as people who enable communications and technology enables communications. It has brought immense benefits. It has revolutionized societies. 
+
+It has given more freedom to people. And at the same time, there are some issues, and we see you as partners in trying to deal with those issues. So I'll start with Facebook. Mr. Milner, Mr. Tan, thank you for being here. 
+
+You have shared our concerns and commitments to achieve these goals. So if I could invite you to look at your written representation of the 2nd of March. I think you say that quite clearly, what you see your obligations as, and a commitment which you share with us. You say so. 
+
+And at page 2, you say that it's a shared responsibility and you take it seriously. I think that's not controversial. I would like to start by discussing with Facebook some elements of your philosophy generally. And I think what I say would apply to the others as well. 
+
+And if you disagree at any point, please feel free to jump in and give us your views. I think as a major Internet company, Mr. Milner and Mr. Tan, Facebook has provided a platform for at least a couple of billion people more. And it has made its commitment to transparency. So if I can invite you to look at some documents, they will be shown on the screen. 
+
+Your commitment to the Facebook community, 30th of November, 2011. You have said, I think there's something wrong with this site. Let me in the interest of time read it out to you. Facebook has always been committed to being transparent about the information you have stored with us. 
+
+And we have led Internet in building tools to give people the ability to see and control what they share. But we can also always do better. I'm committed to making Facebook the leader in transparency and control around privacy. Then May 11, 2012, Facebook News, title Enhancing Transparency in Our Data Use Policy. 
+
+When we launched our redesigned data use policy last year, our goal was to create a more transparent guide to how we use data when people use Facebook. And third, Facebook News, in December 18, last year, 2017, we believe that sharing information about IP reports we receive from rights holders is an important step towards being more open and clear about how we protect the people and businesses that use our service. Publishing this report reinforces our important commitment to transparency as we build community and bring the world closer together. And May 15 of last year, an article in Marketing Week, it refers to statements made by Ms. 
+
+Mendelsohn. Ms. Mendelsohn used her speech to claim that being open is one of Facebook's five core pillars and that it's striving to be the most open and transparent company about our own metrics. We take this commitment to being open and transparent very seriously. 
+
+We are committed to providing the tools and partnerships to make that possible for all advertisers. Openness is not something we switch on in good times and off in the bad. If anything, it is even more important to have it when things are perhaps not going so well. That sets out your position and some of your core principles, correct? Correct. 
+
+Thank you. And you are now before this parliamentary select committee representing the people of this country and this is a serious discussion. And would you agree to make progress, we need to be full, frank and honest. Yes. 
+
+Thank you. Now, Mr. Milner, I think you have gone to several parliaments around the world to give evidence, among them the UK parliament as well as the Israeli Nessit. This may be number four, I think. Thank you. 
+
+My country's. Can I refer to a statement that was issued on the 16th of March? You probably have spent some time looking at this. It is just a few days ago. In 2015, we learned that a psychology professor at the University of Cambridge named Dr. Cogan lied to us and violated our platform policies by passing data from an app that was using Facebook login to SCOL Cambridge Analytica, a firm that does political, government and military work around the globe, and approximately 270,000 people downloaded the app. 
+
+Now, there is an article in the Guardian, which I'm sure you're aware of, but we will flash it anyway, 18th of March, which makes a claim that between June and August of 2014, more than 50 million Facebook profiles were harvested by Cambridge Analytica. And your CEO, I think last night, this morning Singapore time, said about 300,000 people, the app was installed by around 300,000 people who shared their data as well as their friends' data. And given the way our platform worked at this time meant that Cogan was able to access tens of millions of their friends' data. I think all of this is factual. 
+
+You've got to say yes so that we are transparent. Yes, that's correct. Thank you. Now, Facebook knew about this breach in 2015, that at least 270,000 users and tens of millions of their friends, their data had been given to Cambridge Analytica without permission in clear violation of the rules. 
+
+Correct? In clear violation of our terms, yes. Now, I would like to understand how this breach occurred. Dr. Cogan had developed an app. Facebook users downloaded the app. 
+
+Their data and data relating to their friends were then accessible to Dr. Cogan. So far we are within Facebook's policies and rules, correct? At the time, yes. And at the time you work on the basis that the Facebook users who downloaded the app agreed to harvesting of their information by Dr. Cogan at that time. I wouldn't necessarily – the word harvesting did not appear in our terms nor did it appear in the terms that the people would see as they agreed to access that app and make use of its features. 
+
+What term would you use? I would have to come back to you on exactly that term, but the word harvest is a colloquialism that's been used in some of the reporting on it. Not to suggest that this is not problematic, but that's not a term that was used in the report. Well, would you describe that their data was accessible to and used by Dr. Cogan? Yes, we've been clear about that. But just to be clear, this isn't all data that had been shared by their friends. 
+
+It's certain features of their data that was added. Mr. Milner, we can spend a lot of time discussing small details. I think you understand the essence of the point. I do understand the essence. 
+
+Thank you. Dr. Cogan then passed that information to Cambridge Analytica. Yes, and it's in doing that that he very clearly breached our terms and that's why we acted as we did. Can I now refer you to some answers you gave to the British Parliament in their select committee? This was on the 8th of February to the Digital, Culture, Media and Sports Committee. 
+
+Can we look at question 447? Mr. Matheson asked you, "Well, let's see how we get on with the questions and if you are able to answer them, have you ever passed any user information over to Cambridge Analytica or any of its associated companies?" And the answer was no. We then go on to question 448. But they do hold a large chunk of Facebook's user data, don't they? No, they may have lots of data but it will not be Facebook user data. It may be data about people who are on Facebook that they have gathered themselves but it's not data that we have provided. 
+
+And question 473. The chair says, "We have a session later on with some of the news media organizations so I'm sure we'll be able to ask them about that too. I just have a couple of clarification questions I want to ask before we finish. Going back to the discussion on Facebook developers, Mr. Milner, you said it was not true that developers had Facebook user data but they had data about people on Facebook. 
+
+I just wondered what the difference was between these two things. I suppose I was initially assuming that Mr. Matheson was saying, "Have you provided data? Has Facebook provided data to Cambridge Analytica or some other outside entity?" We do not provide your data to anyone without your permission but the developer, the system that Ms. Bickert was talking about does allow people to decide. I'm prepared to let them have some of my Facebook data in order to get a service from them. 
+
+Mr. Milner, would you agree that you are being very careful and economical with the truth in giving these answers? No, I would not. Can I explain why? Sure. On the basis of what I understood to be true at the time, I believe my answers were entirely accurate in that we have never provided data to Cambridge Analytica. We understood at the time that came because of the undertakings that Cambridge Analytica had given to us, including sworn legal affidavits, that they had no Facebook data. 
+
+Indeed, subsequent to this, and you may want to refer to this, their CEO appeared before exactly that same committee and said they did not have Facebook data. I have referred to that. At least I have looked at it. Let's explore that a little bit, Mr. Milner. 
+
+Cambridge Analytica obtained the Facebook user data. It was a large chunk, as we now know. And I'll remind you on question 458 again. Can we have that? The question was a large chunk was with them. 
+
+And in question 473, you draw a distinction between what Facebook provides and what the app developers obtain themselves, focused on Cambridge Analytica. Now that's why I said you were being very careful and economical with the truth. You were trying to answer a very precise question while you knew the facts you knew were that a large amount of data had been accessed in breach of your rules. You knew that at that time. 
+
+Whether they still had it or not is irrelevant for the time being. Actually, I think it was highly relevant to the question that was being asked by Mr. Matheson. Can I finish my question? Of course, I apologize. Yes. 
+
+First point is, on the 8th of February, when you gave evidence to the select committee, you knew that a large amount of data had been accessed by Cambridge Analytica in breach of your rules and policies. The question was, did you give any information to Cambridge Analytica? Can I suggest to you, in the context of being full, frank, and honest, which you said you had to be with us, and I'm sure you offer the same courtesy to the UK Parliament, one would have then said, "We did not give it." But you know what? In breach of our policies, a large amount of data had in fact been accessed by Cambridge Analytica. Can I suggest to you that would have been a full, frank, and honest answer? I agree with you that with hindsight, I could have explained more, but just to be clear, I did answer accurately. Let me just stop you there. 
+
+Could I finish my answer in the same way I asked you to? Let me ask you another question, and then you can carry on. So with hindsight, you agree with me. What has changed between then and now that you feel that this is the answer that should have been given to the British Parliament on the 8th of February? I'm merely explaining that I feel it's unfortunate that yourself and members of that committee feel that I was in any way economical. I felt that at the time I was giving truthful answers to questions, which actually was a minor part of a broader hearing in which we covered lots of other issues. 
+
+And therefore, of course now with hindsight, especially given recent events, I wish I had said more. But at the time, and especially given the evidence we then heard from Mr. Nix at that same committee within a couple of weeks, it felt like actually things were wrapped up. Just really only the events of the last few days and the things that have come to light in terms of these investigations, which are still allegations to be investigated now by the information commissioner in the UK, then I wish perhaps I'd said more. But what I said was what I knew to be true at the time. 
+
+And that's exactly what I'm also going to share with this committee today. Mr. Milner, let's just be quite direct here. There was no excuse for not giving this information on the 8th of February. I'm not trying to make excuses. 
+
+And if you feel that I am, I... No, I'm asking for your comment. I'm suggesting to you that there was no excuse for not telling the whole truth and being full, frank and honest on the 8th of February. Often in committees rather like this one, people want short answers rather than long ones. 
+
+I gave a truthful answer to the committee. All my answers were true, as were those of Ms. Bickett, based on what we knew then. And I'm here today and happy to answer your questions about what we know now and also what we don't know yet. 
+
+And that's hence the investigation. You just didn't answer my question. I feel I have answered your question. Well, let me put it to you again. 
+
+There is no excuse for you not to have been full, frank and honest on the 8th of February with the UK Parliament. I was frank and honest with that committee. I could have provided a fuller answer, but I do think it's unfair to suggest that there was no excuse. There were good reasons based on the range of issues being discussed in that committee as to why we didn't go into more detail at the time. 
+
+Let me understand. The reason why you were not full and gave – the reason why you did not give a complete answer was because this was a minor part of the entire discussion? No, it's because the committee were particularly interested in whether Cambridge Analytica had Facebook data now and whether it was relevant during the 2016 presidential election in the US. Based on what I understood to be true, which is that Cambridge Analytica had no Facebook data and because we had a sworn affidavit to that effect from them, I didn't feel it was necessary to go into that level of detail. But everything I said to the committee was true based on what I understood to be the time and it may still be true. 
+
+Mr. Milner, we can have very long answers. I'm prepared to let you answer as long as you like, but there is little purpose in repeating the same thing over and over again about what you knew. We all know what you knew. I had a very specific question. 
+
+One of your reasons for not being full and frank with this UK Select Committee, which you gave to us, is that this was a minor part of the hearing which covered a lot of other issues, correct? I think I said it was one of many issues. Let me quote you your exact words. This was a minor part of a broader hearing in which we covered lots of other issues. Okay. 
+
+I stand by what I said. Do you stand by that answer? I stand by what I said. So the breach and loss of 50 million or breach of your regulations leading to unlawful access of data relating to 50 million users, in your view, is a minor issue? No. The committee hearing was all about fake news like this one. 
+
+There were lots of other questions. Let me ask you a further question. Only one committee member asked me about this and there were as many, more members than there are here, asked me questions about a range of other issues. I suggest if one committee member asked questions about something, it's reasonable to suggest that was a minor part of a much broader hearing. 
+
+I come back to my question. I'm quite happy, Mr. Milner, to ask you the question as many times as you wish. In your view, was this question not answered fully because it was a minor part of the entire proceedings? No, I think as I've explained, but I do feel I'm repeating myself. Because you're not answering the question. 
+
+I wish, of course, I'd explained more, Ben. And now that committee has asked for Facebook to come and make further representations. We are now exploring the reasons. Would you like to amend your answer that it was a minor part and that's really not a good reason for not having been full and frank with the committee? I'm happy to explain. 
+
+This was one of many questions that I was asked about the issue of fake news and what Facebook was doing about it. As with, and often committees are looking for short answers so they can ask questions of other witnesses as well. And do I wish I'd given a fuller answer? Right. Now, would you agree that every question asked by the members requires full and proper answers? I'd be interested in your own definition of what full means. 
+
+Right. Especially when you want to try to get through lots of issues. Let's take this for example. The members of the select committee were interested more than one because they came back to this question a number of times as to whether any data had been given by you, whether there has been any breach of privacy, and whether in some way data had been accessed. 
+
+Facebook users' data had been accessed. Actually, I don't recall there being any questions about there being a breach of privacy. Well, they didn't specifically use the word privacy. You obviously know the notes very well and so do I. 
+
+But that was an issue they were dealing with, even though they didn't say privacy, amongst other issues. So questions were related to Cambridge Analytica, whether they had accessed information, and there were concerns. A full answer in my view, and I think you've accepted it, you know, answer to the questions would have been we did not give the information to Cambridge Analytica. But a developer whose app 270,000 people downloaded allowed him to access data for 50 million users, and that did end up with Cambridge Analytica. 
+
+And you know what, we took steps to ask them to confirm that they no longer have that data. That would have been a full, frank and honest answer. I respect your view on that, and as I think I've been clear about with hindsight, I could have said more. But the answers I gave were true based on what I knew to be true at the time. 
+
+Based on what you needed to be true? No, what I knew to be true at the time. Not what I needed to be true, what I knew to be true. What you knew to be true. Correct. 
+
+Your answers are not very consistent. If necessary, we'll come back to that in a minute. I believe they are, but I'm happy to come back to it if you wish. You're obviously aware of Mr. Zuckerberg's comments last night on his Facebook. 
+
+Let's look at them. He says, "We have a responsibility to protect your data, and if we can't, then we don't deserve to serve you. I've been working to understand exactly what happened and how to make sure this doesn't happen again. The good news is that the most important actions to prevent this from happening again today we have already taken years ago." And then again later on, "There was a breach of trust between Kogan, Cambridge Analytica and Facebook. 
+
+But it was also a breach of trust between Facebook and the people who share their data with us and expect us to protect it." And I'm sure you're aware of what Ms. Sandberg has said. If I can show that to you. Again last night. 
+
+Sharing Mark's post addressing the Cambridge Analytica news, as he said, "We know that this was a major violation of people's trust, and I deeply regret that we didn't do enough to deal with it. We have a responsibility to protect your data, and if we can't, then we don't deserve to serve you." And the last paragraph there, "You deserve to have your information protected." Sorry, can you go back to Ms. Sandberg's? And we'll keep working to make sure you feel safe on Facebook. Your trust is at the core of our service. 
+
+We know that and we'll work to earn it. So there is an acceptance that this was a major breach of trust by Facebook. Yes. And the user's trust is at the core of Facebook's services. 
+
+Yes? Yes, that's right. And users deserve to have their information protected. Yes? And when that trust is breached, the company should be transparent? That's what we said, and indeed we've committed that we will communicate with all the people who are affected by this. And it should be open? By open, what do you mean? In terms of we will -- because we shouldn't share with other people. 
+
+It would be the people that have been directly impacted. We will let them know. It should be open with them? Yes. And it should be open with the public that a breach has occurred? That a breach of trust has occurred? Yes. 
+
+And not play verbal games? Sorry? Not play verbal games? I'm not sure I follow you. I'm sure you do. I'm not sure I do. Can you explain further? This is going to be interesting. 
+
+There is -- when one says full, frank and honest and transparent and a duty to be open and a duty to tell the users, then you do that and you don't try and fob off those responsibilities . I strongly suggest that what our CEO has said today and the quotes as well that you've got there from our COO, Sharma Sandberg, in no way do they suggest -- I'm not suggesting them. I haven't suggested them. I hadn't finished. 
+
+So I wasn't suggesting anything about Mr. Zuckerberg or Ms. Sandberg. So are you suggesting that I am somehow fobbing off? Well, I'm asking you a general question that -- Please ask a hard question. Well, yes. 
+
+There will be hard questions. I start with a general question. Having established that there needs to be trust, that there needs to be openness, that there needs to be transparency, would you agree that when one comes across an instance where there's been a breach, one accepts it openly and not try and avoid it by using language which sort of hides what happened? Would you accept that? When our terms have been breached, we owe it to people to let them know if they're affected by it. Correct. 
+
+Thank you. Let's look at question 474 again to the U.K. Parliament. Now, given what I've just taken you through about being open and frank and honest, what do you think the answer to that question should be if you're asked the question today? Question 474. 
+
+Yes. Can we just read it out? Shall I read it or would you like to? You can read it out. So I just want to be clear what you mean, what you meant, because it was not clear at the time. A Facebook developer then has gathered data about Facebook users because they have interacted with the tools that they have created on the platform. 
+
+If that Facebook user then decides to leave Facebook, does the developer keep the data that they have gathered? My colleague Monica Bickert, who is our VP for product policies globally, said, no, that is in our policies. They actually have to delete the data once that person is no longer using the service. I would also note that you do not have to leave Facebook to make that decision. If you have interacted with an app on Facebook and you decide I don't want to do that anymore, you can go to your settings on Facebook and turn that off and reject that. 
+
+Then they have to delete your data. Now, that's, yes, in terms of your original question, yes, that's accurate. In the context of what we know now and you knew then, where Dr. Cogan had accessed the information and passed it on to Cambridge Analytica, would you answer the question in the same way? Or would you point out that actually a major breach had occurred and there is at least one instance that you know where information was passed on to a third party? Well, in terms of the question, if Facebook user then decides to leave Facebook, does the developer keep the data that they have gathered? Yes, I think the answer should remain exactly the same. I'm not sure why, because this wasn't specifically about Alexander Cogan or Cambridge Analytica. 
+
+You would not think there is a duty to point out that in fact a major breach had occurred and information had passed on. Not in respect of that question, because that question is about our broad policies and their application for users. Would you agree in respect of the other questions? You should have given this answer? I think I've already answered that a number of times. Up to yesterday, there was no admission that there was such a major breach, correct? We have not said. 
+
+We said there's a major breach of trust. There was no admission of major breach of trust. Actually I would have to go back to Mr. Gruel's post on Friday to see whether or not he used those words. I'm afraid I don't have his newsroom post in front of me to know whether he used those words. 
+
+Exactly. Up to Friday or up to yesterday. That was on Friday. I'm happy to check that out and come back to you unless you have it on your screen. 
+
+I do, but let's take it as Friday. Prior to Friday, there has been no admission of any major breach, no public admission, correct? Of a breach of trust. Yes. Thank you. 
+
+I know you want to be very careful for legal considerations. I do, because I know what you're driving towards. Yes. You don't need to anticipate. 
+
+Why don't we get there more quickly? We will get to the questions that I want to ask. I'm sorry. That was disrespectful. I apologize. 
+
+Now, you are aware of the letter from Mr. Collins. To Mark Zuckerberg. Yes. Yes, I am. 
+
+Committee has repeatedly asked Facebook about how companies acquire and hold on to user data from their site, and in particular about whether data had been taken without their consent. Your officials' answers have consistently understated this risk and have been misleading to the committee. Do you accept that? Well, evidently, based on what I've already said, I don't. But I do understand why Mr. Collins is frustrated and why he's asked us to appear again, and we will do so. 
+
+Evidently, based on what you've said, that your answers could have been more full, I think Mr. Collins has a right, objectively, to feel that way. Would you agree? Look, he's his own person. I know Mr. Collins very well. But I don't suggest that he's a... 
+
+Mr. Milner, Mr. Milner, please. Could I just... I have a question. You've made a very clear allegation I'd like to respond to. 
+
+Can I ask this? My questions are designed for a yes or no answer. So give a yes or no, and then you can carry on with your explanations. Let me repeat my question. Go back. 
+
+Given... I read out to you what Mr. Collins' letter says, and I say, given what we have... My apologies. Given what we have said about your answers being more full, I think Mr. Collins has, objectively, a right to feel that he has been misled. 
+
+Let me put it that way. Do you agree or disagree? No, I never misled him. I didn't say that. I didn't ask that question. 
+
+I think you're smart enough to know what I'm asking. I do, but I don't think I can put myself in the shoes of Mr. Collins in the way you suggest. No, I'm talking about objective perception. I think you're as good a judge of that as I am. 
+
+I'm not going to... Well... I do not think I can give you a yes or no answer to that question. That's what Mr. Collins... 
+
+Let's try again. Let's try again. I think you're smart enough to know that it is capable of a yes or no answer. Let me explain why. 
+
+We have your admission that your answers could have been more full. There is no two ways about it. That's clear. You could have been more full. 
+
+Mr. Collins has taken the view that you have been misleading to the committee. Just based on that, my suggestion to you is, objectively, anyone looking at those two answers, your statement that you could have been more full in the context of his questions, I say it's reasonable. I'm not saying you take that view. It's reasonable for someone to come to a conclusion that you have misled the committee. 
+
+It's a reasonable possibility. Different people may take different views, but it is a reasonable view. Would you agree? I agree that different people can take different views. And it is a reasonable view. 
+
+I agree that different people can take different views. I've asked you another question. A reasonable person can take that view. A reasonable person could take that view. 
+
+Thank you. Mr. Collins again on the 18th of March. Data has been taken from Facebook users without their consent and was then processed by a third party and used to support their campaigns. Facebook knew about this and the involvement of Cambridge Analytica with it and deliberately avoided answering straight questions from the committee about it. 
+
+It is not acceptable that Facebook have previously sent witnesses who seek to avoid answering difficult questions by claiming not to know the answers. This also creates a false reassurance that FB's stated policies are always robust and effectively policed. Just focusing on the first part of what I read out, Facebook knew about this and the involvement of Cambridge Analytica with it and deliberately avoided answering straight questions from the committee about it. Again, I'm not saying that this is your view, but a reasonable person looking at what has happened could take that view. 
+
+With the information we have now, yes, but not at the time. What is the additional information you have now? We've had some pretty major media stories which suggested that contrary to the undertakings we were given, individuals and companies including Cambridge Analytica retained Facebook data that they told us, legally verified that they had deleted. That was new information which did not come to light, was certainly not available to me or anyone else on February 8th, only came to light because of the media reports over the weekend. Why is that material to the answer? Because Mr Collins has suggested that I knowingly lied. 
+
+He certainly suggests that, but I'm trying to explore your reasons for disagreeing with him. Can you see the wording again that he used? Because I think you're suggesting that those words essentially said that somebody knowingly lied or something to that effect. I don't want to misquote him, so I'd like to see the wording again. We can see that. 
+
+Facebook knew about this and the involvement of Cambridge Analytica with it and deliberately avoided answering straight. The word deliberately misled, I think on the basis of, somebody might conclude that on the basis of what we know now, but not at the time because we did not know about these stories and these allegations. Let's just focus on Facebook knew about this and the involvement of Cambridge Analytica with it and deliberately avoided answering straight questions. Let's look at what you knew at that time. 
+
+You knew that there had been a major breach of your policies. Of trust and our policies. Yes, a breach of our policies. Breach of your policies. 
+
+You knew that there has been a major breach of trust on your part, right? Well, we understood that the breach of our policies had been contained. We have said now that actually we should have taken the step of notifying users and that was a mistake that we made. Right. So you knew on the 8th of February that there was a major breach of trust on your part? We knew there'd been a breach of our policies. 
+
+We did not know that contrary to those undertakings that they still, apparently it is alleged, we still don't know for certain that they have been targeted. Mr. Milner, you are very, very keen to answer questions which I don't ask. You seem to not be very keen to answering the questions that I do ask. The question I asked was not whether you knew that or you believed that they had been deleted. 
+
+The question that I asked is you knew on the 8th of February that there had been a major breach of trust on your part. Do you agree? We knew there'd been a breach of our policies and that we should have done better by our users. No, I am asking a very specific question. You knew that there'd been a major breach of trust on your part towards the Facebook users. 
+
+I can understand why you'd like a simple yes/no answer. I do think it is more nuanced than you're suggesting. Well, look, why... But this does not mean that we think that, you know, looking back on it, as I've been very clear, I should have provided a fuller answer to the committee and made them more aware of what we understood to be true. 
+
+And I've recognised that and I recognise that this is my first opportunity publicly to say it and I appreciate your questions have enabled me to do that. Thank you. But I was not deliberately misleading the committee. I was not trying to be acute with my answers. 
+
+I genuinely thought I was being helpful in the context of what that committee was looking into at the time, which was about did Cambridge Analytica have Facebook data now? And my genuine understanding at the time, as was for our company as a whole, was that they did not. You probably know this better than I do, but I don't think the UK Parliament asked you a question as to whether Cambridge Analytica had the data with them. But let's not get into that. We're getting into the weeds. 
+
+Just based on your last answer, I think you'll be prepared, therefore, to agree to the question I first asked you some minutes ago, that Mr Collins was entitled and a reasonable person is entitled to take the view that Facebook knew about the breach of its policies and the involvement of Cambridge Analytica in the breach of those policies and deliberately avoided answering straight questions from the committee about it. No. He's not entitled to take that view. Well, sorry, because it was such a long question, I rather lost the beginning. 
+
+I agree that he is entitled to take that view. Thank you. And he clearly has done so. Now, let's now go to the second part of your long answer which you gave just now. 
+
+Leaving aside Mr Collins, between what you knew on the 8th of February and what you know now, on the 8th of February, you knew that there had been a major breach of your policies, yes? We did know there had been a breach of our policies, yes. You wouldn't characterise it as major? I mean, it's not a phrase that we've used, but I'm happy for us to use it in this context, given what has transpired since then and what we are now doing as a company. What has transpired since then is irrelevant to whether it was major or minor. 50 million Facebook accounts, data, you would, anyone would call it major? Well, yes. 
+
+However, isn't it also worth pointing out that we were told at the time by Cambridge Analytica we've never used this data and we've deleted it? We will come to that. We will come to that. There is a certain logical flow to my questions, I hope, and it will be good if we can keep to that and have the questions I ask answered. So let's recap again. 
+
+On the 8th of February, you knew that there had been a major breach of your policies. You also knew that there was a breach of trust by you towards your users. Would you accept that? Yes. Thank you. 
+
+Now, the only thing that has changed between the 8th of February and today is that there have been some additional reports that Cambridge Analytica actually continued to have this data, correct? And made extensive use of it. Right. You don't believe that the first two data points I referred to are enough for you to have been upfront and say, yes, put your hands up and say, sorry, there's been a major breach. Cambridge Analytica accessed our data. 
+
+We were in – there's a major breach of trust between us and our Facebook users. You don't think that was enough for you to say that? I think I've been clear that I wish, with hindsight, I'd given a fuller answer. But just to be clear, that hearing like this was about fake news. It was not about data privacy. 
+
+There was no mention of Alexander Kogan. Imagine how long my answer would have had to have been to lay out all that into what was a very simple question, which is, have you given your data to Cambridge Analytica? Do Cambridge Analytica have Facebook data? So in answer to those two relatively short, simple questions, I gave short, simple answers. As I've made very clear, in an inquiry which was very broad, and this was only one member asking questions about this, and frankly it was – it felt like a tangent compared to the rest of the discussion. If you look at the rest of the proceedings, this was a tangent away from the main purpose of the hearing. 
+
+As I've – I think I've been very clear that, with hindsight, would I have preferred to have given longer answers to those questions? Yes. Mr Milner, you can take it. You obviously realize I've read the transcripts in some detail. Now, I don't want to extend these proceedings, but you know, really, to sit there and give answers like that was a small part of the discussion, somehow suggesting therefore you didn't have the need to be full and frank, or it excuses your answers, doesn't really wash. 
+
+I don't think I am making excuses. I'm explaining. Well, those explanations don't hold any water. Can we move on? I'm sorry you feel like that. 
+
+Yes, I do feel like that. I'm really sorry you feel like that, because I genuinely am trying to – as per the affirmation I've made, I'm giving you the truth, the whole truth, and nothing but the truth, and the answers I'm providing to you. Let's move on to another point. The Facebook did not inform any of the 270,000 users or their friends that the information had been illegitimately accessed, correct? Well, the 270 – no, you're correct. 
+
+Thank you. The first time Facebook announced this was last week, more than two years after it found out about the breach, correct? Yes. Your CEO says in a CNN interview, "I regret we didn't do it at the time. I think we got that wrong." You accept that? Yes, and I've said that already. 
+
+And all of this conduct goes against the professed commitments of Facebook – I read those out just now – of being transparent about the information users have stored with Facebook, Facebook being the leader in transparency and control around privacy, being more open and clear about how we protect people and businesses we serve, and to be the most open and transparent company and how user data is protected. Your conduct is contrary to all of these principles, correct, in this instance? In this instance, yes. Yes. You did not tell the public. 
+
+You did not tell the UK Parliamentary Committee. You did not even tell the users whose data had been shared. Quite unacceptable? I think our CEO's words make it very clear this was a mistake, we got it wrong. But it doesn't mean that the rest of those commitments are... 
+
+Would you accept that it's quite unacceptable? We've said that. We got it wrong. We should have told people. These professed commitments seen against your conduct, are they true statements of intention or are they pure verbiage? They're absolutely a true statement, not just of intention but of our actions. 
+
+I can provide plenty of information to this committee to demonstrate that. The best example illustration of statements of intention is actual conduct. So why did you not tell the users whose data was subject of this serious breach? I wasn't involved in that decision and I'm afraid I can't... Well, you've come here to give evidence. 
+
+I'm asking you, you're representing Facebook. Do you have an answer? I'm happy to see if we can provide that information to you but I don't want... Given I wasn't involved in that decision, I think you'd understand why I don't want to speculate about it. Well, then I'll have to ask you as a reasonable man with some knowledge of Facebook's operations that there must have been a good reason why there was no public announcement and that users were not informed. 
+
+I really would like to be helpful but I don't want to speculate because I was not involved in that decision. I think it would be wrong for me to speculate. Right. I'm asking you as a reasonable person, does it look odd to you that users were not contacted and the public were not informed? It definitely looks like a decision that we made the wrong call. 
+
+We should have let people know and our CEO has owned that decision and said we got that wrong. You would accept that you both have a moral as well as a legal obligation to inform the users? We wouldn't be admitting that we've breached people's trust if that were not the case. Thank you. A moral obligation to do it, you're absolutely correct. 
+
+As I understand it, there was not a legal obligation to do it but that's by the by. I know that you say that you don't want to speculate but if you informed the public when you first found out, 2015, or if you told 270,000 users or 50 million whose data had been abused, that would be a huge matter in public, wouldn't it? As it now is. You may well be right. And perhaps that was a reason why it wasn't made public. 
+
+I think I've been really clear on this. I don't want to speculate about something, a decision I was not involved in and I'm happy to investigate that and come back to the committee on it. How this happened, what Mr. Cogan did, could have been done by anyone else, any of the other app developers, correct? That's why we've committed to investigating and auditing all apps that were operating in that way at the time. You see, Mr. Mulla, my questions are designed for a yes or no answer and I'm quite happy for you to explain. 
+
+Yes. Thank you. And that's why we are investigating all apps that were operational at the time. Could Facebook have seen that Dr. Cogan was pulling huge amounts of user data off the network? I'm sorry, I don't quite understand what you mean. 
+
+In terms of, were we aware of this app and its size? Is that what you mean? Yes, I mean, our systems would have known that that was happening. Of course, what we didn't know is what Mr. Cogan was doing thereafter. I mean, I say I know, I don't. But I assume that you knew that he was accessing all of this data. 
+
+Did we have knowledge? Yes. Thank you. Did you check and verify that his purposes were legitimate in accessing such a huge amount of data? I think we've been clear on this in our public statements, which is he signed up to our terms. He agreed to our terms and under those terms he said he was conducting academic research and that information was available and known to us and was within, was acceptable within our terms. 
+
+So the answer to my question is you didn't check. You accepted what he said. As we do, we were accepting on trust many other developers as well at the time who were, and the purposes of which they were. As indeed all app platforms, including operated by others on this panel, did at the time and many still do. 
+
+Let's look at another aspect of this, how Facebook reacted when it learned of the breach. 16th of March 2018, your statement says, "We are committed to vigorously enforcing our policies to protect people's information. We will take whatever steps are required to see that this happens." That's what you say your commitment is. Let's look at what you did. 
+
+You removed Dr. Kogan's app, right? Yes. You asked Dr. Kogan and Cambridge Analytica to confirm that all information has been deleted? Yes. And you found out, according to you, last week, two years later, that contrary to the certifications you were given, not all the data was deleted. That's not quite accurate. 
+
+We didn't find that out. We now have an allegation and because of that allegation we want to investigate. So you first heard of this allegation last week? Correct. And so you're aggressively moving to determine the accuracy of these claims? Yes. 
+
+Now, why wasn't this verified two years ago when the certifications were first given? Well, again, that's something that, of course, with hindsight, we wish we'd done that. And that's one of the lessons for us as to in terms of why we are now going to audit all other apps and not just take their – what's the word I'm looking for? The affirmation, perhaps for want of a better word, that they have deleted data or have not passed it on. We're now going to audit them. Mr. Milner, you're dealing with someone who had acted in very serious breach of your rules, Dr. Kogan, according to you, right? Yes. 
+
+And you are completely happy to take his words on trust after that and his certifications without taking any steps to verify yourself? Well, I think, again, I think Mr. Groves – No, my questions are capable of being answered directly and then you can explain. Would you mind repeating the question? You are dealing with a person, Dr. Kogan, who had already committed a huge breach of your rules. He had accessed a huge amount of data. This was, as you yourself recognized, a serious breach of your trust with your users. 
+
+And of our terms. And of your terms. And you were quite happy to just accept a certification from Dr. Kogan that he is now telling the truth and he has deleted everything? That was the action we took at the time. I understand. 
+
+Do you think it looks odd that you did not take further steps to verify? With hindsight, yes. How has time improved your perception of this matter? Because if, if, if – we don't know them to be certain – if Mr. Wiley's allegations prove to be correct, then we have been duped and this has had consequences for potentially millions of our users and that's a really terrible place for our company to be. I understand. But again, I think you are smart enough to know the question I really asked. 
+
+Forget about Mr. Wiley and forget about all the additional data points you now have. Go back to two years ago. You have a person who had breached your rules. You have a major breach in your hands. 
+
+By him and by you, breach of trust to your users. You have all of this. And you are happy to receive a certification from this gentleman and say that, oh, that makes it all right and we trust him. Does that look odd to you? Actually, I would suggest that you're a lawyer. 
+
+I would suggest that the kind of verification that we received from him was significantly above and beyond just taking him on trust. That wasn't the question that I asked. The question I asked is, you are quite happy. Does it look odd to you to just accept a certification from him? I don't say we were quite happy. 
+
+That's not the phrase I would use. And it's very clear now that with hindsight we may have been – it may have been a very bad mistake on our part to have taken that legal – not just his word, but a legal verification that the data had been deleted by him, by Cambridge Analytica, by Mr. Wiley's firm, that it may prove to be that that was a big mistake and we should not have done that. Mr. Muller, let's leave out the additional information you have received. Let's stick to what you knew prior to these latest allegations. 
+
+Let's stick to that. I think you understand my question. Just based on the fact that Dr. Kogan accessed this information and used it contrary to your rules, and we accept it's a major breach, and which also puts you in a major breach of trust situation with your users, those are the facts. Forget about all the subsequent events. 
+
+On those facts, your view – can I suggest to you that it looks odd that you did not do anything beyond accepting this certification? Yes or no? I don't think that question is answerable as a straight yes or no. There is always context. And with hindsight, obviously yes. Hindsight – and it doesn't have to really involve these additional allegations. 
+
+Even without these additional allegations, can I suggest to you that one would have expected a half-competent firm with legal advice to say we now need to go in there and check whether there is data continuing to remain because this person has already acted in gross breach and we ought to now make sure that our user's data is properly protected and therefore deleted? Wouldn't you consider that to be a reasonable course of action? We clearly should have acted differently at the time. And you are not a half-competent firm. You are one of the world's most competent firms. Thank you very much. 
+
+At the moment, it doesn't feel quite like that. And therefore, the point is this cannot be an oversight. Look, we'd be really clear. I've been at Facebook for six years. 
+
+This is one of the worst weeks in my time there. I hope I'm not contributing to it. I appreciate the effort you've clearly put into really understanding the issues and to quizzing me hard about this. And I expected it. 
+
+We are having to make amends for significant mistakes that were made in the company. And I hope you see from the statement from our CEO overnight and his interview on CNN, there is determination from the very top to figure out what went wrong, to correct it, to learn from it, and to make sure it does not happen again. So let's then have some clear answers. A reasonable company, when it first came to know about this breach by Dr. Kogan and the fact that information has gotten on to Cambridge Analytica, should have done a few things. 
+
+It should have notified the users. It should have gone public with what had happened. And it should have taken further steps to ensure that the data had been deleted. Agree? Agree. 
+
+We said all that. And can you give us a credible, understandable reason why -- and what I'm saying is not rocket science. It's fairly basic. I was in practice for over 20 years. 
+
+It's the first thing lawyers would tell you to do. So can you give us a credible, reasonable, understandable explanation as to why that did not happen? And if you cannot, please say you cannot. I don't want to speculate. Thank you. 
+
+But it seems obvious that if you had done that in 2014 or 2015, the way in which the app developers could access users' data, the fact that there has been such a major breach of privacy, the fact that information has been abused, all of this would have broken out all over Facebook. And Facebook would have had to deal with these public issues. That would have been a natural consequence of any announcement then. Agree? I'm not suggesting that you didn't announce because of that. 
+
+But I'm just asking you to agree that what is happening now would have happened in 2015. Actually, I disagree in that the allegations that have come to light in recent days I would suggest could be even more serious than the issues of what we did in 2014, 2015 in not notifying people then and not verifying that the data had indeed been deleted. So I'm not sure if that -- I'm afraid you're not answering the question. I think we are again talking past each other. 
+
+The simple point is this. In 2015, if you had made an announcement that there has been a breach, major breach, 300,000 users' data has been abused, 50 million users' data has been abused, it's been passed on, there would have been a number of questions that Facebook would have had to answer in public at that point in time. Agree? Yes, and we would have said at the time we've had verification from these companies and individuals that they've deleted the data. Right. 
+
+And you probably would then have had to say that that's not good enough and we should do more. I expect, given the way the information commissioner in the UK has reacted to recent events and the fact that she has sought a warrant from a court to go in and inspect Cambridge Analytica's data, we may well have been in the same position. It was a different information commissioner at the time, but I expect he, Christopher Graham, probably would have taken the same action. So we may have ended up with the same -- it may not have been us doing it, it might have been the information commissioner, as is what is happening right now. 
+
+Well, we leave out the UK information commissioner, we leave out the UK parliament. I'm focusing on Facebook and what you would have had to do. And I think given your earlier admissions that your actions were not adequate, the only difference is that we now know in 2018, March, that your actions were not adequate. If you had admitted to all of this in 2015, then we would all know that your actions were not adequate at that point in time and you would have had to take more actions. 
+
+Actually, I'm not sure I agree with you in the sense of if we'd, in 2015, said, "Hey, this has happened, this is what we've done about it," I think people may have said, "Well, that's really bad that that happened," but it's good that you are notifying people and it's good that you're taking action against these companies and exposing them. So I'm not sure I agree that people would then have concluded that our actions were inadequate. Mr. Milner, you strike me, and I mean this genuinely, as a very smart man. Let me say this to you. 
+
+In 2015, if you had gone out there and said, "Dr. Kogan had accessed 270,000 accounts and another 50 million accounts from there, and a huge amount of data has been abused, and not just by him, but he's passed it on to Cambridge Analytica, and Cambridge Analytica does all these things. And we are now satisfied that neither of them have any information because there is a certification from those two entities. Do you think it's reasonable to think that both the public and the authorities would have asked you, "Shouldn't you be doing more?" I expect what would have happened then is that people would also... No, please answer the question. 
+
+Can I just... I don't think it's a yes/no answer, Mr. Jambugan. I do think it has to... There is nuance in this answer. 
+
+And as yours is a long question, it's quite hard to answer a long question with a straight yes or no. It is quite easy that the public and the agencies... It may be easy, but it may give the wrong impression that this is all very straightforward. It may give an impression that you would rather avoid giving. 
+
+No, I want to be really full and frank with this committee, just as you've asked me to be. Yes. If you look at what happened when I gave a yes/no answer to the UK committee, you have suggested that I wasn't full and frank. I didn't think I saw a yes and no answer. 
+
+And now you're trying to give very short answers. Mr. Milner, I will stand corrected, but I've seen your answers to the UK committee. They were very long. Not all of them, clearly. 
+
+Some of them should have been longer. And well, they could have been shorter on some of the stuff that they didn't need to hear, and they could have been longer on the stuff they actually needed to hear. And the chair at one point, I think, made a comment that you start your answers with respect and... It wasn't this committee. 
+
+That was another one, actually. The Home Affairs Committee. Yes. Yes. 
+
+It wasn't the chair. It was actually one of the members. Right. Thank you for correcting me. 
+
+He's no longer an MP. Now, we can go into some of the notes and what they have said. But the point is, all I'm saying to you is, if these facts had come out in 2015, the public could reasonably have asked you, expected you to have done more to make sure the data was no longer with Cambridge Analytica and Dr. Cogan. Yes or no? I suggest to you, more questions would have been asked of Cambridge Analytica, because we would have made their names public, and Dr. Cogan. 
+
+So people have asked them directly, prove you no longer have this data. That is still not an answer to my question. The fact that questions could have been asked of Cambridge Analytica has got nothing to do with what I'm saying, which is that you, Facebook, would have been expected to have done more, reasonably. Agree? Yes, given the actions we're now taking. 
+
+Thank you. It took us about 10 minutes to get there. Now, let's move on. Now, let's just remind ourselves of some things that your CEO said last night. 
+
+He said that we also made mistakes, there is more to do, and we need to step up and do it. And CNN's interview says he expressed regret for not doing more to take action against Cambridge Analytica when the issue came to the company's attention in 2015. So there you have an admission that more should have been done. Yes. 
+
+But you're not able to explain to us, in fact, why more was not done in 2015. As I say, I don't want to speculate, but I'm happy to come back to the committee on that. Thank you. Let's move on to another point, the significance of what you say, user consent. 
+
+Now, on the 17th of March, your statement last week, you say the claim that this is data breach is completely false. Alexander Kogan requested and gained access to information from users who chose to sign up to his app, and everyone involved gave their consent. People knowingly provided their information. Kogan gained access to this information in a legitimate way and through the proper channels that govern all developers on Facebook at that time. 
+
+And in your statement on the 16th, approximately 270,000 people downloaded the app. In so doing, they gave their consent for Kogan to access information, as well as more limited information about friends who had their privacy settings set to allow it. Kogan gained access to this information in a legitimate way and through proper channels that governed all developers on Facebook at that time. This line of reasoning is not new. 
+
+You accused me of being a lawyer just now. Let me... That wasn't an accusation. It's a statement. 
+
+You are, right? You are a lawyer. I am. You still are. I am. 
+
+I still am. I respect that. Thank you. Fantastic. 
+
+I wish I'd done it myself. You do better than most lawyers do. This line of reasoning is not new. Let me give you an example. 
+
+The law had to deal with these sorts of issues for a long time. I go down, I take a train, I get tickets. There used to be standard forms on these tickets which would remove all liability on the part of the train operator. They can be negligent and I may be left without any recourse. 
+
+And that's why the law intervened to equalize the position a bit more and refuse the company in a dominant position to deny all liability. It seems to me that the approach you take is very much similar to the approach that many of these utilities and other operators used to take with consumers. The individual versus a large corporation which seeks to deny all liability. Would you accept that simply to say, as you said on the 16th and 17th, "Oh, you know, they clicked on an app, they must be known to know all the terms and conditions and therefore they agreed." That's one position. 
+
+Really the more acceptable position is the acknowledgment of responsibility that came last night from your CEO and Ms. Sandberg. Would you accept that? I think the two are entirely consistent. You think they're entirely consistent? I think Mr. Graywall's posts and what we said at the weekend are entirely consistent with what we said, with what Mrs. 
+
+Zuckerberg and Ms. Sandberg have said today. So you still do not think that there is some duty on you to make sure that the Facebook users are notified more clearly and protected more vis-a-vis third-party app developers? I think your question was a double negative. So just to be really clear, rather than a yes/no, we are absolutely accepting we have a very significant responsibility here. 
+
+There are legal kind of definitional issues. We do that – I certainly don't want to get into those with you because I'm sure that you've got a sharper legal mind than mine. We're very clear this is a breach of trust. There is a specific definition under law about what a data breach consequences. 
+
+One of the questions that we were being asked by journalists was, "Is this a data breach or not?" That's what that post was referring to. We've been absolutely clear this was a significant breach of trust with our users and we are determined to address it. Okay. [BLANK_AUDIO] . 
+
