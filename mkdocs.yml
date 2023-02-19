@@ -17,13 +17,15 @@ nav:
   - Home: index.md
   - Story: story.md
   - Trading Bot: trading-bot.md
+  - Posts:
+    - Teas: posts/2023-02-19-teas.md
+    - Shanmugan Video: posts/2022-12-28-shanmugan-transcript.md
+    - Sweet Potatoes: posts/2023-02-06-sweet-potatoes.md
   - Trips:
-    - 13-19 Nov 2022 Vietnam: posts/2022-08-22-vietnam.md
-    - 23-25 Oct 2022 Bintan: posts/2022-09-15-bintan.md
-    - 7-10 May 2022 Nice, France Hiking: posts/2022-05-france-nice-hiking.md
-    - 9-10 Apr 2022 Lazarus Camping: posts/2022-04-09-lazarus-camping.md
-  - Shanmugan Video: posts/2022-12-28-shanmugan-transcript.md
-  - Sweet Potatoes: posts/2023-02-06-sweet-potatoes.md
+    - 13-19 Nov 2022 Vietnam: trips/2022-08-22-vietnam.md
+    - 23-25 Oct 2022 Bintan: trips/2022-09-15-bintan.md
+    - 7-10 May 2022 Nice, France Hiking: trips/2022-05-france-nice-hiking.md
+    - 9-10 Apr 2022 Lazarus Camping: trips/2022-04-09-lazarus-camping.md
 markdown_extensions:
   - abbr
   - attr_list
