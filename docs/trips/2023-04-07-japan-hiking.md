@@ -1,5 +1,24 @@
 # Japan Hiking Planning
 
+## Todo
+
+- [ ] Book accomodation
+- [ ] Book flights
+- [ ] Plan packing
+
+## Itinerary
+
+Jun 28: Flight from Singapore to Tokyo, arriving at 7:15am.
+Jun 29: Spend the day in Tokyo buying supplies, sleep one night near Shinjuku station.
+Jun 30: Take morning bus from Shinjuku MRT to Kamikochi bus terminal at 12pm, hike to Daikasawa Mountain Hut (2 hours 30 minutes).
+Jul 1: Hike to Mount Hotaka (6 hours), then to Karasawa Hut (1.5 hours) for the night.
+Jul 2: Hike along Yoku Valley (2 hours), then to Chogatake Hutte Mountain Hut (3 hours).
+Jul 3: Hike from Chogatake Mountain Hut to Mount Jonen, then to Daitenso Mountain Hut for the night.
+Jul 4: Climb Mount Tsbakuro and finish at Nakabusa Onsen. Sleep at Nakabusa onsen for the night.
+Jul 5: Take the bus back to Shinjuku. Stay the night in Tokyo.
+Jul 6: Souvenir shopping. Stay the night in Tokyo.
+Jul 7: Flight back to Singapore.
+
 ## BY TRAIN
 
 1. [JR East (Nagano, Niigata) 5 days pass at $200][train-pass]
