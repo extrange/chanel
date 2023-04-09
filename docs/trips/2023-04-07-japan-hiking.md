@@ -72,6 +72,28 @@ Jul 6, Thu:
 -   Flight back to Singapore
 -   Optional additional day at Tokyo
 
+## Camping Gear
+
+### Food
+
+-   Carbs: Oats, rice, lentils, bread
+-   Protein: Canned tuna, salmon
+-   Snacks:
+    -   **Tortilla wrap + peanut butter**
+    -   Granola
+    -   Nuts and seeds
+    -   Dried fruits
+    -   Fresh fruit (minimal as heavy)
+-   Soup satchets (e.g. miso, mushroom, corn)
+
+### Others
+
+-   Water filter
+-   Compass
+-   Physical map
+-   Powerbank
+-   Gaia maps app
+
 ## SUGGESTED HIKES ([Kamikochi Map][hike-map]) ([Trekking Guide][trek-guide])
 
 -   \[3 - 4 days\] [Panorama Ginza Trail][panorama-ginza] ([Map][panorama-ginza-map]) ends at [Nakabusa Onsen][nakabusa-onsen]
