@@ -2,37 +2,77 @@
 
 ## Todo
 
-- [ ] Book accomodation
-- [ ] Book flights
-- [ ] Plan packing
+-   [ ] Book accomodation
+-   [ ] Book flights
+-   [ ] Plan packing
 
 ## Itinerary
 
-Jun 28: Flight from Singapore to Tokyo, arriving at 7:15am.
-Jun 29: Spend the day in Tokyo buying supplies, sleep one night near Shinjuku station.
-Jun 30: Take morning bus from Shinjuku MRT to Kamikochi bus terminal at 12pm, hike to Daikasawa Mountain Hut (2 hours 30 minutes).
-Jul 1: Hike to Mount Hotaka (6 hours), then to Karasawa Hut (1.5 hours) for the night.
-Jul 2: Hike along Yoku Valley (2 hours), then to Chogatake Hutte Mountain Hut (3 hours).
-Jul 3: Hike from Chogatake Mountain Hut to Mount Jonen, then to Daitenso Mountain Hut for the night.
-Jul 4: Climb Mount Tsbakuro and finish at Nakabusa Onsen. Sleep at Nakabusa onsen for the night.
-Jul 5: Take the bus back to Shinjuku. Stay the night in Tokyo.
-Jul 6: Souvenir shopping. Stay the night in Tokyo.
-Jul 7: Flight back to Singapore.
+Jun 28, Wed:
 
-## BY TRAIN
+-   Flight from Singapore to Tokyo, Arrival in the morning
+-   [Transport to Shinjuku][nrt-to-shinjuku]
+-   Purchase or rent mountaineering gear and supplies at Shinjuku ([Yamarent][yamarent], [L-breath][lbreath], 7-eleven, Don Quijote)
+-   Eat Ichiran Ramen, Explore Kabukicho, Omoide Yokocho in Shinjuku
+-   Overnight near Shinjuku station [(Options)][shinjuku-accoms]
 
-1. [JR East (Nagano, Niigata) 5 days pass at $200][train-pass]
+Jun 29, Thu (Total Trek Time: 2.5hrs):
 
-    - Airport —> Shinjuku —> Matsumoto \[3.5hrs\]
+-   0715 Take morning busfrom Shinjuku Expressway Bus Terminal to Kamikochi Bus terminal ([willer][bus-kamikochi], [alpico][alpico])
+-   1200 Lunch at Kamikochi, Pick up a map from the info centre, Stock up on any supplies you may need, Water is free here
+-   Fill out a [mountain climbing card][trek-itinerary] and putting it in the box at the start of the Daikasawa trailhead
+-   Hike to Daikasawa Mountain Hut (2 hours 30 minutes)
+-   Overnight at [Dakasawa Mountain Hut][dakasawa]
+-   Notes: Reservations are not required for tent sites (First Come First Serve Basis)
 
-2. [Train/bus to Kamikochi][train-bus] \[1.5hrs\]
+Jun 30, Fri (Total Trek Time: 8hrs):
 
-## BY BUS (Recommended)
+-   Hike up to Mount Mae-Hotaka (3 hours 30 minutes)
+-   Hike to Mount Hotaka (2 hours 20 minutes)
+-   Hike to Karasawa Hut (2 hours 10 minutes)
+-   Overnight at [Karasawa Hut, Water point][karasawa]
 
--   [5hr Direct Bus from Tokyo (Shinjuku)][bus-tokyo]~ $100
--   5hr Direct Bus from Kamikochi Bus Terminal ~ $100
+Jul 1, Sat (Total Trek Time: 6hrs):
+**Decision Point to turn back and go back down to Kamikochi**
 
-## SUGGESTED HIKES ([Kamikochi Map][hike-map])
+-   Hike along Yoku Valley (2 hours)
+-   Hike through steep forest to Yokoo Junction (3 hours 40 minutes)
+-   Hike to Chogatake Hutte Mountain Hut (30 minutes)
+-   Overnight at [Chogatake Hutte Mountain Hut][chogatake]
+
+Jul 2, Sun (Total Trek Time: 9hrs):
+
+-   Hike to Mount Jonen (4 hours 45 minutes)
+-   Hike then to Mount Otensho/ Daitenjo (4 hours 10 minutes)
+-   Overnight at [Daitenso Mountain Hut][daiten-sou]
+
+Jul 3, Mon (Total Trek Time: 6hrs):
+
+-   Hike to Mount Tsbakuro (3 hours)
+-   Head down to Ariake-sou (3 hours)
+-   Overnight at [Ariake-sou (Reserved at ¥13,000/pax)][ariake-sou] for the night
+-   Note: Changed to Ariake-sou as Nakabusan requires minumum 2 night stay. Hot springs, drying and shoe wash available but no private bathroom.
+
+Jul 4, Tue:
+
+-   Regular bus from Nakabusan Onsen to Hotaka Station (55min)
+-   Cycling at Azumino, Visit Daio Wasabi Farm, Foot Hot Spring, Swiss Village, Museums (Optional: Mamatsumoto castle)
+-   [Express bus from Azumino-Hotaka to Shinjuku][bus-hotaka]
+-   Arrival at Shinjuku
+-   Overnight at Tokyo
+-   Note: Only available on Sundays - 1250 [Climbing Bus][climbing-bus] from Nakabusan Onsen to Tokyo
+
+Jul 5, Wed:
+
+-   Souvenir shopping
+-   Overnight at Tokyo
+
+Jul 6, Thu:
+
+-   Flight back to Singapore
+-   Optional additional day at Tokyo
+
+## SUGGESTED HIKES ([Kamikochi Map][hike-map]) ([Trekking Guide][trek-guide])
 
 -   \[3 - 4 days\] [Panorama Ginza Trail][panorama-ginza] ([Map][panorama-ginza-map]) ends at [Nakabusa Onsen][nakabusa-onsen]
 -   \[2- 3 days\] [Mt Hotaka Loop][mt-hotaka] similar to the reddit one you shared
@@ -41,14 +81,14 @@ Jul 7: Flight back to Singapore.
 
 ## ACCOMS INFORMATION ([here][accom-info])
 
-## ESTIMATED COSTS PER PAX FOR 6N = $1600
+## ESTIMATED COSTS PER PAX FOR 6N = $1800
 
 -   Flights =$600
 -   Bus/Train =$250
 -   \[4N\] Tent space = $100
 -   \[1N\] Onsen + Breakfast + Dinner = $150
--   \[2N\] Tokyo = $200
--   Others/Food = $300
+-   \[3-4N\] Tokyo = $300
+-   Others/Food = $400
 
 ## SUGGESTED TREKS FOR NICHOLAS (Flights not included)
 
@@ -61,12 +101,26 @@ Jul 7: Flight back to Singapore.
 
 Japan is kinda expensive since we have to pay for campgrounds which is $20 per pax and accommodations is like $100 per pax. I am okay to KIV but putting the resources here if we are interested next time. On other hand, there are planned hiking treks that looks really reasonable and cool.
 
+[nrt-to-shinjuku]: https://tokyocheapo.com/travel/narita-to-shinjuku/
+[shinjuku-accoms]: https://booking.com/b463dc7456153d
+[yamarent]: https://www.yamarent.com/en?language=en
+[lbreath]: https://goo.gl/maps/TC7o16L62ei5oeJ68
+[dakasawa]: https://thejapanalps.com/en/mountain-hut/takesawagoya/
+[karasawa]: https://thejapanalps.com/en/mountain-hut/karasawahyutte/
+[chogatake]: https://thejapanalps.com/en/mountain-hut/chogatake/
+[daiten-sou]: https://thejapanalps.com/en/mountain-hut/daitenso/
+[ariake-sou]: https://www.enzanso.co.jp/ariakeso
 [train-pass]: https://www.jreast.co.jp/e/eastpass_n/index.html
 [train-bus]: https://www.alpico.co.jp/en/timetable/kamikochi/r-matsumoto-kamikochi/?utm_source=kamikochi.org&utm_medium=banner&utm_campaign=kamikochi_official_global
-[bus-tokyo]: https://willerexpress.com/en/bus_search/tokyo/all/nagano/kamikochi/ym_202306/day_28/?stockNumberMale=1&stockNumberFemale=1
+[bus-kamikochi]: https://willerexpress.com/en/bus_search/tokyo/all/nagano/kamikochi/ym_202306/day_28/?stockNumberMale=1&stockNumberFemale=1
+[climbing-bus]: https://bus.maitabi.jp/tour_catsearch.html?departure=1&month=7&area=17&style=3&page=1
+[bus-hotaka]: https://willerexpress.com/en/bus_search/nagano/azumino/tokyo/all/
+[alpico]: http://sawayaka.alpico.co.jp/
 [hike-map]: https://www.hikemasterjapan.com/_files/ugd/60507d_b5b49614a7f740b98684e04c7a4e462a.pdf?index=true
+[trek-guide]: https://www.kamikochi.org/plan/trekking
+[trek-itinerary]: https://www.pref.nagano.lg.jp/kankoki/smartphone/trekking.html
 [panorama-ginza]: https://www.hikemasterjapan.com/panoramaginza
-[panorama-ginza-map]: https://www.google.com/maps/dir/Kamikochi+Bus+Terminal,+Kamikochi+Azumi,+Matsumoto,+Nagano,+Japan/Nakabusa+Hot+Spring,+7226+Hotakaariake,+Azumino,+Nagano+399-8301,+Japan/@36.2483306,137.5937119,10.83z/data=!4m14!4m13!1m5!1m1!1s0x601d45d815c2e51b:0x902a05703fc8db08!2m2!1d137.6348129!2d36.2460612!1m5!1m1!1s0x601d5d724d751b35:0xd49cb454ccd296d0!2m2!1d137.7466455!2d36.3942214!3e2?hl=en
+[panorama-ginza-map]: https://www.hikemasterjapan.com/panoramaginza?pgid=klt8yoam2-ea643086-d288-49eb-827a-1d623382ee00
 [nakabusa-onsen]: https://thejapanalps.com/en/access-nakabusa/
 [mt-hotaka]: https://www.hikemasterjapan.com/hotaka
 [accom-info]: https://thejapanalps.com/en/cottage-hotel/cottage-camping/
