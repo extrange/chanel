@@ -10,7 +10,7 @@
 
 Jun 28, Wed:
 
--   Flight from Singapore to Tokyo, Arrival in the morning
+-   1250 - 0900 (7hr 10 min) Flight from Singapore to Tokyo Narita
 -   [Transport to Shinjuku][nrt-to-shinjuku]
 -   Purchase or rent mountaineering gear and supplies at Shinjuku ([Yamarent][yamarent], [L-breath][lbreath], 7-eleven, Don Quijote)
 -   Eat Ichiran Ramen, Explore Kabukicho, Omoide Yokocho in Shinjuku
@@ -69,12 +69,19 @@ Jul 5, Wed:
 
 Jul 6, Thu:
 
--   Flight back to Singapore
--   Optional additional day at Tokyo
+-   1700 - 2320 (7hr 20min) Tokyo Narita to Singapore
 
 ## Camping Gear
 
+### Equipment
+
+- [ ] 50L Backpack
+  - Osprey Aura 50 on [carousell][aura 50] ($95, Atmos is for men)
+  - Osprey Viva 50 on [carousell][viva-50] ($130)
+
 ### Food
+
+Pack breakfast/dinner into individual ziplock containers. We can do this in advance.
 
 -   Carbs: Oats, rice, lentils, bread
 -   Protein: Canned tuna, salmon
@@ -150,3 +157,5 @@ Japan is kinda expensive since we have to pay for campgrounds which is $20 per p
 [north-africa-trek]: https://sgtrek.com/event/climb-mt-toubkal-2023/
 [russia-trek]: https://sgtrek.com/event/mt-elbrus-classic-south-route-2023/
 [tajikistan-trek]: https://sgtrek.com/event/guided-expeditions-to-lenin-peak-2023/
+[aura 50]: https://www.carousell.sg/p/osprey-aura-50-backpack-1099245763/
+[viva-50]: https://www.carousell.sg/p/osprey-viva-50-pack-in-cool-blue-1219397561/
