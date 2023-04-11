@@ -3,7 +3,7 @@
 ## Todo
 
 -   [ ] Book flights
--   [ ] Book bus
+-   [ ] Book Bus
 -   [ ] Book accomodation
 -   [ ] Plan packing
 
@@ -11,7 +11,7 @@
 
 Jun 28, Wed:
 
--   1250 - 0900 (7hr 10 min) Flight from Singapore to Tokyo Narita
+-   1250-0900 Flight from Singapore to Tokyo, Arrival in the morning
 -   [Transport to Shinjuku][nrt-to-shinjuku]
 -   Purchase or rent mountaineering gear and supplies at Shinjuku ([Yamarent][yamarent], [L-breath][lbreath], 7-eleven, Don Quijote)
 -   Eat Ichiran Ramen, Explore Kabukicho, Omoide Yokocho in Shinjuku
@@ -19,7 +19,7 @@ Jun 28, Wed:
 
 Jun 29, Thu (Total Trek Time: 2.5hrs):
 
--   0715-1200 Bus from Shinjuku Expressway Bus Terminal to Kamikochi Bus terminal ([willer][willer], [alpico][alpico])
+-   0715-1200 Bus from Shinjuku Expressway Bus Terminal to Kamikochi Bus terminal ([willer][bus-kamikochi], [alpico][alpico])
 -   Lunch at Kamikochi, Pick up a map from the info centre, Stock up on any supplies you may need, Water is free here
 -   Fill out [mountain climbing card][trek-itinerary] and put it in the box at the start of the Dakasawa trailhead (1,505m)
 -   Hike to Dakasawa Mountain Hut (2 hours 30 minutes, 2,165m)
@@ -35,7 +35,7 @@ Jun 30, Fri (Total Trek Time: 8hrs):
 -   Overnight at [Karasawa Hut, Water point][karasawa]
 
 Jul 1, Sat (Total Trek Time: 6hrs):
-**Decision Point to turn back to Kamikochi**
+**Decision Point to turn back and go back down to Kamikochi**
 
 -   Hike along Yoku Valley (2 hours, 1,620m)
 -   Hike through steep forest to Yokoo Junction (3 hours 40 minutes)
@@ -69,37 +69,8 @@ Jul 5, Wed:
 Jul 6, Thu:
 
 -   Souvenir shopping
--   1700 - 2320 (7hr 20min) Tokyo Narita to Singapore
-
-## Camping Gear
-
-### Equipment
-
--   [ ] 50L Backpack
-    -   Osprey Aura 50 on [carousell][aura 50] ($95, Atmos is for men)
-    -   Osprey Viva 50 on [carousell][viva-50] ($130)
-
-### Food
-
-Pack breakfast/dinner into individual ziplock containers. We can do this in advance.
-
--   Carbs: Oats, rice, pita bread
--   Protein: Lentils, Canned tuna, salmon
--   Snacks:
-    -   **Tortilla wrap + peanut butter**
-    -   Granola
-    -   Nuts and seeds
-    -   Dried fruits
-    -   Fresh fruit (minimal as heavy)
--   Soup satchets (e.g. miso, mushroom, corn)
-
-### Others
-
--   Water filter
--   Compass
--   Physical map
--   Powerbank
--   Gaia maps app
+-   Flight back to Singapore
+-   Optional additional day at Tokyo
 
 ## SUGGESTED HIKES ([Kamikochi Map][hike-map]) ([Trekking Guide][trek-guide])
 
@@ -110,14 +81,14 @@ Pack breakfast/dinner into individual ziplock containers. We can do this in adva
 
 ## ACCOMS INFORMATION ([here][accom-info])
 
-## ESTIMATED COSTS PER PAX FOR 6N = $1800
+## ESTIMATED COSTS PER PAX FOR 6N = $1600
 
 -   Flights =$600
 -   Bus/Train =$250
 -   \[4N\] Tent space = $100
 -   \[1N\] Onsen + Breakfast + Dinner = $150
--   \[3-4N\] Tokyo = $300
--   Others/Food = $400
+-   \[3-4N\] Tokyo = $250
+-   Others/Food = $250
 
 ## SUGGESTED TREKS FOR NICHOLAS (Flights not included)
 
@@ -131,31 +102,31 @@ Pack breakfast/dinner into individual ziplock containers. We can do this in adva
 Japan is kinda expensive since we have to pay for campgrounds which is $20 per pax and accommodations is like $100 per pax. I am okay to KIV but putting the resources here if we are interested next time. On other hand, there are planned hiking treks that looks really reasonable and cool.
 
 [nrt-to-shinjuku]: https://tokyocheapo.com/travel/narita-to-shinjuku/
-[shinjuku-granbell]: https://secure.booking.com/confirmation.en-gb.html?aid=337862;auth_key=CGyWzSDRKiH2Akaf&;source=conf_email;pbsource=conf_email_modify;pbtrack=email_mainCTA;from_conf_email_tracking=1
-[nakabusa]: https://www.hitou.or.jp/customer/mypage/reserve_detail?reserveNumber=HM00091429
-[azumino]: https://azumino-e-tabi.net/en/sightseeingtop/bike
+[train-pass]: https://www.jreast.co.jp/e/eastpass_n/index.html
+[train-bus]: https://www.alpico.co.jp/en/timetable/kamikochi/r-matsumoto-kamikochi/?utm_source=kamikochi.org&utm_medium=banner&utm_campaign=kamikochi_official_global
+[bus-kamikochi]: https://willerexpress.com/en/bus_search/tokyo/all/nagano/kamikochi/ym_202306/day_28/?stockNumberMale=1&stockNumberFemale=1
+[climbing-bus]: https://bus.maitabi.jp/tour_catsearch.html?departure=1&month=7&area=17&style=3&page=1
+[bus-hotaka]: https://willerexpress.com/en/bus_search/nagano/azumino/tokyo/all/
+[alpico]: http://sawayaka.alpico.co.jp/
 [yamarent]: https://www.yamarent.com/en?language=en
 [lbreath]: https://goo.gl/maps/TC7o16L62ei5oeJ68
+
 [dakasawa]: https://thejapanalps.com/en/mountain-hut/takesawagoya/
 [karasawa]: https://thejapanalps.com/en/mountain-hut/karasawahyutte/
 [chogatake]: https://thejapanalps.com/en/mountain-hut/chogatake/
 [daiten-sou]: https://thejapanalps.com/en/mountain-hut/daitenso/
-[blueberry]: http://www.azm.janis.or.jp/~azumino1/
-[willer]: https://willerexpress.com/en/bus_search/tokyo/all/nagano/kamikochi/ym_202306/day_28/?stockNumberMale=1&stockNumberFemale=1
-[alpico]: http://sawayaka.alpico.co.jp/
-[climbing-bus]: https://bus.maitabi.jp/tour_catsearch.html?departure=1&month=7&area=17&style=3&page=1
-[bus-hotaka]: https://willerexpress.com/en/bus_search/nagano/azumino/tokyo/all/
+[ariake-sou]: https://www.enzanso.co.jp/ariakeso
+
+[nakabusa-onsen]: https://thejapanalps.com/en/access-nakabusa/
+
 [hike-map]: https://www.hikemasterjapan.com/_files/ugd/60507d_b5b49614a7f740b98684e04c7a4e462a.pdf?index=true
 [trek-guide]: https://www.kamikochi.org/plan/trekking
 [trek-itinerary]: https://www.pref.nagano.lg.jp/kankoki/smartphone/trekking.html
 [panorama-ginza]: https://www.hikemasterjapan.com/panoramaginza
 [panorama-ginza-map]: https://www.hikemasterjapan.com/panoramaginza?pgid=klt8yoam2-ea643086-d288-49eb-827a-1d623382ee00
-[nakabusa-onsen]: https://thejapanalps.com/en/access-nakabusa/
 [mt-hotaka]: https://www.hikemasterjapan.com/hotaka
 [accom-info]: https://thejapanalps.com/en/cottage-hotel/cottage-camping/
 [india-trek]: https://sgtrek.com/event/kashmir-tarsar-marsar-trek-2023/
 [north-africa-trek]: https://sgtrek.com/event/climb-mt-toubkal-2023/
 [russia-trek]: https://sgtrek.com/event/mt-elbrus-classic-south-route-2023/
 [tajikistan-trek]: https://sgtrek.com/event/guided-expeditions-to-lenin-peak-2023/
-[aura 50]: https://www.carousell.sg/p/osprey-aura-50-backpack-1099245763/
-[viva-50]: https://www.carousell.sg/p/osprey-viva-50-pack-in-cool-blue-1219397561/
