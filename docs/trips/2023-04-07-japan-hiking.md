@@ -2,86 +2,61 @@
 
 ## Todo
 
--   [ ] Book flights
+-   [x] Book flights
+-   [ ] Buy travel insurance
 -   [ ] Book bus
 -   [ ] Book accomodation
--   [ ] Plan packing
+-   [ ] Buy food (see below)
+-   Buy camping gear:
+    -   [ ] Portable water filter (Nicholas)
+    -   [ ] Sleeping bag (Chanel)
+    -   [ ] Tent (Nicholas)
+-   [ ] Plan packing list and pack
 
-## Itinerary
+### Packing List (in progress)
 
-Jun 28, Wed:
+Food:
 
--   1250 - 0900 (7hr 10 min) Flight from Singapore to Tokyo Narita
--   [Transport to Shinjuku][nrt-to-shinjuku]
--   Purchase or rent mountaineering gear and supplies at Shinjuku ([Yamarent][yamarent], [L-breath][lbreath], 7-eleven, Don Quijote)
--   Eat Ichiran Ramen, Explore Kabukicho, Omoide Yokocho in Shinjuku
--   Overnight at [Shinjuku Granbell Hotel (Reserved)][shinjuku-granbell]
+-   Food (see below)
 
-Jun 29, Thu (Total Trek Time: 2.5hrs):
+Navigation:
 
--   0715-1200 Bus from Shinjuku Expressway Bus Terminal to Kamikochi Bus terminal ([willer][willer], [alpico][alpico])
--   Lunch at Kamikochi, Pick up a map from the info centre, Stock up on any supplies you may need, Water is free here
--   Fill out [mountain climbing card][trek-itinerary] and put it in the box at the start of the Dakasawa trailhead (1,505m)
--   Hike to Dakasawa Mountain Hut (2 hours 30 minutes, 2,165m)
--   Overnight at [Dakasawa Mountain Hut][dakasawa]
--   Notes: Reservations are not required for tent sites (First Come First Serve Basis)
+-   Compass
+-   Gaia maps app
+-   Physical map (print)
 
-Jun 30, Fri (Total Trek Time: 8hrs):
+Clothing:
 
--   Hike up to Mount Mae-Hotaka (3 hours 30 minutes, 3,090m)
--   Hike to Mount Oku-Hotaka-Dake(2 hours 10 minutes, 3,190m)
--   Hike to Mount Hotaka (30min, 2,983m)
--   Hike to Karasawa Hut (2 hours 10 minutes, 2,309m)
--   Overnight at [Karasawa Hut, Water point][karasawa]
+-   Fleece
+-   Gloves
+-   Socks
+-   Sunglasses
+-   Sunscreen
+-   Thermal wear
+-   Trekking shoes
+-   Waterproof jacket
 
-Jul 1, Sat (Total Trek Time: 6hrs):
-**Decision Point to turn back to Kamikochi**
+Camping Gear:
 
--   Hike along Yoku Valley (2 hours, 1,620m)
--   Hike through steep forest to Yokoo Junction (3 hours 40 minutes)
--   Hike to Chogatake Hutte Mountain Hut (30 minutes, 2,677m)
--   Overnight at [Chogatake Hutte Mountain Hut][chogatake]
+-   Sleeping bag
+-   Sleeping bag liner
+-   Stove
+-   Camping Gas
+-   Water filter (for testing)
 
-Jul 2, Sun (Total Trek Time: 9hrs):
+Miscellaneous:
 
--   Hike to Mount Jonen (4 hours 45 minutes, 2,857m)
--   Hike then to Mount Otensho/ Daitenjo (4 hours 10 minutes, 2,760m)
--   Overnight at [Daitenso Mountain Hut][daiten-sou]
-
-Jul 3, Mon (Total Trek Time: 6hrs):
-
--   Hike to Mount Tsbakuro (3 hours, 2,763m)
--   Head down to Ariake-sou (3 hours)
--   Overnight at [Nakabusa (Reserved)][nakabusa] Shared Room max 4pax (¥13,500/pax)
-
-Jul 4, Tue:
-
--   Regular bus from Nakabusan Onsen to Hotaka Station (55min)
--   Cycling at [Azumino][azumino], Visit Daio Wasabi Farm, Foot Hot Spring, Swiss Village, Museums, [Blueberry Picking][blueberry]
--   [Express bus from Azumino-Hotaka to Shinjuku][bus-hotaka]
--   Overnight at Tokyo/Hotaka
--   Note: Only available on Sundays - 1250 [Climbing Bus][climbing-bus] from Nakabusan Onsen to Tokyo
-
-Jul 5, Wed:
-
--   Overnight at Tokyo
-
-Jul 6, Thu:
-
--   Souvenir shopping
--   1700 - 2320 (7hr 20min) Tokyo Narita to Singapore
-
-## Camping Gear
-
-### Equipment
-
--   [ ] 50L Backpack
-    -   Osprey Aura 50 on [carousell][aura 50] ($95, Atmos is for men)
-    -   Osprey Viva 50 on [carousell][viva-50] ($130)
+-   Powerbank
+-   Passport
+-   Earplugs
+-   Eye mask
+-   Camera (KIV)
 
 ### Food
 
 Pack breakfast/dinner into individual ziplock containers. We can do this in advance.
+
+Ideas:
 
 -   Carbs: Oats, rice, pita bread
 -   Protein: Lentils, Canned tuna, salmon
@@ -93,40 +68,106 @@ Pack breakfast/dinner into individual ziplock containers. We can do this in adva
     -   Fresh fruit (minimal as heavy)
 -   Soup satchets (e.g. miso, mushroom, corn)
 
-### Others
+## Itinerary (9 days)
 
--   Water filter
--   Compass
--   Physical map
--   Powerbank
--   Gaia maps app
+Jun 29, Thu:
 
-## SUGGESTED HIKES ([Kamikochi Map][hike-map]) ([Trekking Guide][trek-guide])
+-   2215 - 0615 (7hr) Flight from Singapore T1 to Tokyo Narita T1 ([TR 808][itinerary])
+-   [Transport to Shinjuku][nrt-to-shinjuku]
+-   Purchase or rent mountaineering gear and supplies at Shinjuku ([Yamarent][yamarent], [L-breath][lbreath], 7-eleven, Don Quijote)
+-   Eat Ichiran Ramen, Explore Kabukicho, Omoide Yokocho in Shinjuku
+-   Overnight at [Shinjuku Granbell Hotel (Reserved)][shinjuku-granbell]
+
+Jun 30, Fri (Total Trek Time: 2.5hrs):
+
+-   0715-1200 Bus from Shinjuku Expressway Bus Terminal to Kamikochi Bus terminal ([willer][willer], [alpico][alpico])
+-   Lunch at Kamikochi, Pick up a map from the info centre, Stock up on any supplies you may need, Water is free here
+-   Fill out [mountain climbing card][trek-itinerary] and put it in the box at the start of the Dakasawa trailhead (1,505m)
+-   Hike to Dakasawa Mountain Hut (2 hours 30 minutes, 2,165m)
+-   Overnight at [Dakasawa Mountain Hut][dakasawa]
+-   Notes: Reservations are not required for tent sites (First Come First Serve Basis)
+
+Jul 1, Sat (Total Trek Time: 8hrs):
+
+-   Hike up to Mount Mae-Hotaka (3 hours 30 minutes, 3,090m)
+-   Hike to Mount Oku-Hotaka-Dake(2 hours 10 minutes, 3,190m)
+-   Hike to Mount Hotaka (30min, 2,983m)
+-   Hike to Karasawa Hut (2 hours 10 minutes, 2,309m)
+-   Overnight at [Karasawa Hut, Water point][karasawa]
+
+Jul 2, Sun (Total Trek Time: 6hrs):
+
+**Decision Point to turn back to Kamikochi**
+
+-   Hike along Yoku Valley (2 hours, 1,620m)
+-   Hike through steep forest to Yokoo Junction (3 hours 40 minutes)
+-   Hike to Chogatake Hutte Mountain Hut (30 minutes, 2,677m)
+-   Overnight at [Chogatake Hutte Mountain Hut][chogatake]
+
+Jul 3, Mon (Total Trek Time: 9hrs):
+
+-   Hike to Mount Jonen (4 hours 45 minutes, 2,857m)
+-   Hike then to Mount Otensho/ Daitenjo (4 hours 10 minutes, 2,760m)
+-   Overnight at [Daitenso Mountain Hut][daiten-sou]
+
+Jul 4, Tue (Total Trek Time: 6hrs):
+
+-   Hike to Mount Tsbakuro (3 hours, 2,763m)
+-   Head down to Ariake-sou (3 hours)
+-   Overnight at [Nakabusa (Reserved)][nakabusa] Shared Room max 4pax (¥13,500/pax)
+
+Jul 5, Wed:
+
+-   Regular bus from Nakabusan Onsen to Hotaka Station (55min)
+-   Cycling at [Azumino][azumino], Visit Daio Wasabi Farm, Foot Hot Spring, Swiss Village, Museums, [Blueberry Picking][blueberry]
+-   [Express bus from Azumino-Hotaka to Shinjuku][bus-hotaka]
+-   Overnight at Tokyo/Hotaka
+-   Note: Only available on Sundays - 1250 [Climbing Bus][climbing-bus] from Nakabusan Onsen to Tokyo
+
+Jul 6, Thu:
+
+-   [ ] Itinerary TBD
+
+Jul 7, Fri:
+
+-   [ ] Itinerary TBD
+
+Jul 8, Sat:
+
+-   [ ] Itinerary TBD
+
+Jul 9, Sun:
+
+-   0815 - 1350 (6h 35min) Flight from Tokyo Narita T1 to Singapore T1 ([TR 809][itinerary])
+
+## Suggested Hikes
+
+[Kamikochi Map][hike-map]) ([trekking guide][trek-guide])
 
 -   \[3 - 4 days\] [Panorama Ginza Trail][panorama-ginza] ([Map][panorama-ginza-map]) ends at [Nakabusa Onsen][nakabusa-onsen]
 -   \[2- 3 days\] [Mt Hotaka Loop][mt-hotaka] similar to the reddit one you shared
 -   Or combined
 -   Alternatively, Mount Fuji
 
-## ACCOMS INFORMATION ([here][accom-info])
+## Accomodation ([here][accom-info])
 
-## ESTIMATED COSTS PER PAX FOR 6N = $1800
+## Cost: ~$1800
 
--   Flights =$600
--   Bus/Train =$250
--   \[4N\] Tent space = $100
--   \[1N\] Onsen + Breakfast + Dinner = $150
--   \[3-4N\] Tokyo = $300
--   Others/Food = $400
+-   Flights: $615
+-   Bus/Train: ~$250
+-   \[4N\] Tent space: ~$100
+-   \[1N\] Onsen + Breakfast + Dinner: ~$150
+-   \[3-4N\] Tokyo: ~$300
+-   Others/Food: ~$400
 
-## SUGGESTED TREKS FOR NICHOLAS (Flights not included)
+## Suggested Treks for Nicholas (Flights not included)
 
 -   \[8D7N\] [India Tarsar Marsar Trek 4021m in Aug for SGD575][india-trek]
 -   \[7D6N\] [North Africa Jebel Toubkal 4,167m for SGD899][north-africa-trek]
 -   \[9D8N\] [Russia Mount Elbrus 5642m for SGD1675][russia-trek]
 -   \[20D19N\] [Tajikistan Lenin Peak 7,134m in Jul for USD2200][tajikistan-trek]
 
-## THOUGHTS & NOTES
+## Thoughts, Notes
 
 Japan is kinda expensive since we have to pay for campgrounds which is $20 per pax and accommodations is like $100 per pax. I am okay to KIV but putting the resources here if we are interested next time. On other hand, there are planned hiking treks that looks really reasonable and cool.
 
@@ -159,3 +200,4 @@ Japan is kinda expensive since we have to pay for campgrounds which is $20 per p
 [tajikistan-trek]: https://sgtrek.com/event/guided-expeditions-to-lenin-peak-2023/
 [aura 50]: https://www.carousell.sg/p/osprey-aura-50-backpack-1099245763/
 [viva-50]: https://www.carousell.sg/p/osprey-viva-50-pack-in-cool-blue-1219397561/
+[itinerary]: /static/2023-04-07/itinerary.pdf
