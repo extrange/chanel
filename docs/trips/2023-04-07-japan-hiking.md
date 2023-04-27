@@ -1,5 +1,10 @@
 # Japan Hiking Planning
 
+<figure style="max-width:300px">
+  <a href="/static/2023-04-07/map-highlighted.jpg"><img src="/static/2023-04-07/map-highlighted.jpg" alt="Hiking Map" loading="lazy"/></a>
+  <figcaption>Panorama Ginza Trail (click to enlarge)<figcaption/>
+</figure>
+
 ## Todo
 
 -   [x] Book flights
@@ -140,14 +145,14 @@ Jul 9, Sun:
 
 -   0815 - 1350 (6h 35min) Flight from Tokyo Narita T1 to Singapore T1 ([TR 809][itinerary])
 
-## Suggested Hikes
-
-[Kamikochi Map][hike-map]) ([trekking guide][trek-guide])
+## Maps
 
 -   \[3 - 4 days\] [Panorama Ginza Trail][panorama-ginza] ([Map][panorama-ginza-map]) ends at [Nakabusa Onsen][nakabusa-onsen]
+
+Others:
+
+-   [Kamikochi Map][hike-map] ([trekking guide][trek-guide])
 -   \[2- 3 days\] [Mt Hotaka Loop][mt-hotaka] similar to the reddit one you shared
--   Or combined
--   Alternatively, Mount Fuji
 
 ## Accomodation ([here][accom-info])
 
@@ -190,7 +195,7 @@ Japan is kinda expensive since we have to pay for campgrounds which is $20 per p
 [trek-guide]: https://www.kamikochi.org/plan/trekking
 [trek-itinerary]: https://www.pref.nagano.lg.jp/kankoki/smartphone/trekking.html
 [panorama-ginza]: https://www.hikemasterjapan.com/panoramaginza
-[panorama-ginza-map]: https://www.hikemasterjapan.com/panoramaginza?pgid=klt8yoam2-ea643086-d288-49eb-827a-1d623382ee00
+[panorama-ginza-map]: https://static.wixstatic.com/media/60507d_88f3c201ff294078b635af703a2eae9e~mv2.jpg?dn=Kamikochi%20Map%20Azumino%20Panorama%20Ginza.jpg
 [nakabusa-onsen]: https://thejapanalps.com/en/access-nakabusa/
 [mt-hotaka]: https://www.hikemasterjapan.com/hotaka
 [accom-info]: https://thejapanalps.com/en/cottage-hotel/cottage-camping/
