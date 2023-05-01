@@ -11,18 +11,22 @@
 -   [ ] Buy travel insurance
 -   [ ] Book bus
 -   [ ] Book accomodation
--   [ ] Buy food (see below)
+-   [ ] Decide, buy & pack food (see below)
 -   Buy camping gear:
     -   [ ] Portable water filter (Nicholas)
+    -   [x] Tent (Nicholas)
     -   [ ] Sleeping bag (Chanel)
-    -   [ ] Tent (Nicholas)
--   [ ] Plan packing list and pack
+    -   [x] Camping chair
+-   [x] Plan packing list
 
-### Packing List (in progress)
+## To buy in Japan
 
-Food:
+-   [ ] Camping Gas
+-   [ ] More food e.g. bento boxes, fruits
 
--   Food (see below)
+### Packing List
+
+[Food (see below)](#food)
 
 Navigation:
 
@@ -33,45 +37,95 @@ Navigation:
 Clothing:
 
 -   Fleece
+-   Down jacket
 -   Gloves
 -   Socks
 -   Sunglasses
 -   Sunscreen
--   Thermal wear
+-   Thermal wear top
+-   Thermal wear bottom
+-   Underwear
 -   Trekking shoes
+-   Slippers/Crocs (optional)
 -   Waterproof jacket
+
+Toiletries:
+
+-   Soap
+-   Shampoo
+-   Toothbrush, toothpaste, shaver
+-   Moisturizer
+-   Lip balm
+-   Wet wipes
+-   Hand sanitizer
+-   Detergent (wash clothes)
 
 Camping Gear:
 
+-   Backpack 60L
+-   Head lamp with battery
 -   Sleeping bag
 -   Sleeping bag liner
+-   Tent
 -   Stove
+-   Penknife
+-   Pots
+-   Cutlery
+-   Detergent
 -   Camping Gas
+-   Water bottle 2L
 -   Water filter (for testing)
+-   Water purification tablets
 
 Miscellaneous:
 
 -   Powerbank
+-   Travel adaptor
+-   Handphone, wallet
 -   Passport
 -   Earplugs
 -   Eye mask
+-   Kindle
+-   First aid kit (plasters, dressings, diarrhea meds)
+-   Plastic bags
 -   Camera (KIV)
 
 ### Food
 
-Pack breakfast/dinner into individual ziplock containers. We can do this in advance.
+Pack lunch and dinner into individual ziplock containers. Breakfast can be assembled in the morning. We can do this in advance, before leaving for the trip.
 
 Ideas:
 
--   Carbs: Oats, rice, pita bread
--   Protein: Lentils, Canned tuna, salmon
+-   Carbs:
+    -   Oats
+    -   Rice
+    -   Quinoa
+    -   Lentils
+    -   Bread (will spoil however)
+-   Protein:
+    -   Canned tuna, salmon
+-   Fibre (not so important while camping):
+    -   [Dehydrated food][dehydrate-food], e.g. vegetables (mixed carrots/peas/corn)
+    -   Lentils/beans have lots of fibre
 -   Snacks:
     -   **Tortilla wrap + peanut butter**
     -   Granola
     -   Nuts and seeds
     -   Dried fruits
     -   Fresh fruit (minimal as heavy)
+    -   Marshmallows to toast
 -   Soup satchets (e.g. miso, mushroom, corn)
+-   Spices:
+    -   Cinnamon (goes well with hot chocolate)
+    -   Pepper
+    -   Cheese?
+    -   Italian seasoning
+    -   Cajun seasoning
+    -   Curry powder
+    -   Paprika
+-   Drinks:
+    -   Tea
+    -   Hot chocolate
 
 ## Itinerary (9 days)
 
@@ -211,3 +265,4 @@ Japan is kinda expensive since we have to pay for campgrounds which is $20 per p
 [russia-trek]: https://sgtrek.com/event/mt-elbrus-classic-south-route-2023/
 [tajikistan-trek]: https://sgtrek.com/event/guided-expeditions-to-lenin-peak-2023/
 [itinerary]: /static/2023-04-07/itinerary.pdf
+[dehydrate-food]: https://www.rei.com/learn/expert-advice/how-to-dehydrate-food.html
