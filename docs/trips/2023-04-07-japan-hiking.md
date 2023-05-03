@@ -22,6 +22,7 @@
 ## To buy in Japan
 
 -   [ ] Camping Gas
+-   [ ] Lighter
 -   [ ] More food e.g. bento boxes, fruits
 
 ### Packing List
@@ -88,6 +89,7 @@ Miscellaneous:
 -   Kindle
 -   First aid kit (plasters, dressings, diarrhea meds)
 -   Plastic bags
+-   Duct tape?
 -   Camera (KIV)
 
 ### Food
