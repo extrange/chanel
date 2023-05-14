@@ -23,16 +23,14 @@
 
 -   [ ] Camping Gas
 -   [ ] Lighter
--   [ ] More food e.g. bento boxes, fruits
+-   [ ] [Food (see below)](#food)
 
 ### Packing List
-
-[Food (see below)](#food)
 
 Navigation:
 
 -   Compass
--   Gaia maps app
+-   Gaia maps app **with map files loaded**
 -   Physical map (print)
 
 Clothing:
@@ -94,40 +92,51 @@ Miscellaneous:
 
 ### Food
 
-Pack lunch and dinner into individual ziplock containers. Breakfast can be assembled in the morning. We can do this in advance, before leaving for the trip.
+Pack lunch and dinner into individual ziplock containers. Breakfast can be assembled in the morning.
 
-Ideas:
+Shopping list (1 meal is for 2 people):
 
--   Carbs:
-    -   Oats
-    -   Rice
-    -   Quinoa
-    -   Lentils
-    -   Bread (will spoil however)
--   Protein:
-    -   Canned tuna, salmon
--   Fibre (not so important while camping):
-    -   [Dehydrated food][dehydrate-food], e.g. vegetables (mixed carrots/peas/corn)
-    -   Lentils/beans have lots of fibre
--   Snacks:
-    -   **Tortilla wrap + peanut butter**
-    -   Granola
-    -   Nuts and seeds
-    -   Dried fruits
-    -   Fresh fruit (minimal as heavy)
-    -   Marshmallows to toast
--   Soup satchets (e.g. miso, mushroom, corn)
--   Spices:
-    -   Cinnamon (goes well with hot chocolate)
-    -   Pepper
-    -   Cheese?
-    -   Italian seasoning
-    -   Cajun seasoning
-    -   Curry powder
-    -   Paprika
--   Drinks:
-    -   Tea
-    -   Hot chocolate
+-   [ ] Oats (2 meals, ~1kg)
+-   [ ] Rice (2 meals, ~1kg)
+-   [ ] Pasta (1 meal, ~500g)
+-   [ ] Macaroni (1 meal, ~400g)
+-   [ ] Panmee (1 packet)
+-   [ ] Risotto (1 packet)
+-   [ ] Tortilla (3 meals)
+-   [ ] Peanut butter
+-   [ ] Chocolate (for tortilla, fondue)
+-   [ ] Biscuits (1 meal)
+-   [ ] Cheese (for biscuits)
+-   [ ] Canned tuna, salmon
+-   [ ] Granola (1kg)
+-   [ ] Dried fruit/nuts (1kg) - incl. dried banana
+-   [ ] Dried mushroom
+-   [ ] Fresh fruit
+-   [ ] Marshmallows
+-   [ ] Soup satchets (miso, mushroom, ?corn)
+-   [ ] Cinnamon
+-   [ ] Olive oil
+-   [ ] Pepper
+-   [ ] Italian seasoning
+-   [ ] Seaweed
+-   [ ] Tea
+-   [ ] Hot chocolate
+
+KIV:
+
+-   [ ] Dehydrated vegetables?
+
+## Meal Plan
+
+There are 12 major meals (BLD) we have to prepare.
+
+|                   | B                    | L                           | S                | D                                |
+| ----------------- | -------------------- | --------------------------- | ---------------- | -------------------------------- |
+| Jul 1 (Sat)       | -                    | - (@ Kamikochi)             | Fresh fruits     | Pasta w/herbs                    |
+| Jul 2 (Sun)       | Tortilla tomato soup | PB Banana Cinnamon Tortilla | Granola/chocs    | Miso Noodle Soup                 |
+| Jul 3 (Mon)       | Oats w/ fruit/nuts   | Biscuits + Cheese:cheese:   | Dried fruit/nuts | Macaroni mushroom soup           |
+| Jul 4 (Tue):star: | Rice in miso soup    | Seaweed Onigiri             | Granola/chocs    | Risotto+Panmee w/choc fondue MMs |
+| Jul 5 (Wed)       | Oats w/ fruit/nuts   | PB Granola Tortilla         | Dried fruit/nuts | -                                |
 
 ## Itinerary (9 days)
 
@@ -179,7 +188,7 @@ Jul 5, Wed (Total Trek Time: 6hrs):
 
 -   Hike to Mount Tsbakuro (3 hours, 2,763m)
 -   Head down to Ariake-sou (3 hours)
--   [ ] Overnight at [Nakabusa (TBC)][nakabusa] Shared Room max 4pax (¥13,500/pax)
+-   Overnight at [Nakabusa][nakabusa] Shared Room max 4pax (¥13,500/pax) (book on the spot)
 
 Jul 6, Thu:
 
@@ -198,10 +207,11 @@ Jul 7, Fri:
 Jul 8, Sat:
 
 -   Sourvenir Shopping
--   [ ] Overnight at Tokyo, near Narita airport
+-   [x] Overnight at Tokyo in [Narita Tobu Hotel Airport][airport-hotel]
 
 Jul 9, Sun:
 
+-   0530: Take shuttle bus to Narita T1 ([schedule][airport-shuttle-schedule])
 -   0815 - 1350 (6h 35min) Flight from Tokyo Narita T1 to Singapore T1 ([TR 809][itinerary])
 
 ## Maps
@@ -268,3 +278,5 @@ Japan is kinda expensive since we have to pay for campgrounds which is $20 per p
 [tajikistan-trek]: https://sgtrek.com/event/guided-expeditions-to-lenin-peak-2023/
 [itinerary]: /static/2023-04-07/itinerary.pdf
 [dehydrate-food]: https://www.rei.com/learn/expert-advice/how-to-dehydrate-food.html
+[airport-hotel]: https://www.booking.com/hotel/jp/holiday-inn-tobu-narita.html
+[airport-shuttle-schedule]: https://www.tobuhotel.co.jp/narita/access/pdf/bus_tt_img_airport_02.pdf
