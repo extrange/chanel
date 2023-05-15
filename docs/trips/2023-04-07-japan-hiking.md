@@ -10,20 +10,22 @@
 -   [x] Book flights
 -   [ ] Buy travel insurance
 -   [ ] Book bus
--   [ ] Book accomodation
--   [ ] Decide, buy & pack food (see below)
+-   [ ] Book accomodation, decide itinerary for 6-8 July
+-   [ ] Buy & pack food (see below)
+-   [ ] Load GPX map files into Gaia maps app
+-   [ ] Print physical map (KIV laminate)
 -   Buy camping gear:
-    -   [ ] Portable water filter (Nicholas)
     -   [x] Tent (Nicholas)
     -   [ ] Sleeping bag (Chanel)
+    -   [ ] Merino base layer (Chanel)
     -   [x] Camping chair
 -   [x] Plan packing list
 
 ## To buy in Japan
 
--   [ ] Camping Gas
--   [ ] Lighter
+-   [ ] Camping Gas 250g + 100g ([L-breath Shinjuku][l-breath])
 -   [ ] [Food (see below)](#food)
+-   [ ] 2x 1.5L bottles (backup)
 
 ### Packing List
 
@@ -68,12 +70,12 @@ Camping Gear:
 -   Tent
 -   Stove
 -   Penknife
--   Pots
--   Cutlery
--   Detergent
+-   Pots + Cutlery
+-   Detergent (in bottle)
+-   Sponge
 -   Camping Gas
--   Water bottle 2L
--   Water filter (for testing)
+-   Water bottle (**at least 2L**)
+-   Thermos flask (optional)
 -   Water purification tablets
 
 Miscellaneous:
@@ -89,6 +91,7 @@ Miscellaneous:
 -   Plastic bags
 -   Duct tape?
 -   Camera (KIV)
+-   Laptop/iPad (KIV, only one)
 
 ### Food
 
@@ -280,3 +283,4 @@ Japan is kinda expensive since we have to pay for campgrounds which is $20 per p
 [dehydrate-food]: https://www.rei.com/learn/expert-advice/how-to-dehydrate-food.html
 [airport-hotel]: https://www.booking.com/hotel/jp/holiday-inn-tobu-narita.html
 [airport-shuttle-schedule]: https://www.tobuhotel.co.jp/narita/access/pdf/bus_tt_img_airport_02.pdf
+[l-breath]: https://goo.gl/maps/dee1KP58vdfVVJot7
