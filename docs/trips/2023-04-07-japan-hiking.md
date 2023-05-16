@@ -9,8 +9,9 @@
 
 -   [x] Book flights
 -   [ ] Buy travel insurance
--   [ ] Book bus
--   [ ] Book accomodation, decide itinerary for 6-8 July
+-   [ ] Book bus from Magome to Shinjuku on 7 Jul
+-   [ ] Book Nagiso accomodation for 6 Jul
+-   [ ] Book Tokyo accomodation 7 Jul, plan itinerary
 -   [ ] Buy & pack food (see below)
 -   [ ] Load GPX map files into Gaia maps app
 -   [ ] Print physical map (KIV laminate)
@@ -19,7 +20,9 @@
     -   [ ] Sleeping bag (Chanel)
     -   [ ] Merino base layer (Chanel)
     -   [x] Camping chair
+    -   [ ] Bear bell
 -   [x] Plan packing list
+-   [ ] Japanese Yen (withdraw **a lot**)
 
 ## To buy in Japan
 
@@ -49,6 +52,7 @@ Clothing:
 -   Trekking shoes
 -   Slippers/Crocs (optional)
 -   Waterproof jacket
+-   City attire (T-shirt/jeans/sleeping attire)
 
 Toiletries:
 
@@ -59,7 +63,7 @@ Toiletries:
 -   Lip balm
 -   Wet wipes
 -   Hand sanitizer
--   Detergent (wash clothes)
+-   Powder detergent (to wash clothes)
 
 Camping Gear:
 
@@ -71,7 +75,7 @@ Camping Gear:
 -   Stove
 -   Penknife
 -   Pots + Cutlery
--   Detergent (in bottle)
+-   Liquid detergent (in bottle, small amount)
 -   Sponge
 -   Camping Gas
 -   Water bottle (**at least 2L**)
@@ -139,7 +143,7 @@ There are 12 major meals (BLD) we have to prepare.
 | Jul 2 (Sun)       | Tortilla tomato soup | PB Banana Cinnamon Tortilla | Granola/chocs    | Miso Noodle Soup                 |
 | Jul 3 (Mon)       | Oats w/ fruit/nuts   | Biscuits + Cheese:cheese:   | Dried fruit/nuts | Macaroni mushroom soup           |
 | Jul 4 (Tue):star: | Rice in miso soup    | Seaweed Onigiri             | Granola/chocs    | Risotto+Panmee w/choc fondue MMs |
-| Jul 5 (Wed)       | Oats w/ fruit/nuts   | PB Granola Tortilla         | Dried fruit/nuts | -                                |
+| Jul 5 (Wed)       | Oats w/ fruit/nuts   | PB Granola Tortilla         | Dried fruit/nuts | KIV cook                         |
 
 ## Itinerary (9 days)
 
@@ -191,25 +195,33 @@ Jul 5, Wed (Total Trek Time: 6hrs):
 
 -   Hike to Mount Tsbakuro (3 hours, 2,763m)
 -   Head down to Ariake-sou (3 hours)
--   Overnight at [Nakabusa][nakabusa] Shared Room max 4pax (¥13,500/pax) (book on the spot)
+-   Overnight at [Nakabusa][nakabusa] Shared Room max 4pax (¥13,500/pax for shared room max 4pax, or ¥2000/stay for tent)
 
 Jul 6, Thu:
 
--   Regular bus from Nakabusan Onsen to Hotaka Station (55min)
+-   Regular bus from Nakabusan Onsen to Hotaka Station (55min, [schedule][nakabusa-bus])
+    -   0900, 1045, 1230, 1415, 1615
 -   Cycling from Azumino- Visit Daio Wasabi Farm, Foot Hot Spring, Swiss Village, Museums, (15km) to Matsumoto Castle ([route][azumino])
 -   (Optional) [Blueberry Picking][blueberry]
 -   1630 - 1830 Train from Matsumoto to Nagiso ([route][matsumoto-tsumago])
--   [ ] Overnight at Magome/Tsumago
+-   [ ] Overnight at Nagiso ([suggested accoms, $152][nagiso-accoms])
 
 Jul 7, Fri:
 
--   Magome-Tsumago Trail
--   [ ] 1130-1613 Express bus from Chuodo-Magome to Shinjuku ([route][magome-shinjuku])
+-   Magome-Tsumago Trail (6.6km, 2hr 15min, [gpx file][magome-tsumago]), end at Magome
+-   [ ] 1130-1613 Express bus from Chuodo-Magome ([map][chuodo-magome-bus-stop]) to Shinjuku ([route][magome-shinjuku])
+    -   [ ] Need to book the bus [here][magome-bus] closer to the date (tickets go on sale 10am [1 month, 1 day before the boarding date][magome-bus-info]).
+    -   Parameters:
+        -   From: Nagoya
+        -   To: Tokyo
+        -   Route: Tokyo/Shinjuku <=> Nagoya/Shizuoka/Hamamatsu
+        -   Bus Stop: Chuodo-Magome -> Tokyo Sta.(Nihombashi Side)
+        -   Boarding Date: 2023/07/07
 -   [ ] Overnight at Tokyo
 
 Jul 8, Sat:
 
--   Sourvenir Shopping
+-   Souvenir Shopping
 -   [x] Overnight at Tokyo in [Narita Tobu Hotel Airport][airport-hotel]
 
 Jul 9, Sun:
@@ -284,3 +296,9 @@ Japan is kinda expensive since we have to pay for campgrounds which is $20 per p
 [airport-hotel]: https://www.booking.com/hotel/jp/holiday-inn-tobu-narita.html
 [airport-shuttle-schedule]: https://www.tobuhotel.co.jp/narita/access/pdf/bus_tt_img_airport_02.pdf
 [l-breath]: https://goo.gl/maps/dee1KP58vdfVVJot7
+[nakabusa-bus]: https://azumino-e-tabi.net/pdf/p3-4.pdf
+[magome-tsumago]: /static/2023-04-07/magome-tsumago.gpx
+[nagiso-accoms]: https://www.booking.com/Share-QgwY131
+[magome-bus]: https://www.kousokubus.net/JpnBus/en
+[magome-bus-info]: http://time.jrbuskanto.co.jp.e.wn.hp.transer.com/bk06020.html
+[chuodo-magome-bus-stop]: https://goo.gl/maps/QVXinZNFBQdWWkSD7?coh=178571&entry=tt
