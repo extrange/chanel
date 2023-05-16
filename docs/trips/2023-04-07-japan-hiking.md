@@ -12,12 +12,13 @@
 -   [ ] Book bus from Magome to Shinjuku on 7 Jul
 -   [ ] Book Nagiso accomodation for 6 Jul
 -   [ ] Book Tokyo accomodation 7 Jul, plan itinerary
+-   [ ] Plan restaurants for 30 Jun, 6-8 Jul
 -   [ ] Buy & pack food (see below)
 -   [ ] Load GPX map files into Gaia maps app
 -   [ ] Print physical map (KIV laminate)
 -   Buy camping gear:
     -   [x] Tent (Nicholas)
-    -   [ ] Sleeping bag (Chanel)
+    -   [x] Sleeping bag (Chanel)
     -   [ ] Merino base layer (Chanel)
     -   [x] Camping chair
     -   [ ] Bear bell
