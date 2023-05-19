@@ -5,32 +5,6 @@
   <figcaption>Panorama Ginza Trail (click to enlarge)<figcaption/>
 </figure>
 
-## Todo
-
--   [x] Book flights
--   [ ] Buy travel insurance
--   [ ] Book bus from Magome to Shinjuku on 7 Jul
--   [ ] Book Nagiso accomodation for 6 Jul
--   [ ] Book Tokyo accomodation 7 Jul, plan itinerary
--   [ ] Plan restaurants for 30 Jun, 6-8 Jul
--   [ ] Buy & pack food (see below)
--   [ ] Load GPX map files into Gaia maps app
--   [ ] Print physical map (KIV laminate)
--   Buy camping gear:
-    -   [x] Tent (Nicholas)
-    -   [x] Sleeping bag (Chanel)
-    -   [ ] Merino base layer (Chanel)
-    -   [x] Camping chair
-    -   [ ] Bear bell
--   [x] Plan packing list
--   [ ] Japanese Yen (withdraw **a lot**)
-
-## To buy in Japan
-
--   [ ] Camping Gas 250g + 100g ([L-breath Shinjuku][l-breath])
--   [ ] [Food (see below)](#food)
--   [ ] 2x 1.5L bottles (backup)
-
 ### Packing List
 
 Navigation:
@@ -98,45 +72,13 @@ Miscellaneous:
 -   Camera (KIV)
 -   Laptop/iPad (KIV, only one)
 
-### Food
-
-Pack lunch and dinner into individual ziplock containers. Breakfast can be assembled in the morning.
-
-Shopping list (1 meal is for 2 people):
-
--   [ ] Oats (2 meals, ~1kg)
--   [ ] Rice (2 meals, ~1kg)
--   [ ] Pasta (1 meal, ~500g)
--   [ ] Macaroni (1 meal, ~400g)
--   [ ] Panmee (1 packet)
--   [ ] Risotto (1 packet)
--   [ ] Tortilla (3 meals)
--   [ ] Peanut butter
--   [ ] Chocolate (for tortilla, fondue)
--   [ ] Biscuits (1 meal)
--   [ ] Cheese (for biscuits)
--   [ ] Canned tuna, salmon
--   [ ] Granola (1kg)
--   [ ] Dried fruit/nuts (1kg) - incl. dried banana
--   [ ] Dried mushroom
--   [ ] Fresh fruit
--   [ ] Marshmallows
--   [ ] Soup satchets (miso, mushroom, ?corn)
--   [ ] Cinnamon
--   [ ] Olive oil
--   [ ] Pepper
--   [ ] Italian seasoning
--   [ ] Seaweed
--   [ ] Tea
--   [ ] Hot chocolate
-
-KIV:
-
--   [ ] Dehydrated vegetables?
-
 ## Meal Plan
 
 There are 12 major meals (BLD) we have to prepare.
+
+Pack lunch and dinner into individual ziplock containers. Breakfast can be assembled in the morning.
+
+Refer to [tasks.nicholaslyz.com](https://tasks.nicholaslyz.com) for the shopping list.
 
 |                   | B                    | L                           | S                | D                                |
 | ----------------- | -------------------- | --------------------------- | ---------------- | -------------------------------- |
@@ -158,12 +100,16 @@ Jun 30, Fri:
 -   [Transport to Shinjuku][nrt-shinjuku]
 -   Purchase or rent mountaineering gear and supplies at Shinjuku ([Yamarent][yamarent], [L-breath][lbreath], 7-eleven, Don Quijote)
 -   Eat Ichiran Ramen, Explore Kabukicho, Omoide Yokocho in Shinjuku
--   [x] Overnight at [Shinjuku Granbell Hotel (Reserved)][shinjuku-granbell]
+-   1500 - 1800 Hourly Limited Express Direct Azusa from Shinjuku ([JPY6,620][shinjuku-to-matsumoto-train])
+-   Overnight at [Iroha Grand Hotel Matsumoto Eki-Mae ($85)][iroha-grand-hotel]
 
 Jul 1, Sat (Total Trek Time: 2.5hrs):
 
--   [ ] 0715-1200 Bus from Shinjuku Expressway Bus Terminal to Kamikochi Bus terminal ([willer][willer], [alpico][alpico])
--   Lunch at Kamikochi, Pick up a map from the info centre, Stock up on any supplies you may need, Water is free here
+-   0900 Bus to Kamikochi ([JPY2,500][matsumoto-to-kamikochi-bus])
+-   1200 Lunch at Kamikochi
+    -   Pick up a map from the info centre
+    -   Stock up on any supplies you may need
+    -   Water is free here
 -   Fill out [mountain climbing card][trek-itinerary] and put it in the box at the start of the Dakasawa trailhead (1,505m)
 -   Hike to Dakasawa Mountain Hut (2 hours 30 minutes, 2,165m)
 -   Overnight at [Dakasawa Mountain Hut][dakasawa]
@@ -205,7 +151,7 @@ Jul 6, Thu:
 -   Cycling from Azumino- Visit Daio Wasabi Farm, Foot Hot Spring, Swiss Village, Museums, (15km) to Matsumoto Castle ([route][azumino])
 -   (Optional) [Blueberry Picking][blueberry]
 -   1630 - 1830 Train from Matsumoto to Nagiso ([route][matsumoto-tsumago])
--   [ ] Overnight at Nagiso ([suggested accoms, $152][nagiso-accoms])
+-   [x] Overnight at Nagiso ([お宿 勝, $150][nagiso-accoms])
 
 Jul 7, Fri:
 
@@ -218,12 +164,12 @@ Jul 7, Fri:
         -   Route: Tokyo/Shinjuku <=> Nagoya/Shizuoka/Hamamatsu
         -   Bus Stop: Chuodo-Magome -> Tokyo Sta.(Nihombashi Side)
         -   Boarding Date: 2023/07/07
--   [ ] Overnight at Tokyo
+-   [x] Overnight at Tokyo ([Shinjuku Granbell, $135][shinjuku-granbell])
 
 Jul 8, Sat:
 
 -   Souvenir Shopping
--   [x] Overnight at Tokyo in [Narita Tobu Hotel Airport][airport-hotel]
+-   [x] Overnight at Tokyo in [Narita Tobu Hotel Airport ($119)][airport-hotel]
 
 Jul 9, Sun:
 
@@ -303,3 +249,6 @@ Japan is kinda expensive since we have to pay for campgrounds which is $20 per p
 [magome-bus]: https://www.kousokubus.net/JpnBus/en
 [magome-bus-info]: http://time.jrbuskanto.co.jp.e.wn.hp.transer.com/bk06020.html
 [chuodo-magome-bus-stop]: https://goo.gl/maps/QVXinZNFBQdWWkSD7?coh=178571&entry=tt
+[matsumoto-to-kamikochi-bus]: https://www.kamikochi.org/pdf/Kamikochi_Leaflet.pdf
+[shinjuku-to-matsumoto-train]: https://www.snowmonkeyresorts.com/shinjuku-matsumoto/
+[iroha-grand-hotel]: https://www.booking.com/Share-MYTWNC
