@@ -124,14 +124,15 @@ Jun 30, Fri:
 -   Train to Shinjuku ([routes][narita-transport])
     -   Option A: JR Narita Express TOKYO Round Trip Tickets (¥4,070) ([guide][nex-train])
     -   Option B: Keisei Main Line to Nippori Station (¥1,050, 80min) & Transfer to JR Yamanote Line to Shinjuku Station (¥210)
--   Purchase or rent mountaineering gear and supplies at Shinjuku ([Yamarent][yamarent], [L-breath][lbreath], 7-eleven, Don Quijote)
+-   Purchase supplies at Don Quijote 24HR (Food), [Yamarent][yamarent], [L-breath][lbreath] (Fuel & Gear)
+-   Eat at Ichiran Ramen, Udon Shin
 -   1500 Hourly Limited Express Direct Azusa from Shinjuku to Matsumoto (¥6,620) ([schedule][azusa-train-schedule])
--   Check out Matsumoto Castle
--   Overnight at [Iroha Grand Hotel Matsumoto Eki-Mae ($85)][iroha-grand-hotel]
+-   Explore Matsumoto ([map][matsumoto-map])
+-   [x] Overnight at [Iroha Grand Hotel Matsumoto Eki-Mae ($85)][iroha-grand-hotel]
 
 Jul 1, Sat (Total Trek Time: 2.5hrs):
 
--   0900 Bus to Kamikochi (¥2,500, [schedule][kamikochi-bus-info])
+-   0900 Train/Bus to Kamikochi (¥2,500, [schedule][kamikochi-bus-info])
 -   1200 Lunch at Kamikochi
     -   Pick up a map from the info centre
     -   Stock up on any supplies you may need
@@ -143,32 +144,32 @@ Jul 1, Sat (Total Trek Time: 2.5hrs):
 
 Jul 2, Sun (Total Trek Time: 8hrs):
 
--   Hike up to Mount Mae-Hotaka (3 hours 30 minutes, 3,090m)
--   Hike to Mount Oku-Hotaka-Dake(2 hours 10 minutes, 3,190m)
--   Hike to Mount Hotaka (30min, 2,983m)
--   Hike to Karasawa Hut (2 hours 10 minutes, 2,309m)
+-   -> Mount Mae-Hotaka (3 hours 30 minutes, 3,090m) 
+-   -> Mount Oku-Hotaka-Dake (2 hours 10 minutes, 3,190m) 
+-   -> Mount Hotaka (30min, 2,983m) 
+-   -> Karasawa Hut (2 hours 10 minutes, 2,309m)
 -   Overnight at [Karasawa Hut, Water point][karasawa]
 
 Jul 3, Mon (Total Trek Time: 6hrs):
 
 **Decision Point to turn back to Kamikochi**
 
--   Hike along Yoku Valley (2 hours, 1,620m)
--   Hike through steep forest to Yokoo Junction (3 hours 40 minutes)
--   Hike to Chogatake Hutte Mountain Hut (30 minutes, 2,677m)
+-   -> Yoku Valley (2 hours, 1,620m)
+-   ->  Yokoo Junction (3 hours 40 minutes)
+-   -> Chogatake Hutte Mountain Hut (30 minutes, 2,677m)
 -   Overnight at [Chogatake Hutte Mountain Hut][chogatake]
 
 Jul 4, Tue (Total Trek Time: 9hrs):
 
--   Hike to Mount Jonen (4 hours 45 minutes, 2,857m)
--   Hike then to Mount Otensho/ Daitenjo (4 hours 10 minutes, 2,760m)
+-   ->  Mount Jonen (4 hours 45 minutes, 2,857m)
+-   -> Mount Otensho/ Daitenjo (4 hours 10 minutes, 2,760m)
 -   Overnight at [Daitenso Mountain Hut][daiten-sou]
 
 Jul 5, Wed (Total Trek Time: 6hrs):
 
--   Hike to Mount Tsbakuro (3 hours, 2,763m)
+-   -> Mount Tsbakuro (3 hours, 2,763m)
 -   Head down to Ariake-sou (3 hours)
--   Overnight at [Nakabusa][nakabusa] Shared Room max 4pax (¥13,500/pax for shared room max 4pax, or ¥2000/stay for tent)
+-   Overnight at [Nakabusa][nakabusa] (¥13,500/pax for shared room max 4pax, or ¥2000/stay for tent)
 
 Jul 6, Thu:
 
@@ -248,6 +249,7 @@ Japan is kinda expensive since we have to pay for campgrounds which is $20 per p
 [lbreath]: https://goo.gl/maps/TC7o16L62ei5oeJ68
 [l-breath]: https://goo.gl/maps/dee1KP58vdfVVJot7
 [azumino]: https://www.snowmonkeyresorts.com/2019/04/cycling-through-rural-azumino-to-matsumoto-castle/
+[matsumoto-map]:https://visitmatsumoto.com/wp-content/uploads/2023/04/TownWalkingMap_EN.pdf
 
 [hike-map]: https://www.hikemasterjapan.com/_files/ugd/60507d_b5b49614a7f740b98684e04c7a4e462a.pdf?index=true
 [trek-guide]: https://www.kamikochi.org/plan/trekking
@@ -261,7 +263,7 @@ Japan is kinda expensive since we have to pay for campgrounds which is $20 per p
 [karasawa]: https://thejapanalps.com/en/mountain-hut/karasawahyutte/
 [chogatake]: https://thejapanalps.com/en/mountain-hut/chogatake/
 [daiten-sou]: https://thejapanalps.com/en/mountain-hut/daitenso/
-[nakabusa-onsen]: https://thejapanalps.com/en/access-nakabusa/
+[nakabusa]: https://thejapanalps.com/en/access-nakabusa/
 [nagiso-accoms]: https://www.booking.com/Share-QgwY131
 [shinjuku-granbell]: https://secure.booking.com/confirmation.en-gb.html?aid=337862;auth_key=CGyWzSDRKiH2Akaf&;source=conf_email;pbsource=conf_email_modify;pbtrack=email_mainCTA;from_conf_email_tracking=1
 [airport-hotel]: https://www.booking.com/hotel/jp/holiday-inn-tobu-narita.html
@@ -271,6 +273,8 @@ Japan is kinda expensive since we have to pay for campgrounds which is $20 per p
 [azusa-train-schedule]: https://www.snowmonkeyresorts.com/wp-content/uploads/2022/03/Shinjuku-Matsumoto-1.png
 [matsumoto-train]: https://japantravel.navitime.com/en/area/jp/route/result?start=00003876&goal=00007171&start_name=Matsumoto&goal_name=Nagiso&date_time=2023-07-06T15%3A36
 [kamikochi-bus-info]: https://www.kamikochi.org/pdf/Kamikochi_Leaflet.pdf
+[nakabusa-bus-schedule]: https://azumino-e-tabi.net/pdf/p3-4.pdf
+[matsumoto-tsumago]: https://japantravel.navitime.com/en/area/jp/route/result?start=00003876&goal=00007171&start_name=Matsumoto&goal_name=Nagiso&date_time=2023-07-06T15%3A36
 [nagiso-bus-schedule]:https://www.japan-guide.com/bus/kiso.html
 [magome-shinjuku]: https://japantravel.navitime.com/en/area/jp/route/result?start=00026130&goal=00083737&start_name=Chuodo-Magome&goal_name=Shinjuku%20Expressway%20Bus%20Terminal%E3%80%80&date_time=2023-07-07T09%3A29
 [magome-bus]: https://www.kousokubus.net/JpnBus/en
@@ -283,7 +287,6 @@ Japan is kinda expensive since we have to pay for campgrounds which is $20 per p
 
 [dehydrate-food]: https://www.rei.com/learn/expert-advice/how-to-dehydrate-food.html
 [itinerary]: /static/2023-04-07/itinerary.pdf
-[nakabusa-bus]: https://azumino-e-tabi.net/pdf/p3-4.pdf
 [magome-tsumago]: /static/2023-04-07/magome-tsumago.gpx
 
 [india-trek]: https://sgtrek.com/event/kashmir-tarsar-marsar-trek-2023/
