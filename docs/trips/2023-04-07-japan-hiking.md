@@ -18,7 +18,7 @@ Jun 30, Fri:
     -   Option A: JR Narita Express TOKYO Round Trip Tickets (¥4,070) ([guide][nex-train])
     -   Option B: Keisei Main Line to Nippori Station (¥1,050, 80min) & Transfer to JR Yamanote Line to Shinjuku Station (¥210)
 -   Purchase supplies at Don Quijote 24HR (Food), [Yamarent][yamarent], [L-breath][lbreath] (Fuel & Gear)
--   Eat at Ichiran Ramen, Udon Shin
+-   Eat at Ichiran Ramen/ Udon Shin
 -   1500 Hourly Limited Express Direct Azusa from Shinjuku to Matsumoto (¥6,620) ([schedule][azusa-train-schedule])
 -   Explore Matsumoto ([map][matsumoto-map])
 -   [x] Overnight at [Iroha Grand Hotel Matsumoto Eki-Mae ($85)][iroha-grand-hotel]
@@ -30,38 +30,32 @@ Jul 1, Sat (Total Trek Time: 2.5hrs):
     -   Pick up a map from the info centre
     -   Stock up on any supplies you may need
     -   Water is free here
--   Fill out [mountain climbing card][trek-itinerary] and put it in the box at the start of the Dakasawa trailhead (1,505m)
--   Hike to Dakasawa Mountain Hut (2 hours 30 minutes, 2,165m)
+    -   Fill out [mountain climbing card][trek-itinerary] and put it in the box at the start of the Dakasawa trailhead ()
+-   Begin Kamikochi Trail ([gpx file][kamikochi-gpx])/ backup: Panorama Trail ([gpx file][panorama-gpx])
+-   Hike to Dakasawa Mountain Hut (2.5 hrs, +660m)
 -   Overnight at [Dakasawa Mountain Hut][dakasawa]
 -   Notes: Reservations are not required for tent sites (First Come First Serve Basis)
 
 Jul 2, Sun (Total Trek Time: 8hrs):
 
--   -> Mount Mae-Hotaka (3 hours 30 minutes, 3,090m)
--   -> Mount Oku-Hotaka-Dake (2 hours 10 minutes, 3,190m)
--   -> Mount Hotaka (30min, 2,983m)
--   -> Karasawa Hut (2 hours 10 minutes, 2,309m)
+-   Dakasawa -> Mt Mae-Hotaka (3.5 hrs, +925m) -> Mt Hotaka (3 hrs) -> Karasawa (2 hrs, -880m)
 -   Overnight at [Karasawa Hut, Water point][karasawa]
 
 Jul 3, Mon (Total Trek Time: 6hrs):
 
 **Decision Point to turn back to Kamikochi**
 
--   -> Yoku Valley (2 hours, 1,620m)
--   -> Yokoo Junction (3 hours 40 minutes)
--   -> Chogatake Hutte Mountain Hut (30 minutes, 2,677m)
+-   Karasawa -> Yoku Valley (2 hrs, -690m) -> Yokoo Junction (4 hrs, +1,000m) -> Chogatake Hutte (0.5 hrs))
 -   Overnight at [Chogatake Hutte Mountain Hut][chogatake]
 
 Jul 4, Tue (Total Trek Time: 9hrs):
 
--   -> Mount Jonen (4 hours 45 minutes, 2,857m)
--   -> Mount Otensho/ Daitenjo (4 hours 10 minutes, 2,760m)
+-   Chogatake -> Mount Jonen (5 hrs) -> Daitenso (4 hrs)
 -   Overnight at [Daitenso Mountain Hut][daiten-sou]
 
 Jul 5, Wed (Total Trek Time: 6hrs):
 
--   -> Mount Tsbakuro (3 hours, 2,763m)
--   Head down to Ariake-sou (3 hours)
+-   Chogatake -> Mount Tsbakuro (3 hrs) -> Ariake-sou (3 hrs)
 -   Overnight at [Nakabusa][nakabusa] (¥13,500/pax for shared room max 4pax, or ¥2000/stay for tent)
 
 Jul 6, Thu:
@@ -110,27 +104,22 @@ There are 12 major meals (BLD) we have to prepare.
 
 Refer to [tasks.nicholaslyz.com](https://tasks.nicholaslyz.com) for the shopping list.
 
-|                   | B                    | L                           | S                | D                                |
-| ----------------- | -------------------- | --------------------------- | ---------------- | -------------------------------- |
-| Jul 1 (Sat)       | -                    | - (@ Kamikochi)             | Fresh fruits     | Pasta w/herbs                    |
-| Jul 2 (Sun)       | Tortilla tomato soup | PB Banana Cinnamon Tortilla | Granola/chocs    | Miso Noodle Soup                 |
-| Jul 3 (Mon)       | Oats w/ fruit/nuts   | Biscuits + Cheese:cheese:   | Dried fruit/nuts | Macaroni mushroom soup           |
-| Jul 4 (Tue):star: | Rice in miso soup    | Seaweed Onigiri             | Granola/chocs    | Risotto+Panmee w/choc fondue MMs |
-| Jul 5 (Wed)       | Oats w/ fruit/nuts   | PB Granola Tortilla         | Dried fruit/nuts | KIV cook                         |
+| Breakfast            | Lunch                    | Snacks            | Dinner                       |
+| -------------------- | ------------------------ | ----------------- | ---------------------------- |
+| -                    | - (@ Kamikochi)          | Cucumbers, apples | Curry Pasta w/herbs          |
+| Tortilla tomato soup | Sandwiches/bread         | Dried fruit/nuts  | Ramen                        |
+| Oats w/ fruit/nuts   | PB Granola Nuts Tortilla | Dried fruit/nuts  | Curry Risotto                |
+| Mushroom soup oats   | PB Granola Nuts Tortilla | Dried fruit/nuts  | Miso somen w/choc fondue MMs |
+| Polenta w porcini    | Ramen                    | -                 | -                            |
 
-## Maps
+## Reference Maps & Guides
 
--   \[3 - 4 days\] [Panorama Ginza Trail][panorama-ginza] ([Map][panorama-ginza-map]) ends at [Nakabusa Onsen][nakabusa-onsen]
-
-Others:
-
+-   [Kamikochi Trail GPX][kamikochi-gpx]
+-   [Panorama Ginza Trail GPX][panorama-gpx]
+-   [Kiso Valley Trail GPX][magome-tsumago]
 -   [Kamikochi Map][hike-map] ([trekking guide][trek-guide])
+-   \[3 - 4 days\] [Panorama Ginza Trail][panorama-ginza] ([Map][panorama-ginza-map]) ends at [Nakabusa Onsen][nakabusa-onsen]
 -   \[2- 3 days\] [Mt Hotaka Loop][mt-hotaka] similar to the reddit one you shared
-
-## Other Transport Options
-
--   [Climbing Bus][climbing-bus] from Nakabusan Onsen to Tokyo
--   [Willer][willer], [Alpico][alpico]
 
 ## Cost: ~$1800
 
@@ -162,6 +151,10 @@ Japan is kinda expensive since we have to pay for campgrounds which is $20 per p
 [panorama-ginza]: https://www.hikemasterjapan.com/panoramaginza
 [panorama-ginza-map]: https://static.wixstatic.com/media/60507d_88f3c201ff294078b635af703a2eae9e~mv2.jpg?dn=Kamikochi%20Map%20Azumino%20Panorama%20Ginza.jpg
 [mt-hotaka]: https://www.hikemasterjapan.com/hotaka
+[dehydrate-food]: https://www.rei.com/learn/expert-advice/how-to-dehydrate-food.html
+[kamikochi-gpx]: /static/2023-04-07/2023-06-kamikochi.gpx
+[panorama-gpx]: /static/2023-04-07/2023-06-panorama.gpx
+[magome-tsumago]: /static/2023-04-07/magome-tsumago.gpx
 [iroha-grand-hotel]: https://www.booking.com/Share-MYTWNC
 [dakasawa]: https://thejapanalps.com/en/mountain-hut/takesawagoya/
 [karasawa]: https://thejapanalps.com/en/mountain-hut/karasawahyutte/
@@ -187,9 +180,7 @@ Japan is kinda expensive since we have to pay for campgrounds which is $20 per p
 [willer]: https://willerexpress.com/en/bus_search/tokyo/all/nagano/kamikochi/ym_202306/day_28/?stockNumberMale=1&stockNumberFemale=1
 [alpico]: http://sawayaka.alpico.co.jp/
 [climbing-bus]: https://bus.maitabi.jp/tour_catsearch.html?departure=1&month=7&area=17&style=3&page=1
-[dehydrate-food]: https://www.rei.com/learn/expert-advice/how-to-dehydrate-food.html
 [itinerary]: /static/2023-04-07/itinerary.pdf
-[magome-tsumago]: /static/2023-04-07/magome-tsumago.gpx
 [india-trek]: https://sgtrek.com/event/kashmir-tarsar-marsar-trek-2023/
 [north-africa-trek]: https://sgtrek.com/event/climb-mt-toubkal-2023/
 [russia-trek]: https://sgtrek.com/event/mt-elbrus-classic-south-route-2023/
