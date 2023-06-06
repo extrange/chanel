@@ -74,14 +74,7 @@ Jul 7, Fri:
 
 -   0840 Bus from Nagiso Station to Tsumago ([schedule][nagiso-bus-schedule])
 -   0900 Magome-Tsumago Trail (6.6km, 2hr 15min, [gpx file][magome-tsumago]), end at Magome
--   [ ] 1130-1613 Express bus from Chuodo-Magome ([map][chuodo-magome-bus-stop]) to Shinjuku ([route][magome-shinjuku])
-    -   [ ] Need to book the bus [here][magome-bus] closer to the date (tickets go on sale 10am [1 month, 1 day before the boarding date][magome-bus-info]).
-    -   Parameters:
-        -   From: Nagoya
-        -   To: Tokyo
-        -   Route: Tokyo/Shinjuku <=> Nagoya/Shizuoka/Hamamatsu
-        -   Bus Stop: Chuodo-Magome -> Tokyo Sta.(Nihombashi Side)
-        -   Boarding Date: 2023/07/07
+-   [x] 1130-1613 Express bus from Chuodo-Magome ([map][chuodo-magome-bus-stop]) to Shinjuku ([ticket][magome-shinjuku])
 -   Explore Kabukicho, Omoide Yokocho in Shinjuku
 -   [x] Overnight at Tokyo ([Shinjuku Granbell, $135][shinjuku-granbell])
 
@@ -124,10 +117,16 @@ Refer to [tasks.nicholaslyz.com](https://tasks.nicholaslyz.com) for the shopping
 ## Cost: ~$1800
 
 -   Flights: $615
--   Bus/Train: ~$250
--   \[4N\] Tent space: ~$100
 -   \[4N\] Accoms: $489/2 = ~$245
--   Others/Food: ~$400
+-   \[4N\] Tent space: ~$100
+-   Food: ~$400
+-   Transport: ~$200
+    -   Within Tokyo: ~$40
+    -   Shinjuku to Kamikochi: ~$100
+    -   Kamikochi to Nagiso: ~$30
+    -   Magome to Shinjuku: ~$64/2 = $32
+-   Others:
+    -   Insurance: ~$56/2 = $28
 
 ## Suggested Treks for Nicholas (Flights not included)
 
@@ -172,7 +171,7 @@ Japan is kinda expensive since we have to pay for campgrounds which is $20 per p
 [nakabusa-bus-schedule]: https://azumino-e-tabi.net/pdf/p3-4.pdf
 [matsumoto-tsumago]: https://japantravel.navitime.com/en/area/jp/route/result?start=00003876&goal=00007171&start_name=Matsumoto&goal_name=Nagiso&date_time=2023-07-06T15%3A36
 [nagiso-bus-schedule]: https://www.japan-guide.com/bus/kiso.html
-[magome-shinjuku]: https://japantravel.navitime.com/en/area/jp/route/result?start=00026130&goal=00083737&start_name=Chuodo-Magome&goal_name=Shinjuku%20Expressway%20Bus%20Terminal%E3%80%80&date_time=2023-07-07T09%3A29
+[magome-shinjuku]: https://www.kousokubus.net/JpnBus/en/WebTicket/Index/busnetticket-20230606233731.pdf?key=Pov6rzaByzpoCd7vkMw4EoL7SfRA9m32
 [magome-bus]: https://www.kousokubus.net/JpnBus/en
 [magome-bus-info]: http://time.jrbuskanto.co.jp.e.wn.hp.transer.com/bk06020.html
 [chuodo-magome-bus-stop]: https://goo.gl/maps/QVXinZNFBQdWWkSD7?coh=178571&entry=tt
