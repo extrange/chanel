@@ -55,7 +55,7 @@ Jul 4, Tue (Total Trek Time: 9hrs):
 
 Jul 5, Wed (Total Trek Time: 6hrs):
 
--   Chogatake -> Mount Tsbakuro (3 hrs) -> Ariake-sou (3 hrs)
+-   Daitenso -> Mount Tsbakuro (3 hrs) -> Ariake-sou (3 hrs)
 -   Overnight at [Nakabusa][nakabusa] (¥13,500/pax for shared room max 4pax, or ¥2000/stay for tent)
 
 Jul 6, Thu:
