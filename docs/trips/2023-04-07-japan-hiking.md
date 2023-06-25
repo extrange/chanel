@@ -93,17 +93,150 @@ Jul 9, Sun:
 
 ## Meal Plan
 
-There are 12 major meals (BLD) we have to prepare.
+![](../static/2023-04-07/food.jpg)
 
-Refer to [tasks.nicholaslyz.com](https://tasks.nicholaslyz.com) for the shopping list.
+### Day 0
 
-| Breakfast            | Lunch                    | Snacks            | Dinner                       |
-| -------------------- | ------------------------ | ----------------- | ---------------------------- |
-| -                    | - (@ Kamikochi)          | Cucumbers, apples | Curry Pasta w/herbs          |
-| Tortilla tomato soup | Sandwiches/bread         | Dried fruit/nuts  | Ramen                        |
-| Oats w/ fruit/nuts   | PB Granola Nuts Tortilla | Dried fruit/nuts  | Curry Risotto                |
-| Mushroom soup oats   | PB Granola Nuts Tortilla | Dried fruit/nuts  | Miso somen w/choc fondue MMs |
-| Polenta w porcini    | Ramen                    | -                 | -                            |
+- B/L: Shin Udon/ Ichiran Ramen @ Tokyo
+- D: Soba @Matsumoto
+
+### Day 1
+
+- B: 7-eleven pao
+- L: @Kamikochi
+- D: Curry fresh udon, miso soup (x2), herb tea (x2)
+- S: Cucumbers (x2), apple (x2), cherry tomatoes
+
+### Day 2
+
+- B: Granola (100g) + oats (200g) with cinnamon, powdered oat milk, chia seeds, psyllium husk and PB, miso soup (x2), black tea (x2)
+- L: Tortilla + granola (150g) with cinnamon and PB / KIV bread from Family Mart
+- S: Nutbar (x3), dried fruit/nuts (150g)
+- D: Ramen (200g), ginger tea (x2) 
+
+### Day 3
+
+- B: Mushroom soup (x2)+ Oats (200g), green tea (x2)
+- L: Tortilla + granola (150g) with cinnamon, chia seeds, psyllium husk and PB
+- S: Nutbar (x2), wasabi peas, dried fruit/nuts (100g)
+- D: Curry mushroom tomato one pot pasta (300g), miso soup (x2), tea (x2) / Meal at hut
+
+### Day 4
+
+- B: Granola (100g) + oats (200g) with cinnamon, powdered oat milk, chia seeds, psyllium husk and PB, miso soup (x2), oolong tea (x2)
+- L: Tortilla + granola/nuts (150g)
+- S: Wasabi peas, dried fruit/nuts (100g)
+- D: Somen noodles (300g) with tofu miso soup (x2), Campfire s'mores (marshmallows + melted dark choc), fruit tea (x2)
+
+### Day 5 
+
+- B: Polenta (300g) + seasoning, miso soup (x2), earl grey tea (x2) 
+- L: Ramen noodles (200g)
+- D: @ Nakabusa Onsen
+
+### Day 6
+
+- B: Azumino Wasabi Farm
+- L: Soba @ Matsumoto
+- D: @ Nagiso 
+
+### Day 7
+
+- B: @ Nagiso
+- L: on the bus
+- D: @ Shinjuku
+
+### Day 8
+
+- Plan on the
+
+### Day 9
+
+- B: @Airport
+
+## Packing List
+
+### On the day
+
+- T-shirt/jeans
+- Slippers/Crocs
+- Travel adaptor & cable
+- Powerbank
+- Handphone
+- Wallet, cash & youtrip card
+- Passport
+- Earplugs
+- Eye mask
+- Kindle/Kobo
+- Laptop + charger
+
+### In Japan
+
+- Helmet - rent at Kamikochi Visitor Center
+- Camping Gas
+
+### Miscellaneous
+
+- First aid kit (plasters, dressings, diarrhea meds, panadol)
+- Plastic bags
+- Ziploc bags
+- Face mask (Chanel)
+- Duct tape?
+- Camera (KIV)
+
+### Navigation
+
+- Compass
+- Gaia maps app with map files loaded
+- Physical map (take from visitor center)
+
+### Clothing
+
+- Fleece
+- Down jacket
+- Waterproof jacket
+- Gloves
+- Socks
+- Thermal wear top
+- Thermal wear bottom
+- Underwear
+- City attire (T-shirt/jeans/s attire) (Chanel)
+- Trekking shoes (Chanel)
+- Sunglasses
+
+### Toiletries
+
+- Toothbrush, toothpaste, shaver (Chanel)
+- Soap
+- Shampoo
+- Moisturizer
+- Sunscreen
+- Lip balm
+- Hand sanitizer
+- Powder detergent (to wash clothes)
+- Toilet paper
+- Body/ Wet wipes (Chanel)
+
+### Cooking
+
+- Liquid detergent (in bottle, small amount) 
+- Stove (Nicholas)
+- Pots + Cutlery (Nicholas)
+- Water purification tablets (Nicholas)
+- Sponge
+- Water bottle (at least 2L)
+- Thermos flask (optional)
+
+### Camping Gear
+
+- Backpack 60L
+- Head lamp with battery
+- Sleeping bag
+- Sleeping bag liner
+- Towel
+- Penknife
+- Chair (Nicholas)
+- Tent (Nicholas)
 
 ## Reference Maps & Guides
 
@@ -113,6 +246,10 @@ Refer to [tasks.nicholaslyz.com](https://tasks.nicholaslyz.com) for the shopping
 -   [Kamikochi Map][hike-map] ([trekking guide][trek-guide])
 -   \[3 - 4 days\] [Panorama Ginza Trail][panorama-ginza] ([Map][panorama-ginza-map]) ends at [Nakabusa Onsen][nakabusa-onsen]
 -   \[2- 3 days\] [Mt Hotaka Loop][mt-hotaka] similar to the reddit one you shared
+-   https://thejapanalps.com/en/route/mt-hotaka/route-02/
+-   https://randomwire.com/mount-hotaka-revisited/
+-   https://thejapanalps.com/en/nakata-map/okuhotaka/
+-   https://thejapanalps.com/en/route/mt-yarigatake/
 
 ## Cost: ~$1800
 
