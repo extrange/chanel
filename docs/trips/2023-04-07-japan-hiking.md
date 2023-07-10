@@ -32,11 +32,11 @@ This climb was done in summer. The original plan for the hike was taken from thi
 
 We went to eat Ichiran Ramen for 980yen (+140yen for egg) per person (2140yen total). It was not bad, but not outstanding either. Then, we ate at Himawari Sushi Shintoshin, which was 1750yen for the both of us, and had a variety of sushi. The otoro was okay, I think Hanamaru Sushi would have been better. We left for Matsumoto at 2pm as we were quite tired from the plane ride (overnight).
 
+Of note, we also managed to get our dried packed camp food through customs, even pass a sniffer dog.
+
 **Chanel's Journal**
 
 Chanel insisted on having cake on the train to Matsumoto and she purchase a sinful strawberry shortcake which was just okay (701yen with spoon).
-
-Of note, we also managed to get our dried packed camp food through customs, even pass a sniffer dog.
 
 ## Jul 1, Sat D1: Taisho Pond to Karasawa Hutte
 
@@ -57,7 +57,7 @@ Of note, we also managed to get our dried packed camp food through customs, even
 
 **Nicholas:**
 
-We went to Yokoo hut and at 430pm decided to try for karasawa hut. It was raining moderately throughout, and while the route was good, there was snow higher up. We made good progress however and reached the hut at 7.30pm. The host cleared tables for us to set up our tent. It was a wet night, but luckily the rain stopped sometime around 10 and I went to dry the clothes, brush teeth and wash the pots. We ate curry with soy protein, 5 pieces of freeze dried tofu, cherry tomatoes, mushrooms and 5 slices of bread for dinner.
+We went to Yokoo hut and at 430pm, decided to try for karasawa hut (this was despite a sign on the bridge saying that ascending after 2pm was dangerous, as we felt our speed that day was good.). It was raining moderately throughout, and while the route was quite well maintained overall, there were large patches of snow higher up (the entire of the last 200m ascent was in snow). We made good progress however and reached the hut at 7.30pm. The host cleared tables for us to set up our tent. It was a wet night, but luckily the rain stopped sometime around 10 and I went to dry the clothes, brush teeth and wash the pots. We ate curry with soy protein, 5 pieces of freeze dried tofu, cherry tomatoes, mushrooms and 5 slices of bread for dinner.
 
 **Chanel:**
 
@@ -215,47 +215,20 @@ It was the last day in Tokyo. We checked out at 11am and purchased the Tokyo Day
 
 ## Miscellaneous
 
-### Meal Plan (change to table form)
+### Camping Food
 
-![](../static/2023-04-07/food.jpg)
+<figure>
+  <a href="/static/2023-04-07/food.jpg"><img src="/static/2023-04-07/food.jpg" alt="Food" loading="lazy"/></a>
+  <figcaption>The food we brought up with us. Ramen, freeze dried tofu (for Nicholas) and textured soy protein were overall good choices.<figcaption/>
+</figure>
 
-Day 0
-
--   B/L: Shin Udon/ Ichiran Ramen @ Tokyo
--   D: Soba @Matsumoto
-
-Day 1
-
--   B: 7-eleven pao
--   L: @Kamikochi
--   D: Curry fresh udon, miso soup (x2), herb tea (x2)
--   S: Cucumbers (x2), apple (x2), cherry tomatoes
-
-Day 2
-
--   B: Granola (100g) + oats (200g) with cinnamon, powdered oat milk, chia seeds, psyllium husk and PB, miso soup (x2), black tea (x2)
--   L: Tortilla + granola (150g) with cinnamon and PB / KIV bread from Family Mart
--   S: Nutbar (x3), dried fruit/nuts (150g)
--   D: Ramen (200g), ginger tea (x2)
-
-Day 3
-
--   B: Mushroom soup (x2)+ Oats (200g), green tea (x2)
--   L: Tortilla + granola (150g) with cinnamon, chia seeds, psyllium husk and PB
--   S: Nutbar (x2), wasabi peas, dried fruit/nuts (100g)
--   D: Curry mushroom tomato one pot pasta (300g), miso soup (x2), tea (x2) / Meal at hut
-
-Day 4
-
--   B: Granola (100g) + oats (200g) with cinnamon, powdered oat milk, chia seeds, psyllium husk and PB, miso soup (x2), oolong tea (x2)
--   L: Tortilla + granola/nuts (150g)
--   S: Wasabi peas, dried fruit/nuts (100g)
--   D: Somen noodles (300g) with tofu miso soup (x2), Campfire s'mores (marshmallows + melted dark choc), fruit tea (x2)
-
-Day 5
-
--   B: Polenta (300g) + seasoning, miso soup (x2), earl grey tea (x2)
--   L: Ramen noodles (200g)
+|       | B                        | L                                         | S           | D                                                                                                    |
+| ----- | ------------------------ | ----------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------- |
+| Day 1 | Soba Noodles @ Matsumoto | Apple ice cream                           | Wasabi Peas | Curry with soy protein, 5 pieces freeze dried tofu, cherry tomatoes, mushrooms and 5 slices of bread |
+| Day 2 | Chocolate oats           | Miso soup with 2 pieces freeze dried tofu | Wasabi Peas | Somen noodles with fish stock, freeze dried tofu, soy protein, miso soup                             |
+| Day 3 | Mushroom oats            | 200gm mixed nuts with chocolate           |             | 300gm pasta with 5 pieces freeze dried tofu, spices                                                  |
+| Day 4 | Granola                  | Rice paper, miso soup, freeze dried tofu  | Nuts        | Ramen with soy protein, chocolate fondue marshmallows                                                |
+| Day 5 | Somen with miso soup     |                                           |             |                                                                                                      |
 
 ### Expenses (todo)
 
@@ -365,14 +338,14 @@ Cost: ~$1800
 -   [Panorama Ginza Trail GPX][panorama-gpx]
 -   [Kiso Valley Trail GPX][magome-tsumago]
 -   [Kamikochi Map][hike-map] ([trekking guide][trek-guide])
--   \[3 - 4 days\] [Panorama Ginza Trail][panorama-ginza] ([Map][panorama-ginza-map]) ends at [Nakabusa Onsen][nakabusa]
+-   \[3 - 4 days\] [Panorama Ginza Trail][panorama-ginza] ([Map][panorama-ginza-map]) ending at [Nakabusa Onsen][nakabusa]
 -   \[2- 3 days\] [Mt Hotaka Loop][mt-hotaka] similar to the reddit one you shared
--   https://thejapanalps.com/en/route/mt-hotaka/route-02/
--   https://randomwire.com/mount-hotaka-revisited/
--   https://thejapanalps.com/en/nakata-map/okuhotaka/
--   https://thejapanalps.com/en/route/mt-yarigatake/
+-   [Hotaka Mountains (Highest peak Mt. Oku-hotaka-dake) hiking & climbing route](https://thejapanalps.com/en/route/mt-hotaka/route-02/)
+-   [Kamikōchi to Mt. Hotakadake](https://randomwire.com/mount-hotaka-revisited/)
+-   [Mt. Hotaka-dake Difficult Location Detailed Route Guide -The Karasawa Route-](https://thejapanalps.com/en/nakata-map/okuhotaka/)
+-   [Mt. Yari-gatake](https://thejapanalps.com/en/route/mt-yarigatake/)
 
-### Suggested Treks (courtesy Chanel)
+### Suggested Treks (courtesy of Chanel)
 
 Prices excluding flights.
 
