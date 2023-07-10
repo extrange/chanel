@@ -87,7 +87,10 @@ We had curry with bread. Peanut butter is not recommended with curry. The bread 
   <a href="/static/2023-04-07/d2.jpg"><img src="/static/2023-04-07/d2.jpg" alt="D2" loading="lazy"/></a>
   <figcaption>19.58km (+1075m/-701m) over 7h19m (2.6km/h) <a href="/static/2023-04-07/D2 Karasawa to Chokagatte.gpx">GPX file</a><figcaption/>
 </figure>
-
+<figure>
+  <a href="/static/2023-04-07/chogatake.jpg"><img src="/static/2023-04-07/chogatake.jpg" alt="chogatake" loading="lazy"/></a>
+  <figcaption>Chōgatake Hütte Tent Site, over looking Azumino (2,670m)<figcaption/>
+</figure>
 -   Karasawa -> Yoku Valley (-690m) -> Yokoo Junction (+1,000m) -> Chogatake Hutte
 -   Overnight at [Chogatake Hutte][chogatake]
 
@@ -100,6 +103,10 @@ Today was the 800m descent to Yokoo, then the 1000 ascent to Chogatake hut. The 
 <figure>
   <a href="/static/2023-04-07/d3.jpg"><img src="/static/2023-04-07/d3.jpg" alt="D3" loading="lazy"/></a>
   <figcaption>10.91km (+549m/-758m) over 5h22m (1.8km/h) <a href="/static/2023-04-07/D3 Chogatake to Joten.gpx">GPX file</a><figcaption/>
+</figure>
+<figure>
+  <a href="/static/2023-04-07/jonen.jpg"><img src="/static/2023-04-07/jonen.jpg" alt="jonen" loading="lazy"/></a>
+  <figcaption>Jonen-goya Camp Site, over looking Yarigatake (2,450m)<figcaption/>
 </figure>
 
 -   Chogatake Hutte -> Mount Jonen -> Jonen-goya
@@ -131,7 +138,7 @@ Chanel wanted to give up the 400m steep ascend to Mt Jonen. Even after reaching 
 
 **Chanel's Journal**
 
-Today was the most scenic trail out of all the 4 days. For breakfast, Chanel failed making the polenta and burnt the pot so we settled with granola instead. We walked along the ridge with pretty views of the mountain and path. We encountered a pair of Caucasian females at least 6 times on the route to ensanzo hut. We overtake them during descents and they overtook us during ascents because Chanel was too tired by then. We reached Daitenso hut at around 12pm after many false hope that it was around the corner. We had tofu and rice paper noodles for lunch before starting our climb down and up to the final hut. Nicholas found a quiet corner spot for our tent and we took pictures of the sunset. Chanel huddled in Nicholas' jacket while waiting for him. We had failed ramen pasta and toasted chocolate marshmallows for dinner. Nicholas did a smart double boil for thr chocolate to save clean up.
+Today was the most scenic trail out of all the 4 days. For breakfast, Chanel failed making the polenta and burnt the pot so we settled with granola instead. We walked along the ridge with pretty views of the mountain and path. We encountered a pair of Caucasian females at least 6 times on the route to ensanzo hut. We overtake them during descents and they overtook us during ascents because Chanel was too tired by then. We reached Daitenso hut at around 12pm after many false hope that it was around the corner. We had tofu and rice paper noodles for lunch before starting our climb down and up to the final hut. Nicholas found a quiet corner spot for our tent and we took pictures of the sunset. Chanel huddled in Nicholas' jacket while waiting for him. We had failed ramen pasta and toasted chocolate marshmallows for dinner. Nicholas did a smart double boil for the chocolate to save clean up.
 
 Boil water first before throwing it powder/carbs.
 
@@ -233,29 +240,34 @@ In total for a full day approximately 3L is required for each person.
 
 |       | B                        | L                                         | S           | D                                                                                                    |
 | ----- | ------------------------ | ----------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------- |
-| Day 1 | Soba Noodles @ Matsumoto | Apple ice cream                           | Wasabi Peas | Curry with soy protein, 5 pieces freeze dried tofu, cherry tomatoes, mushrooms and 5 slices of bread |
+| Day 1 | Soba Noodles @ Matsumoto | Apple ice cream, plums, cucumber          | Wasabi Peas | Curry with soy protein, 5 pieces freeze dried tofu, cherry tomatoes, mushrooms and 5 slices of bread |
 | Day 2 | Chocolate oats           | Miso soup with 2 pieces freeze dried tofu | Wasabi Peas | Somen noodles with fish stock, freeze dried tofu, soy protein, miso soup                             |
 | Day 3 | Mushroom oats            | 200gm mixed nuts with chocolate           |             | 300gm pasta with 5 pieces freeze dried tofu, spices                                                  |
 | Day 4 | Granola                  | Rice paper, miso soup, freeze dried tofu  | Nuts        | Ramen with soy protein, chocolate fondue marshmallows                                                |
 | Day 5 | Somen with miso soup     |                                           |             |                                                                                                      |
 
-### Expenses (todo)
+### Total Cost
 
-??? note "Expenses"
+??? note "Total Cost"
 
-    Cost: ~$1800
-
-    -   Flights: $615
-    -   \[4N\] Accoms: $489/2 = ~$245
-    -   \[4N\] Tent space: ~$100
-    -   Food: ~$400
-    -   Transport: ~$200
-        -   Within Tokyo: ~$40
-        -   Shinjuku to Kamikochi: ~$100
-        -   Kamikochi to Nagiso: ~$30
-        -   Magome to Shinjuku: ~$64/2 = $32
+    -   Flights: $664
+    -   \[5N\] Accoms: $570/2 = $285
+    -   \[4N\] Tent space: $80
+    -   Food: $365
+    -   Transport: $241
+        -   Within Tokyo: $65
+        -   Shinjuku to Matsumoto: $66
+        -   Matsumoto to Kamikochi: $27
+        -   Nakabusa to Azumino: $15
+        -   Azumino to Matsumoto: $15
+        -   Matsumoto to Nagiso: $15
+        -   Nagiso to Magome: $6
+        -   Magome to Shinjuku: $32
     -   Others:
-        -   Insurance: ~$56/2 = $28
+        -   Insurance: $28
+        -   SIM cards: $14
+
+Approximate total cost per person: **SGD 1677**
 
 ### Packing List
 
@@ -285,7 +297,7 @@ In total for a full day approximately 3L is required for each person.
     -   First aid kit (plasters, dressings, diarrhea meds, panadol)
     -   Plastic bags
     -   Ziploc bags
-    -   Face mask (Chanel)
+    -   Face mask
     -   Duct tape?
     -   Camera (KIV)
 
@@ -305,13 +317,13 @@ In total for a full day approximately 3L is required for each person.
     -   Thermal wear top
     -   Thermal wear bottom
     -   Underwear
-    -   City attire (T-shirt/jeans/s attire) (Chanel)
-    -   Trekking shoes (Chanel)
+    -   City attire (T-shirt/jeans/s attire)
+    -   Trekking shoes
     -   Sunglasses
 
     **Toiletries**
 
-    -   Toothbrush, toothpaste, shaver (Chanel)
+    -   Toothbrush, toothpaste, shaver
     -   Soap
     -   Shampoo
     -   Moisturizer
@@ -320,14 +332,14 @@ In total for a full day approximately 3L is required for each person.
     -   Hand sanitizer
     -   Powder detergent (to wash clothes)
     -   Toilet paper
-    -   Body/ Wet wipes (Chanel)
+    -   Body/ Wet wipes
 
     **Cooking**
 
     -   Liquid detergent (in bottle, small amount)
-    -   Stove (Nicholas)
-    -   Pots + Cutlery (Nicholas)
-    -   Water purification tablets (Nicholas)
+    -   Stove
+    -   Pots + Cutlery
+    -   Water purification tablets
     -   Sponge
     -   Water bottle (at least 2L)
     -   Thermos flask (optional)
@@ -340,8 +352,8 @@ In total for a full day approximately 3L is required for each person.
     -   Sleeping bag liner
     -   Towel
     -   Penknife
-    -   Chair (Nicholas)
-    -   Tent (Nicholas)
+    -   Chair
+    -   Tent
 
 ### Things to improve on in the future
 
