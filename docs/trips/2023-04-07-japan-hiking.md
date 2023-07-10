@@ -222,6 +222,15 @@ It was the last day in Tokyo. We checked out at 11am and purchased the Tokyo Day
   <figcaption>The food we brought up with us. Ramen, freeze dried tofu (for Nicholas) and textured soy protein were overall good choices.<figcaption/>
 </figure>
 
+Water consumption for 2 pax:
+
+-   Breakfast - 1L
+-   Lunch - 1L
+-   Hiking - 2L minimum
+-   Dinner - 1L
+
+In total for a full day approximately 3L is required for each person.
+
 |       | B                        | L                                         | S           | D                                                                                                    |
 | ----- | ------------------------ | ----------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------- |
 | Day 1 | Soba Noodles @ Matsumoto | Apple ice cream                           | Wasabi Peas | Curry with soy protein, 5 pieces freeze dried tofu, cherry tomatoes, mushrooms and 5 slices of bread |
@@ -232,19 +241,21 @@ It was the last day in Tokyo. We checked out at 11am and purchased the Tokyo Day
 
 ### Expenses (todo)
 
-Cost: ~$1800
+??? note "Expenses"
 
--   Flights: $615
--   \[4N\] Accoms: $489/2 = ~$245
--   \[4N\] Tent space: ~$100
--   Food: ~$400
--   Transport: ~$200
-    -   Within Tokyo: ~$40
-    -   Shinjuku to Kamikochi: ~$100
-    -   Kamikochi to Nagiso: ~$30
-    -   Magome to Shinjuku: ~$64/2 = $32
--   Others:
-    -   Insurance: ~$56/2 = $28
+    Cost: ~$1800
+
+    -   Flights: $615
+    -   \[4N\] Accoms: $489/2 = ~$245
+    -   \[4N\] Tent space: ~$100
+    -   Food: ~$400
+    -   Transport: ~$200
+        -   Within Tokyo: ~$40
+        -   Shinjuku to Kamikochi: ~$100
+        -   Kamikochi to Nagiso: ~$30
+        -   Magome to Shinjuku: ~$64/2 = $32
+    -   Others:
+        -   Insurance: ~$56/2 = $28
 
 ### Packing List
 
@@ -331,6 +342,52 @@ Cost: ~$1800
     -   Penknife
     -   Chair (Nicholas)
     -   Tent (Nicholas)
+
+### Things to improve on in the future
+
+??? note "Things to improve on"
+
+    **General**
+
+    - Inclusion of bus/train schedules to know when the last train/bus is
+    - Planning around long restaurant queues - get queue ticket as the first thing
+    - Book the same hotel at the start and end of the trip to be able to store luggage
+    - Avoid spending time in major cities
+
+    **Hiking**
+
+    - Packing:
+
+        - Having a waterproof backpack is important
+        - Consider putting clothes and sleeping bag in drysack
+        - Always overpack for warmth at night and uv tops for sunny day hikes
+        - Having warmer layers than the weather suggests is important
+        - UV sleeves/adequate sunblock as exposed sun is strong
+        - Having a cap/umbrella is important
+        - A small umbrella is useful for blocking out sunlight but not good if windy
+        - A small towel is good enough
+        - Consider disposable underwear
+        - Consider water bag
+        - Use big Ziploc bags for trash
+        - Bring super glue
+        - A watch is useful for checking sunset times quickly when estimating speed
+
+    - Food/Cooking:
+
+        - 250g fuel was enough for 5D4N 2 pax worth of cooking
+        - Japanese granola is not legit
+        - Chanel wants to bring biscuits
+        - A titanium pot might allow for better heat distribution
+        - Metal utensils are better
+        - Noodles were the best and most convenient cooking food
+        - Melting chocolate in a plastic bag is legit (plastic bag should ideally be big enough to cover the pot so dipping is easy)
+
+    - Miscellaneous
+
+        - A good phone camera is important
+        - Check weather beforehand to avoid carrying excess attire
+        - Put harder sections at the end of the route as weight will be less
+        - Start hiking early so there is more time to decide what to do
 
 ### Reference Maps & Guides
 
