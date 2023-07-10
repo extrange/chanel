@@ -16,8 +16,9 @@ site_url: https://chanel.nicholaslyz.com/
 nav:
   - Home: index.md
   - Story: story.md
-  - Trading Bot: trading-bot.md
   - Posts:
+    - Cooking Class Notes: posts/2023-05-14 Cooking class.md
+    - Trading Bot: posts/trading-bot.md
     - Teas: posts/2023-02-19-teas.md
     - Shanmugan Video: posts/2022-12-28-shanmugan-transcript.md
     - Sweet Potatoes: posts/2023-02-06-sweet-potatoes.md

@@ -6,16 +6,16 @@ Platform: IBKR
 
 Products: Forex for now (less market influence)
 
-# Forex Basics
+## Forex Basics
 
-## What is a Pip 
+### What is a Pip 
 - Forex currency pairs are quoted in terms of pips, short for percentage in points.
 -  In practical terms, a pip is one-hundredth of one percent (1/100 x .01) and appears in the fourth decimal place (0.0001).
 -  A pip equals one basis point.
 -  The bid-ask spread of a forex quote is measured in pips.
 -  The Japanese yen is an exception because its exchange rate extends only two decimal places past the decimal point, not four.
 
-## Calculating Pip
+### Calculating Pip
 - Assuming forex account is funded with U.S. dollars
 - When the USD is the second of the pair (or the quote currency), Multiply the size of a pip  by the trade value. (EURUSD, GBPUSD)
 	If you bought 10,000 euros against the dollar at 1.0801 and sold at 1.0811, you'd make a profit of 10 pips or $10. 
@@ -23,15 +23,15 @@ Products: Forex for now (less market influence)
 	If you bought 100,000 USD against the Canadian dollar at 1.2829 and sold at 1.2830, you'd make a profit of 1 pip or $7.79.
 
 
-# 0. Risk Management
-## Crap trades, timeouts and monthly limits
+## 0. Risk Management
+### Crap trades, timeouts and monthly limits
 Equally, you need to set monthly limits. A standard limit might be a 10% account balance stop per month. At that point you close all your positions immediately and stop trading till next month.
 
 Having monthly calendar breaks is nice for another reason. Say you made a load of money in January. You don’t want to start February feeling you are up 5% or it is too tempting to avoid trading all month and protect the existing win. Each month and each year should feel like a clean slate and an independent period. 
 
 Everyone has trading slumps. It is perfectly normal. It will definitely happen to you at some stage. The trick is to take a break and refocus. Conserve your capital by not trading a lot whilst you are on a losing streak. This period will be much harder for you emotionally and you’ll end up making suboptimal decisions. An enforced break will help you see the bigger picture.
 
-## Squeezes 
+### Squeezes 
 
 - A short squeeze is when a participant ends up in a short position they are forced to cover. Especially when the rest of the market knows that this participant can be bullied into stopping out at terrible levels, provided the market can briefly drive the price into their pain zone.
 
@@ -41,7 +41,7 @@ Everyone has trading slumps. It is perfectly normal. It will definitely happen t
 	- Generally market participants will not pay a lot of attention to commercial hedgers, which are also detailed in the report. This data is worth tracking but these folks are simply hedging real-world transactions rather than speculating so their activity is far less revealing and far more noisy. 
 	- ou can find the data online for free and [download it directly here](https://www.cftc.gov/MarketReports/CommitmentsofTraders/HistoricalViewable/index.htm).
 
-## Events
+### Events
 
 - Economic releases can cause large short-term volatility. The most famous is Non Farm Payrolls, which is the most widely watched measure of US employment levels and affects the price of many instruments.On an NFP announcement currencies like EURUSD might jump (or drop) 100 pips no problem. 
 
@@ -49,7 +49,7 @@ Everyone has trading slumps. It is perfectly normal. It will definitely happen t
 
 - For example, if you are trading off some intraday chart and scalping a few pips here and there it would be highly sensible to go into a known data release flat as it is pure coin-toss and not the reason for your trading. It only takes five minutes each day to plan for the day ahead so do not get caught out by this. Many retail traders get stopped out on such events when price volatility is at its peak.
 
-## Asymmetric losses
+### Asymmetric losses
 
 - Ideally what you are looking for is asymmetric risk trade set-ups: that is where the downside is clearly defined and smaller than the upside. What you want to avoid is the opposite.
 
@@ -57,7 +57,7 @@ Everyone has trading slumps. It is perfectly normal. It will definitely happen t
 
 - Other strategies like naively selling options have the same result. You win a small amount of money each day and [then spectacularly blow up](https://www.tampabay.com/business/how-tampas-james-cordier-went-from-high-roller-to-youtube-apology-after-losing-150-million-20190206/) at some point down the line.
 
-# 1. Capital and Position Sizing
+## 1. Capital and Position Sizing
 
 The first thing you have to know is how much capital you are working with. Let’s say you have $100,000 deposited. This is your maximum trading capital. Your trading capital is not the leveraged amount. It is the amount of money you have deposited and can withdraw or lose.
 
@@ -65,14 +65,14 @@ The first thing you have to know is how much capital you are working with. Let�
 2. Risk no more than 8% of one’s account balance on a specific theme. 
 3. No more than one in twenty trades are graded exceptional and allocated 5% of account balance risk
 
-# 2. Stop Loss
+## 2. Stop Loss
 A stop loss is a resting order, left with the broker, to automatically close your position if it reaches a certain price.
 
 The valid concern with stop losses is that disreputable brokers look for a concentration of stops and then, when the market is close, whipsaw the price through the stop levels so that the clients ‘stop out’ and sell to the broker at a low rate before the market naturally comes back higher. This is referred to as ‘stop hunting’.
 
 *Always have a pre-determined stop loss before you put on a trade*
 
-## Price-based stops
+### Price-based stops
 
 1.  Use technical analysis to pick important levels (support, resistance, previous high/lows, moving averages etc.) as these provide clear exit and entry points on a trade.
     
@@ -85,7 +85,7 @@ The valid concern with stop losses is that disreputable brokers look for a conce
     
 3.  Always pick your stop level first. Then use a calculator to determine the appropriate lot size for the position, based on the % of your account balance you wish to risk on the trade.
 
-## Fundamental stops 
+### Fundamental stops 
 
 Used alongside - not instead of - price stops. If either breaks you’re out.
 
@@ -93,13 +93,13 @@ If you stop understanding why a product is going up or down and your fundamental
 
 If you have some big upcoming data like Non Farm Payrolls that you know can move the market +/- 150 pips and you have no edge going into the release then many traders will take off or scale down their positions. They’ll go back into the positions when the data is out and the market has quietened down after fifteen minutes or so. This is a matter of some debate - many traders consider it a coin toss and argue you win some and lose some and it all averages out.
 
-## Trailing stops
+### Trailing stops
 
 Trailing stops can also be used to ‘lock in’ profits. We looked at those before. As the trade moves in your favour (say up if you are long) the stop loss ratchets with it.
 
-# 3. Entering a position
+## 3. Entering a position
 
-## Limit order
+### Limit order
 
 Use technical analysis to pick important levels (support, resistance, previous high/lows, moving averages etc.) as these provide clear exit and entry points on a trade.
 
@@ -111,12 +111,12 @@ Again, typically traders will use tech analysis to identify attractive levels. A
 
 So this time if we know everyone is going to buy around the recent low of 1.1205 we might leave the take profit bit a little bit above there at 1.1210 to ensure it gets done. Sure it costs 5 more pips but how mad would you be if the low was 1.1207 and then it rallied a hundred points and you didn’t have the trade on?!
 
-## Scaling 
+### Scaling 
 Scaling in is one such technique. Let’s imagine that you think we are in a long-term bulltrend for AUDUSD but experiencing a brief retracement. You want to take a total position of 500,000 AUD and don’t have a strong view on the current price action.
 
 You might therefore leave a series of five bids of 100,000. As the price moves lower each one gets hit. The nice thing about scaling in is it reduces pressure on you to pick the perfect level. Of course the risk is that not all your orders get hit before the price moves higher and you have to trade at-market.
 
-## Pyramiding
+### Pyramiding
 Pyramiding is the second technique. Pyramiding is for take profits what a trailing stop loss is to regular stops. It is especially common for momentum traders.
 
 Again let’s imagine we’re bullish AUDUSD and want to take a position of 500,000 AUD.
@@ -125,7 +125,7 @@ Here we add 100,000 when our first signal is reached. Then we add subsequent cli
 
 Obviously this is quite nice as we humans love trading when it goes in our direction. However, the drawback is obvious: we haven’t had the full amount of risk on from the start of the trend.
 
-# 4. Exiting a winning position
+## 4. Exiting a winning position
 
 Let winners run. Just like stops you need to know in advance the level where you will close out at a profit. Then let the trade happen. Don’t override yourself and let emotions force you to take a small profit. A classic mistake to avoid.
 
