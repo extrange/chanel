@@ -28,6 +28,9 @@ nav:
     - "2022 Oct: Bintan": trips/2022-09-15-bintan.md
     - "2022 May: Nice, France": trips/2022-05-france-nice-hiking.md
     - "2022 Apr: Lazarus Island": trips/2022-04-09-lazarus-camping.md
+  - Trading:
+    - "2023 May: Notes": trading/2023-05-07-trading-bot.md
+    - "2023 Jul: CHFJPY CFD": trading/2023-07-21-CHFJPY-CFD.md
 markdown_extensions:
   - abbr
   - attr_list
