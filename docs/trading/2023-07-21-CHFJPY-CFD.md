@@ -1,4 +1,4 @@
-# Automated Trading System with CHFJPY CFD 8 May - 21 Jul 2023
+# Trading with CHFJPY 8 May - 21 Jul 2023
 
 ## Setting Up an IBKR T Reg Margin Account
 - Under the Federal Reserve’s Regulation T, investors can borrow up to 50% of the purchase price of securities.
@@ -66,7 +66,7 @@ Due to technical issues, the strategy was not executed properly. It executed onl
 - Backtested chart:
 ![Phase 1 Chart](../static/2023-07-21/P1_SmaApo.png)
 
-## Phase 2: KAMA
+### Phase 2: KAMA
 - Period: 3Jun-28Jun (4 weeks)
 - Strategy: SMA APO (n=30, n_multiplier=3, n_apo_slope=0)
 
@@ -79,7 +79,7 @@ The strategy performed well at the start, recording a gain of JPY 44,850 (2.9%).
 - Backtested Chart:
 ![Phase 2 Chart](../static/2023-07-21/P2_KAMA.png)
 
-## Phase 3: BEST
+### Phase 3: BEST
 - Period: 29Jun-21Jul (3 weeks)
 - Strategy: BEST (n=30, n_multiplier=3, lt_n=150, lt_std=10, st_std=60)
 
