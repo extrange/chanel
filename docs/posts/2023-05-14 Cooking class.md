@@ -1,3 +1,9 @@
+# Cooking Class
+
+Attended together on 2023-05-14 and 2023-05-21.
+
+Recipe book [here](../static/2023-05-14/recipes.pdf).
+
 Types of flour, from lowest to highest gluten
 
 -   Cake flour
