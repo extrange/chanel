@@ -1,6 +1,5 @@
 # Trading Bot Core
 
-Main indicators: Awesome Oscillator
 
 Platform: IBKR
 

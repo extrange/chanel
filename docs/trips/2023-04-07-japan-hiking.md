@@ -1,5 +1,9 @@
 # Japan Panorama Ginza Hike 29 Jun - 9 Jul 2023
 
+<figure>
+  <a href="/static/2023-04-07/panoramaginza.jpg"><img src="/static/2023-04-07/panoramaginza.jpg" alt="panoramaginza" loading="lazy"/></a>
+</figure>
+
 <figure style="max-width:300px">
   <a href="/static/2023-04-07/map-highlighted.jpg"><img src="/static/2023-04-07/map-highlighted.jpg" alt="Hiking Map" loading="lazy"/></a>
   <figcaption>Panorama Ginza Trail (click to enlarge). We started at Taisho Pond (bottom left) and hiked to Nakabusa Onsen (top right) over 5D4N in a tent.<figcaption/>
@@ -44,8 +48,11 @@ Chanel insisted on having cake on the train to Matsumoto and she purchase a sinf
   <a href="/static/2023-04-07/d1.jpg"><img src="/static/2023-04-07/d1.jpg" alt="D1" loading="lazy"/></a>
   <figcaption>25.44km (+908m/-131m) over 6h55m (3.6km/h) <a href="/static/2023-04-07/D1 Taisho pond to Karasawa Hutte.gpx">GPX file</a><figcaption/>
 </figure>
-
--   1050 Took train/Bus to Kamikochi (¥2,710, [schedule][kamikochi-bus-info])
+<figure>
+  <a href="/static/2023-04-07/karasawa.jpg"><img src="/static/2023-04-07/karasawa.jpg" alt="jonen" loading="lazy"/></a>
+  <figcaption>Karasawa Hutte Camp Site, surrounded by 4 mountains (2,310m)<figcaption/>
+</figure>
+-   1010 Took train/Bus to Kamikochi (¥2,710, [schedule][kamikochi-bus-info])
 -   1200 Arrived at Taisho Pond at Chanel's request
     -   Refilled water, ate apple ice cream
     -   Filled out [mountain climbing card][trek-itinerary] and put it in the box at the start of the Dakasawa trailhead
@@ -87,7 +94,10 @@ We had curry with bread. Peanut butter is not recommended with curry. The bread 
   <a href="/static/2023-04-07/d2.jpg"><img src="/static/2023-04-07/d2.jpg" alt="D2" loading="lazy"/></a>
   <figcaption>19.58km (+1075m/-701m) over 7h19m (2.6km/h) <a href="/static/2023-04-07/D2 Karasawa to Chokagatte.gpx">GPX file</a><figcaption/>
 </figure>
-
+<figure>
+  <a href="/static/2023-04-07/chogatake.jpg"><img src="/static/2023-04-07/chogatake.jpg" alt="chogatake" loading="lazy"/></a>
+  <figcaption>Chōgatake Hütte Camp Site, overlooking Azumino (2,670m)<figcaption/>
+</figure>
 -   Karasawa -> Yoku Valley (-690m) -> Yokoo Junction (+1,000m) -> Chogatake Hutte
 -   Overnight at [Chogatake Hutte][chogatake]
 
@@ -100,6 +110,10 @@ Today was the 800m descent to Yokoo, then the 1000 ascent to Chogatake hut. The 
 <figure>
   <a href="/static/2023-04-07/d3.jpg"><img src="/static/2023-04-07/d3.jpg" alt="D3" loading="lazy"/></a>
   <figcaption>10.91km (+549m/-758m) over 5h22m (1.8km/h) <a href="/static/2023-04-07/D3 Chogatake to Joten.gpx">GPX file</a><figcaption/>
+</figure>
+<figure>
+  <a href="/static/2023-04-07/jonen.jpg"><img src="/static/2023-04-07/jonen.jpg" alt="jonen" loading="lazy"/></a>
+  <figcaption>Jonen-goya Camp Site, with a view of Yarigatake (2,450m)<figcaption/>
 </figure>
 
 -   Chogatake Hutte -> Mount Jonen -> Jonen-goya
@@ -125,13 +139,24 @@ Chanel wanted to give up the 400m steep ascend to Mt Jonen. Even after reaching 
   <a href="/static/2023-04-07/d4.jpg"><img src="/static/2023-04-07/d4.jpg" alt="D4" loading="lazy"/></a>
   <figcaption>13.38km (+705m/-469m) over 5h56m (2.1km/h) <a href="/static/2023-04-07/D4 Jogen to Ensanso.gpx">GPX file</a><figcaption/>
 </figure>
+<figure>
+  <a href="/static/2023-04-07/enzansou.jpg"><img src="/static/2023-04-07/enzansou.jpg" alt="enzansou" loading="lazy"/></a>
+  <figcaption>Sunset at Enzan-so (2,712m)<figcaption/>
+</figure>
 
 -   Jonen-koya -> Mt. Otensho -> Enzan-so Mountain Hut
--   Overnight at [Enzan-so Mountain Hut][ensanzou]
+-   Overnight at [Enzan-so Mountain Hut][enzansou]
 
 **Chanel's Journal**
 
-Today was the most scenic trail out of all the 4 days. For breakfast, Chanel failed making the polenta and burnt the pot so we settled with granola instead. We walked along the ridge with pretty views of the mountain and path. We encountered a pair of Caucasian females at least 6 times on the route to ensanzo hut. We overtake them during descents and they overtook us during ascents because Chanel was too tired by then. We reached Daitenso hut at around 12pm after many false hope that it was around the corner. We had tofu and rice paper noodles for lunch before starting our climb down and up to the final hut. Nicholas found a quiet corner spot for our tent and we took pictures of the sunset. Chanel huddled in Nicholas' jacket while waiting for him. We had failed ramen pasta and toasted chocolate marshmallows for dinner. Nicholas did a smart double boil for thr chocolate to save clean up.
+Today was the most scenic trail out of all the 4 days.
+
+<figure>
+  <a href="/static/2023-04-07/abovetheclouds.jpg"><img src="/static/2023-04-07/abovetheclouds.jpg" alt="abovetheclouds" loading="lazy"/></a>
+  <figcaption>Photo taken by a Japanese hiker who passed us again on her way back<figcaption/>
+</figure>
+
+For breakfast, Chanel failed making the polenta and burnt the pot so we settled with granola instead. We walked along the ridge with pretty views of the mountain and path. We encountered a pair of Caucasian females at least 6 times on the route to ensanzo hut. We overtake them during descents and they overtook us during ascents because Chanel was too tired by then. We reached Daitenso hut at around 12pm after many false hope that it was around the corner. We had tofu and rice paper noodles for lunch before starting our climb down and up to the final hut. Nicholas found a quiet corner spot for our tent and we took pictures of the sunset. Chanel huddled in Nicholas' jacket while waiting for him. We had failed ramen pasta and toasted chocolate marshmallows for dinner. Nicholas did a smart double boil for the chocolate to save clean up.
 
 Boil water first before throwing it powder/carbs.
 
@@ -140,6 +165,10 @@ Boil water first before throwing it powder/carbs.
 <figure>
   <a href="/static/2023-04-07/d5.jpg"><img src="/static/2023-04-07/d5.jpg" alt="D5" loading="lazy"/></a>
   <figcaption>7.26km (+0m/-1145) over 2h33m (2.8km/h) <a href="/static/2023-04-07/D5 Ensanso to Nakabusa onsen.gpx">GPX file</a><figcaption/>
+</figure>
+<figure>
+  <a href="/static/2023-04-07/azumino.jpg"><img src="/static/2023-04-07/azumino.jpg" alt="azumino" loading="lazy"/></a>
+  <figcaption>Stopover at the Farmers' Market<figcaption/>
 </figure>
 
 -   Enzan-so Mountain Hut -> Nakabusan Onsen
@@ -233,29 +262,34 @@ In total for a full day approximately 3L is required for each person.
 
 |       | B                        | L                                         | S           | D                                                                                                    |
 | ----- | ------------------------ | ----------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------- |
-| Day 1 | Soba Noodles @ Matsumoto | Apple ice cream                           | Wasabi Peas | Curry with soy protein, 5 pieces freeze dried tofu, cherry tomatoes, mushrooms and 5 slices of bread |
+| Day 1 | Soba Noodles @ Matsumoto | Apple ice cream, plums, cucumber          | Wasabi Peas | Curry with soy protein, 5 pieces freeze dried tofu, cherry tomatoes, mushrooms and 5 slices of bread |
 | Day 2 | Chocolate oats           | Miso soup with 2 pieces freeze dried tofu | Wasabi Peas | Somen noodles with fish stock, freeze dried tofu, soy protein, miso soup                             |
 | Day 3 | Mushroom oats            | 200gm mixed nuts with chocolate           |             | 300gm pasta with 5 pieces freeze dried tofu, spices                                                  |
 | Day 4 | Granola                  | Rice paper, miso soup, freeze dried tofu  | Nuts        | Ramen with soy protein, chocolate fondue marshmallows                                                |
 | Day 5 | Somen with miso soup     |                                           |             |                                                                                                      |
 
-### Expenses (todo)
+### Total Cost
 
-??? note "Expenses"
+??? note "Total Cost"
 
-    Cost: ~$1800
-
-    -   Flights: $615
-    -   \[4N\] Accoms: $489/2 = ~$245
-    -   \[4N\] Tent space: ~$100
-    -   Food: ~$400
-    -   Transport: ~$200
-        -   Within Tokyo: ~$40
-        -   Shinjuku to Kamikochi: ~$100
-        -   Kamikochi to Nagiso: ~$30
-        -   Magome to Shinjuku: ~$64/2 = $32
+    -   Flights: $664
+    -   \[5N\] Accoms: $570/2 = $285
+    -   \[4N\] Tent space: $80
+    -   Food: $365
+    -   Transport: $241
+        -   Within Tokyo: $65
+        -   Shinjuku to Matsumoto: $66
+        -   Matsumoto to Kamikochi: $27
+        -   Nakabusa to Azumino: $15
+        -   Azumino to Matsumoto: $15
+        -   Matsumoto to Nagiso: $15
+        -   Nagiso to Magome: $6
+        -   Magome to Shinjuku: $32
     -   Others:
-        -   Insurance: ~$56/2 = $28
+        -   Insurance: $28
+        -   SIM cards: $14
+
+Approximate total cost per person: **SGD 1677**
 
 ### Packing List
 
@@ -285,7 +319,7 @@ In total for a full day approximately 3L is required for each person.
     -   First aid kit (plasters, dressings, diarrhea meds, panadol)
     -   Plastic bags
     -   Ziploc bags
-    -   Face mask (Chanel)
+    -   Face mask
     -   Duct tape?
     -   Camera (KIV)
 
@@ -305,13 +339,13 @@ In total for a full day approximately 3L is required for each person.
     -   Thermal wear top
     -   Thermal wear bottom
     -   Underwear
-    -   City attire (T-shirt/jeans/s attire) (Chanel)
-    -   Trekking shoes (Chanel)
+    -   City attire (T-shirt/jeans/s attire)
+    -   Trekking shoes
     -   Sunglasses
 
     **Toiletries**
 
-    -   Toothbrush, toothpaste, shaver (Chanel)
+    -   Toothbrush, toothpaste, shaver
     -   Soap
     -   Shampoo
     -   Moisturizer
@@ -320,14 +354,14 @@ In total for a full day approximately 3L is required for each person.
     -   Hand sanitizer
     -   Powder detergent (to wash clothes)
     -   Toilet paper
-    -   Body/ Wet wipes (Chanel)
+    -   Body/ Wet wipes
 
     **Cooking**
 
     -   Liquid detergent (in bottle, small amount)
-    -   Stove (Nicholas)
-    -   Pots + Cutlery (Nicholas)
-    -   Water purification tablets (Nicholas)
+    -   Stove
+    -   Pots + Cutlery
+    -   Water purification tablets
     -   Sponge
     -   Water bottle (at least 2L)
     -   Thermos flask (optional)
@@ -340,8 +374,8 @@ In total for a full day approximately 3L is required for each person.
     -   Sleeping bag liner
     -   Towel
     -   Penknife
-    -   Chair (Nicholas)
-    -   Tent (Nicholas)
+    -   Chair
+    -   Tent
 
 ### Things to improve on in the future
 
@@ -413,7 +447,6 @@ Prices excluding flights.
 
 [yamarent]: https://www.yamarent.com/en?language=en
 [lbreath]: https://goo.gl/maps/TC7o16L62ei5oeJ68
-[l-breath]: https://goo.gl/maps/dee1KP58vdfVVJot7
 [azumino]: https://www.snowmonkeyresorts.com/2019/04/cycling-through-rural-azumino-to-matsumoto-castle/
 [matsumoto-map]: https://visitmatsumoto.com/wp-content/uploads/2023/04/TownWalkingMap_EN.pdf
 [hike-map]: https://www.hikemasterjapan.com/_files/ugd/60507d_b5b49614a7f740b98684e04c7a4e462a.pdf?index=true
@@ -430,7 +463,9 @@ Prices excluding flights.
 [dakasawa]: https://thejapanalps.com/en/mountain-hut/takesawagoya/
 [karasawa]: https://thejapanalps.com/en/mountain-hut/karasawahyutte/
 [chogatake]: https://thejapanalps.com/en/mountain-hut/chogatake/
-[daiten-sou]: https://thejapanalps.com/en/mountain-hut/daitenso/
+[jonen]: https://thejapanalps.com/en/mountain-hut/jonengoya/
+[enzansou]: https://thejapanalps.com/en/mountain-hut/enzanso/
+[daitensou]: https://thejapanalps.com/en/mountain-hut/daitenso/
 [nakabusa]: https://thejapanalps.com/en/access-nakabusa/
 [nagiso-accoms]: https://www.booking.com/Share-QgwY131
 [shinjuku-granbell]: https://secure.booking.com/confirmation.en-gb.html?aid=337862;auth_key=CGyWzSDRKiH2Akaf&;source=conf_email;pbsource=conf_email_modify;pbtrack=email_mainCTA;from_conf_email_tracking=1
@@ -452,11 +487,9 @@ Prices excluding flights.
 [alpico]: http://sawayaka.alpico.co.jp/
 [climbing-bus]: https://bus.maitabi.jp/tour_catsearch.html?departure=1&month=7&area=17&style=3&page=1
 [itinerary]: /static/2023-04-07/itinerary.pdf
+[sekiya]: https://goo.gl/maps/RcmRhgYsF4kuRnux5
+[matsumoto-soba]: https://goo.gl/maps/Cp1ZYLPZgUthgxR3A
 [india-trek]: https://sgtrek.com/event/kashmir-tarsar-marsar-trek-2023/
 [north-africa-trek]: https://sgtrek.com/event/climb-mt-toubkal-2023/
 [russia-trek]: https://sgtrek.com/event/mt-elbrus-classic-south-route-2023/
 [tajikistan-trek]: https://sgtrek.com/event/guided-expeditions-to-lenin-peak-2023/
-[jonen]: https://thejapanalps.com/en/mountain-hut/jonengoya/
-[sekiya]: https://goo.gl/maps/RcmRhgYsF4kuRnux5
-[ensanzou]: https://thejapanalps.com/en/mountain-hut/enzanso/
-[matsumoto-soba]: https://goo.gl/maps/Cp1ZYLPZgUthgxR3A

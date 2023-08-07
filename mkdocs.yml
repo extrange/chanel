@@ -18,7 +18,6 @@ nav:
   - Story: story.md
   - Posts:
     - Cooking Class Notes: posts/2023-05-14 Cooking class.md
-    - Trading Bot: posts/trading-bot.md
     - Teas: posts/2023-02-19-teas.md
     - Shanmugan Video: posts/2022-12-28-shanmugan-transcript.md
     - Sweet Potatoes: posts/2023-02-06-sweet-potatoes.md
@@ -28,6 +27,9 @@ nav:
     - "2022 Oct: Bintan": trips/2022-09-15-bintan.md
     - "2022 May: Nice, France": trips/2022-05-france-nice-hiking.md
     - "2022 Apr: Lazarus Island": trips/2022-04-09-lazarus-camping.md
+  - Trading:
+    - "2023 May: Notes": trading/2023-05-07-trading-bot.md
+    - "2023 Jul: CHFJPY CFD": trading/2023-07-21-CHFJPY-CFD.md
 markdown_extensions:
   - abbr
   - attr_list
