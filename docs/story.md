@@ -147,7 +147,6 @@ And then static.
 
 Nicholas shook his head. He seemed to stagger slightly, but quickly regained his balance.
 
-
 ## Chapter 4: The Dive
 
 "Now, this way please," the floating AI chirped. It flew closer to the edge of the deck, toward a section without railings.
@@ -836,3 +835,27 @@ Nicholas was not surprised that she would come looking for him. He was also look
 Nicholas thought for a moment. He knew he had no choice. He has felt the calling to the temple through his veins and bones. It beckons and coaxes him to fulfil his or its need and he needs to find out more.
 
 The lift doors opened and the two figures walked out. One following the other to the edge of the ship deck. The feminine leader grew out a lizard-like tail and encouraged the male behind to follow suit. Quick to adapt, both of them dived into the dark ocean.
+
+Chanel found herself standing on the top of a barren sand dune, overlooking a vast desert. The view was breathtaking, and the immensity of the land contrasted with its emptiness, for she was alone here, with brown sand stretching for miles in every direction. No birds in the distance, insects, or even a patch of green was to be seen.
+
+She looked downward, and found herself wearing a white tunic, torn and tattered in various locations. She bent down and scooped a handful of sand - it was extremely fine, and fell between her fingers. The entire landscape was soundless - so quiet in fact, that she could hear the sounds of the falling sand. 
+
+_What is this place,_ she wondered. It seemed ethereal, even magical. In the dim recesses of her mind, she could not recall seeing any place like that on Earth.
+
+A distant movement in the horizon caught her attention. There seemed to be a line of approaching humanoid figures - very distant, but in immense numbers, for they spanned the entire horizon, left to right, as far as she could see. She continued to watch, and saw that they were people, dressed in various clothings, running toward her. As they closed, she could see their features more clearly, and they seemed expressionless, emotionless, yet running toward her with supernatural urgency. She looked around her - they were approaching from all directions.
+
+When the closest of them was about a hundred meters away from her, all of them abruptly stopped running, and stood there, staring at her. Strangely, she did not feel threatened - but rather a sense of sorrow and sadness overpowered her. She looked at their faces - Nicholas! He was there, looking blankly at her. His usual vigour and vitality seemed to have disappeared.
+
+The group of people around her continued to stare, and then one of the men she didn't recognize opened his mouth, stretching wide almost painfully. It seemed like an accidental gesture, like a yawn, but she felt compelled to stare, looking at his teeth and the void of his pharynx beyond. It seemed so dark, and as she continued to watch she could see the darkness spread across over his teeth, like a single tendril. No, not a tendril - it was his tongue. It was completely black, and serpent-like, forked at the tip.
+
+Then she heard a chorus of moans, and saw that the rest of the people were doing the same gesture, their forked tongues flitting at the air, like a mass of serpents.
+
+"Help us," they pleaded with her, "free us from this torment..."
+
+She was surrounded, with nowhere to go. As they closed around her, surrounding her with the same inky darkness she had seen in their mouths, her vision blacked out.
+
+Chanel sat up with a start, sweating. It was still night. The cool sea air was blowing through the curtains, and on the floor there were scratches. Slowly, her memories came back to her. The cube. The struggle. Tricia. And Nicholas!
+
+Just then, her phone buzzed. It was Gin, the lab tech aboard the space cruiser Morning Dew, and her ex-colleague, who had since moved on to greater heights, literally, working in the cruiser.
+
+_Hey, Gin here. Hope you're enjoying yourself with the research on Xenon microparticles here. It's kinda boring on the cruiser, maybe I should have stayed with the Naval department of DEAD instead. Anyway, I need your help - we're trying to locate a mutant. DNA looks messed up, not sure how this is even possible. Meet me on the ship when you can?_
