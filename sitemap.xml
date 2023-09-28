@@ -2,57 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://chanel.nicholaslyz.com/</loc>
-         <lastmod>2023-08-25</lastmod>
+         <lastmod>2023-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chanel.nicholaslyz.com/posts/2022-12-28-shanmugan-transcript/</loc>
-         <lastmod>2023-08-25</lastmod>
+         <loc>https://chanel.nicholaslyz.com/blog/</loc>
+         <lastmod>2023-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chanel.nicholaslyz.com/posts/2023-02-06-sweet-potatoes/</loc>
-         <lastmod>2023-08-25</lastmod>
+         <loc>https://chanel.nicholaslyz.com/blog/2022/12/28/facebooks-statements-and-conduct-on-the-cambridge-analytica-data-breaches/</loc>
+         <lastmod>2023-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chanel.nicholaslyz.com/posts/2023-02-19-teas/</loc>
-         <lastmod>2023-08-25</lastmod>
+         <loc>https://chanel.nicholaslyz.com/blog/2023/02/06/on-sweet-potatoes/</loc>
+         <lastmod>2023-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chanel.nicholaslyz.com/posts/2023-05-14%20Cooking%20class/</loc>
-         <lastmod>2023-08-25</lastmod>
+         <loc>https://chanel.nicholaslyz.com/blog/2023/02/19/teas/</loc>
+         <lastmod>2023-09-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/blog/2023/05/14/cooking-class/</loc>
+         <lastmod>2023-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chanel.nicholaslyz.com/stories/story/</loc>
-         <lastmod>2023-08-25</lastmod>
+         <lastmod>2023-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chanel.nicholaslyz.com/trips/2022-04-09-lazarus-camping/</loc>
-         <lastmod>2023-08-25</lastmod>
+         <lastmod>2023-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chanel.nicholaslyz.com/trips/2022-05-france-nice-hiking/</loc>
-         <lastmod>2023-08-25</lastmod>
+         <lastmod>2023-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chanel.nicholaslyz.com/trips/2022-08-22-vietnam/</loc>
-         <lastmod>2023-08-25</lastmod>
+         <lastmod>2023-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chanel.nicholaslyz.com/trips/2022-09-15-bintan/</loc>
-         <lastmod>2023-08-25</lastmod>
+         <lastmod>2023-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chanel.nicholaslyz.com/trips/2023-04-07-japan-hiking/</loc>
-         <lastmod>2023-08-25</lastmod>
+         <lastmod>2023-09-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/blog/archive/2023/</loc>
+         <lastmod>2023-09-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/blog/archive/2022/</loc>
+         <lastmod>2023-09-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
