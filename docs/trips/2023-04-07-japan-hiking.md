@@ -1,16 +1,24 @@
+---
+date: 2023-04-07
+categories:
+    - Trips
+---
+
 # Japan Panorama Ginza Hike 29 Jun - 9 Jul 2023
 
-<figure>
-  <a href="/static/2023-04-07/panoramaginza.jpg"><img src="/static/2023-04-07/panoramaginza.jpg" alt="panoramaginza" loading="lazy"/></a>
-</figure>
+Our first multiday hike with camping.
+
+![](../static/2023-04-07/panoramaginza.jpg)
+
+<!-- more -->
 
 <figure style="max-width:300px">
-  <a href="/static/2023-04-07/map-highlighted.jpg"><img src="/static/2023-04-07/map-highlighted.jpg" alt="Hiking Map" loading="lazy"/></a>
+  <img src="/static/2023-04-07/map-highlighted.jpg" alt="Hiking Map" loading="lazy"/>
   <figcaption>Panorama Ginza Trail (click to enlarge). We started at Taisho Pond (bottom left) and hiked to Nakabusa Onsen (top right) over 5D4N in a tent.<figcaption/>
 </figure>
 
 <figure>
-  <a href="/static/2023-04-07/total-profile.jpg"><img src="/static/2023-04-07/total-profile.jpg" alt="Elevation profile" loading="lazy"/></a>
+  <img src="/static/2023-04-07/total-profile.jpg" alt="Elevation profile" loading="lazy"/>
   <figcaption>Total distance was 76.94km over 5 days (moving time 28hr 6min, average speed 2.6km/h). Total ascent was 3227m, and total descent was 3228m. <a href="/static/2023-04-07/merged.gpx">GPX file</a><figcaption/>
 </figure>
 
@@ -45,13 +53,15 @@ Chanel insisted on having cake on the train to Matsumoto and she purchase a sinf
 ## Jul 1, Sat D1: Taisho Pond to Karasawa Hutte
 
 <figure>
-  <a href="/static/2023-04-07/d1.jpg"><img src="/static/2023-04-07/d1.jpg" alt="D1" loading="lazy"/></a>
+  <img src="/static/2023-04-07/d1.jpg" alt="D1" loading="lazy"/>
   <figcaption>25.44km (+908m/-131m) over 6h55m (3.6km/h) <a href="/static/2023-04-07/D1 Taisho pond to Karasawa Hutte.gpx">GPX file</a><figcaption/>
 </figure>
+
 <figure>
-  <a href="/static/2023-04-07/karasawa.jpg"><img src="/static/2023-04-07/karasawa.jpg" alt="jonen" loading="lazy"/></a>
+  <img src="/static/2023-04-07/karasawa.jpg" alt="jonen" loading="lazy"/>
   <figcaption>Karasawa Hutte Camp Site, surrounded by 4 mountains (2,310m)<figcaption/>
 </figure>
+
 -   1010 Took train/Bus to Kamikochi (¥2,710, [schedule][kamikochi-bus-info])
 -   1200 Arrived at Taisho Pond at Chanel's request
     -   Refilled water, ate apple ice cream
@@ -91,11 +101,11 @@ We had curry with bread. Peanut butter is not recommended with curry. The bread 
 ## Jul 2, Sun D2: Karasawa Hutte to Chogatake Hutte
 
 <figure>
-  <a href="/static/2023-04-07/d2.jpg"><img src="/static/2023-04-07/d2.jpg" alt="D2" loading="lazy"/></a>
+  <img src="/static/2023-04-07/d2.jpg" alt="D2" loading="lazy"/>
   <figcaption>19.58km (+1075m/-701m) over 7h19m (2.6km/h) <a href="/static/2023-04-07/D2 Karasawa to Chokagatte.gpx">GPX file</a><figcaption/>
 </figure>
 <figure>
-  <a href="/static/2023-04-07/chogatake.jpg"><img src="/static/2023-04-07/chogatake.jpg" alt="chogatake" loading="lazy"/></a>
+  <img src="/static/2023-04-07/chogatake.jpg" alt="chogatake" loading="lazy"/>
   <figcaption>Chōgatake Hütte Camp Site, overlooking Azumino (2,670m)<figcaption/>
 </figure>
 -   Karasawa -> Yoku Valley (-690m) -> Yokoo Junction (+1,000m) -> Chogatake Hutte
@@ -108,11 +118,11 @@ Today was the 800m descent to Yokoo, then the 1000 ascent to Chogatake hut. The 
 ## Jul 3, Mon D3: Chogatake Hutte to Jonen-goya
 
 <figure>
-  <a href="/static/2023-04-07/d3.jpg"><img src="/static/2023-04-07/d3.jpg" alt="D3" loading="lazy"/></a>
+  <img src="/static/2023-04-07/d3.jpg" alt="D3" loading="lazy"/>
   <figcaption>10.91km (+549m/-758m) over 5h22m (1.8km/h) <a href="/static/2023-04-07/D3 Chogatake to Joten.gpx">GPX file</a><figcaption/>
 </figure>
 <figure>
-  <a href="/static/2023-04-07/jonen.jpg"><img src="/static/2023-04-07/jonen.jpg" alt="jonen" loading="lazy"/></a>
+  <img src="/static/2023-04-07/jonen.jpg" alt="jonen" loading="lazy"/>
   <figcaption>Jonen-goya Camp Site, with a view of Yarigatake (2,450m)<figcaption/>
 </figure>
 
@@ -136,11 +146,11 @@ Chanel wanted to give up the 400m steep ascend to Mt Jonen. Even after reaching 
 ## Jul 4, Tue D4: Jonen-koya to Enzan-so
 
 <figure>
-  <a href="/static/2023-04-07/d4.jpg"><img src="/static/2023-04-07/d4.jpg" alt="D4" loading="lazy"/></a>
+  <img src="/static/2023-04-07/d4.jpg" alt="D4" loading="lazy"/>
   <figcaption>13.38km (+705m/-469m) over 5h56m (2.1km/h) <a href="/static/2023-04-07/D4 Jogen to Ensanso.gpx">GPX file</a><figcaption/>
 </figure>
 <figure>
-  <a href="/static/2023-04-07/enzansou.jpg"><img src="/static/2023-04-07/enzansou.jpg" alt="enzansou" loading="lazy"/></a>
+<a href="/static/2023-04-07/enzansou.jpg"><img src="/static/2023-04-07/enzansou.jpg" alt="enzansou" loading="lazy"/>
   <figcaption>Sunset at Enzan-so (2,712m)<figcaption/>
 </figure>
 
@@ -152,7 +162,7 @@ Chanel wanted to give up the 400m steep ascend to Mt Jonen. Even after reaching 
 Today was the most scenic trail out of all the 4 days.
 
 <figure>
-  <a href="/static/2023-04-07/abovetheclouds.jpg"><img src="/static/2023-04-07/abovetheclouds.jpg" alt="abovetheclouds" loading="lazy"/></a>
+  <img src="/static/2023-04-07/abovetheclouds.jpg" alt="abovetheclouds" loading="lazy"/>
   <figcaption>Photo taken by a Japanese hiker who passed us again on her way back<figcaption/>
 </figure>
 
@@ -163,11 +173,11 @@ Boil water first before throwing it powder/carbs.
 ## Jul 5, Wed D5: Enzan-so to Nakabusan Onsen, cycling from Azumino to Matsumoto
 
 <figure>
-  <a href="/static/2023-04-07/d5.jpg"><img src="/static/2023-04-07/d5.jpg" alt="D5" loading="lazy"/></a>
+  <img src="/static/2023-04-07/d5.jpg" alt="D5" loading="lazy"/>
   <figcaption>7.26km (+0m/-1145) over 2h33m (2.8km/h) <a href="/static/2023-04-07/D5 Ensanso to Nakabusa onsen.gpx">GPX file</a><figcaption/>
 </figure>
 <figure>
-  <a href="/static/2023-04-07/azumino.jpg"><img src="/static/2023-04-07/azumino.jpg" alt="azumino" loading="lazy"/></a>
+  <img src="/static/2023-04-07/azumino.jpg" alt="azumino" loading="lazy"/>
   <figcaption>Stopover at the Farmers' Market<figcaption/>
 </figure>
 
@@ -207,7 +217,7 @@ Nagiso was a very quiet town, and I liked the sound of the running water of the 
 ## Jul 7, Fri: Tsumago-Magome trail, back to Tokyo
 
 <figure>
-  <a href="/static/2023-04-07/tsumago-magome.jpg"><img src="/static/2023-04-07/tsumago-magome.jpg" alt="D5" loading="lazy"/></a>
+  <img src="/static/2023-04-07/tsumago-magome.jpg" alt="D5" loading="lazy"/>
   <figcaption>6.14km (+417m/-37m) over 1h38m (3.7km/h) <a href="/static/2023-04-07/Tsumago to Magome.gpx">GPX file</a><figcaption/>
 </figure>
 
@@ -247,7 +257,7 @@ It was the last day in Tokyo. We checked out at 11am and purchased the Tokyo Day
 ### Camping Food
 
 <figure>
-  <a href="/static/2023-04-07/food.jpg"><img src="/static/2023-04-07/food.jpg" alt="Food" loading="lazy"/></a>
+  <img src="/static/2023-04-07/food.jpg" alt="Food" loading="lazy"/>
   <figcaption>The food we brought up with us. Ramen, freeze dried tofu (for Nicholas) and textured soy protein were overall good choices.<figcaption/>
 </figure>
 
@@ -456,9 +466,9 @@ Prices excluding flights.
 [panorama-ginza-map]: https://static.wixstatic.com/media/60507d_88f3c201ff294078b635af703a2eae9e~mv2.jpg?dn=Kamikochi%20Map%20Azumino%20Panorama%20Ginza.jpg
 [mt-hotaka]: https://www.hikemasterjapan.com/hotaka
 [dehydrate-food]: https://www.rei.com/learn/expert-advice/how-to-dehydrate-food.html
-[kamikochi-gpx]: /static/2023-04-07/2023-06-kamikochi.gpx
-[panorama-gpx]: /static/2023-04-07/2023-06-panorama.gpx
-[magome-tsumago]: /static/2023-04-07/magome-tsumago.gpx
+[kamikochi-gpx]: ../static/2023-04-07/2023-06-kamikochi.gpx
+[panorama-gpx]: ../static/2023-04-07/2023-06-panorama-ginza.gpx
+[magome-tsumago]: ../static/2023-04-07/magome-tsumago.gpx
 [iroha-grand-hotel]: https://www.booking.com/Share-MYTWNC
 [dakasawa]: https://thejapanalps.com/en/mountain-hut/takesawagoya/
 [karasawa]: https://thejapanalps.com/en/mountain-hut/karasawahyutte/
@@ -486,7 +496,7 @@ Prices excluding flights.
 [willer]: https://willerexpress.com/en/bus_search/tokyo/all/nagano/kamikochi/ym_202306/day_28/?stockNumberMale=1&stockNumberFemale=1
 [alpico]: http://sawayaka.alpico.co.jp/
 [climbing-bus]: https://bus.maitabi.jp/tour_catsearch.html?departure=1&month=7&area=17&style=3&page=1
-[itinerary]: /static/2023-04-07/itinerary.pdf
+[itinerary]: ../static/2023-04-07/itinerary.pdf
 [sekiya]: https://goo.gl/maps/RcmRhgYsF4kuRnux5
 [matsumoto-soba]: https://goo.gl/maps/Cp1ZYLPZgUthgxR3A
 [india-trek]: https://sgtrek.com/event/kashmir-tarsar-marsar-trek-2023/

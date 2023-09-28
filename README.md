@@ -1,6 +1,12 @@
 # Shared Website
 
-Our personal website
+Our personal website.
+
+Structure:
+
+-   Blog
+-   Stories
+-   Trips
 
 It will not be indexed by Google due to the presence of [`noindex` as a meta tag][google-noindex].
 

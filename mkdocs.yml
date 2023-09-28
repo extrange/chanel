@@ -1,4 +1,6 @@
 site_name: Chanel & Nicholas
+site_url: https://chanel.nicholaslyz.com/
+
 theme:
   name: material
   custom_dir: overrides
@@ -6,28 +8,29 @@ theme:
     scheme: slate
     primary: cyan
     accent: yellow
-  favicon: '/static/images/favicon.png'
+  favicon: "/static/images/favicon.png"
   icon:
     logo: material/home
   features:
     - navigation.instant
+    - navigation.sections
     - header.autohide
-site_url: https://chanel.nicholaslyz.com/
+    - navigation.indexes
+    - navigation.expand
+
 nav:
   - Home: index.md
+  - Blog:
+      - blog/index.md
   - Stories:
-    - The Story: stories/story.md
-  - Posts:
-    - Cooking Class Notes: posts/2023-05-14 Cooking class.md
-    - Teas: posts/2023-02-19-teas.md
-    - Shanmugan Video: posts/2022-12-28-shanmugan-transcript.md
-    - Sweet Potatoes: posts/2023-02-06-sweet-potatoes.md
+      - The Story: stories/story.md
   - Trips:
-    - "2023 Jun: Kamikochi, Japan": trips/2023-04-07-japan-hiking.md
-    - "2022 Nov: Vietnam": trips/2022-08-22-vietnam.md
-    - "2022 Oct: Bintan": trips/2022-09-15-bintan.md
-    - "2022 May: Nice, France": trips/2022-05-france-nice-hiking.md
-    - "2022 Apr: Lazarus Island": trips/2022-04-09-lazarus-camping.md
+      - "2023 Jun: Kamikochi, Japan": trips/2023-04-07-japan-hiking.md
+      - "2022 Nov: Vietnam": trips/2022-08-22-vietnam.md
+      - "2022 Oct: Bintan": trips/2022-09-15-bintan.md
+      - "2022 May: Nice, France": trips/2022-05-france-nice-hiking.md
+      - "2022 Apr: Lazarus Island": trips/2022-04-09-lazarus-camping.md
+
 markdown_extensions:
   - abbr
   - attr_list
@@ -42,5 +45,10 @@ markdown_extensions:
   - footnotes
   - pymdownx.snippets
   - pymdownx.keys
+
 plugins:
   - search
+  - glightbox
+  - blog:
+      blog_toc: true
+      post_excerpt: required

@@ -1,6 +1,16 @@
-# Lazarus Camping 9-10 Apr 2022
+---
+date: 2022-04-09
+categories:
+    - Trips
+---
 
-![](/static/2022-04/lazarus-island-map.jpg)
+# 2022 Apr: Lazarus Camping 9-10 Apr 2022
+
+We went camping on Lazarus Island with Chai Xun and Cassandra. Here are some notes about the trip.
+
+![](../static/2022-04/lazarus-island-map.jpg)
+
+<!-- more -->
 
 ## Overall notes:
 

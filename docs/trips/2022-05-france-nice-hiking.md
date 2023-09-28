@@ -1,6 +1,16 @@
+---
+date: 2022-05-01
+categories:
+    - Trips
+---
+
 # France (Nice) Hiking 7-10 May 2022
 
-![](/static/2022-05/mercantour_np.jpg)
+Hiking trip in Nice.
+
+![](../static/2022-05/mercantour_np.jpg)
+
+<!-- more -->
 
 **7 May, Saturday**
 
@@ -24,9 +34,9 @@
 -   6.30pm: Bus 90 from [Grand Arenas][grand-arenas] to [La Colmiane][la-colmiane], 1hr 35min ([Google Maps Directions][nice-to-mercantour-bus])
 -   Overnight in [hotel][hotel]
 
-![](/static/2022-05/room.jpg)
+![](../static/2022-05/room.jpg)
 
-![](/static/2022-05/hotel.jpg)
+![](../static/2022-05/hotel.jpg)
 
 **8 May, Sunday**
 
@@ -41,20 +51,20 @@
 
 -   We pitched our campsite on a ridge after a harrowing scramble up rocks.
 
-![](/static/2022-05/campsite.jpg)
+![](../static/2022-05/campsite.jpg)
 
 -   We cooked dinner:
 
-![](/static/2022-05/marshmallows.jpg)
+![](../static/2022-05/marshmallows.jpg)
 
-![](/static/2022-05/stove.jpg)
+![](../static/2022-05/stove.jpg)
 
 -   Overnight in tent, where we saw the stars and Milky Way
 
 
-![](/static/2022-05/campsite_evening.jpg)
+![](../static/2022-05/campsite_evening.jpg)
 
-![](/static/2022-05/campsite_night.jpg)
+![](../static/2022-05/campsite_night.jpg)
 
 **9 May, Monday**
 
@@ -62,14 +72,14 @@
 
     -   Unfortunately, route to Mt Pépoiri was inaccesible due to snow, so we made a detour further to the east.
 
-    ![](/static/2022-05/snowman.jpg)
+    ![](../static/2022-05/snowman.jpg)
 
 -   We were offered a ride back to our hotel from the end of the trail by an elderly American couple, who asked if we were vaccinated against Covid, to which we answered in the affirmative. Nicholas took the offer for the ride, much to Chanel's distress.
 -   We checked-in and enjoyed a nice shower while cleaning equipment.
 -   7.30pm: We had a EUR27 dinner with quiche, salad, mustard cream chicken with potatoes, local cheese, pancakes with strawberries (all cooked by the host Cyrill himself)
 -   Overnight in [hotel][hotel]
 
-![](/static/2022-05/quiche.jpg)
+![](../static/2022-05/quiche.jpg)
 
 **10 May, Tuesday**
 
@@ -77,7 +87,7 @@
 -   We visited Old Nice and had lunch at a restaurant recommended by Cyrill.
 -   Chanel very kindly bought Nicholas a bar of soap.
 
-![](/static/2022-05/lunch.jpg)
+![](../static/2022-05/lunch.jpg)
 
 -   6.40pm: Flight back to Singapore (LH1065 at NCE T1)
 
@@ -112,15 +122,15 @@ A lot of the savings were due to not having to rent a car for the duration of th
 [bus-90-schedule]: https://www.lignesdazur.com/en/horaire/886/80/1
 [carrefour]: https://goo.gl/maps/1eyvzNNzQiX2CUGV7
 [col-de-veillos]: https://www.alltrails.com/trail/france/alpes-maritimes/col-de-veillos-col-du-barn-mont-pepoiri-et-baus-de-la-frema?u=m
-[col-de-veillos-gpx]: /static/2022-05/col_de_veillos.gpx
+[col-de-veillos-gpx]: ../static/2022-05/col_de_veillos.gpx
 [grand-arenas]: https://goo.gl/maps/x726JbXk9GRtG5Fn9
 [hiking-routes]: https://www.alltrails.com/explore?b_tl_lat=44.11672307739917&b_tl_lng=7.146440621716721&b_br_lat=44.04558903319381&b_br_lng=7.31264860468238
 [hotel]: https://www.booking.com/hotel/fr/le-grand-chalet-valdeblore.en-gb.html
 [la-colmiane-hike]: https://www.alltrails.com/explore/trail/france/alpes-maritimes/la-colmiane-col-de-varaire-caire-gros
-[la-colmiane-hike-gpx]: /static/2022-05/la_colmiane.gpx
+[la-colmiane-hike-gpx]: ../static/2022-05/la_colmiane.gpx
 [la-colmiane]: https://goo.gl/maps/KEguaXFsoxJszkNf8
 [lacs-des-millefonts]: https://www.alltrails.com/trail/france/alpes-maritimes/lacs-des-millefonts-mont-pepoiri
-[lacs-des-millefonts-gpx]: /static/2022-05/lacs_des_millefonts.gpx
+[lacs-des-millefonts-gpx]: ../static/2022-05/lacs_des_millefonts.gpx
 [mercantour-to-nice-bus]: https://goo.gl/maps/giMtPFhKf7s8HCce8
 [nice-to-mercantour-bus]: https://goo.gl/maps/4yQzqo8yo1jFuTsC8
 [our-hiking-routes]: https://www.google.com/maps/d/viewer?mid=110bE46beRht3PU2x6XfYhVFYqQdaD4gS&ll=44.14368121724446%2C7.187836335386026&z=11

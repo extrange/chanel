@@ -1,8 +1,14 @@
+---
+date: 2023-02-06
+---
+
 # On Sweet Potatoes
 
 We've been eating sweet potatoes recently and they are easy to make (just bake them plain), taste good, are cheap, and have lots of [health benefits][health].
 
 Through the process we've learnt there are several varieties of sweet potatoes, and all of them taste different.
+
+<!-- more -->
 
 <figure>
   <div ><img src="/static/2023-02-06/sweet-potatoes.jpg" alt="Sweet potato varieties" loading="lazy"/></div>

@@ -1,6 +1,6 @@
 # The Story
 
-![](/static/images/girl-stars.jpg)
+![](../static/images/girl-stars.jpg)
 
 > _Mm since I'm stuck in a bunk with 9 other people and intermittent access to internet I'll write about my schedule._
 
@@ -704,7 +704,7 @@ Just then, she heard the curtains move, and she knew it was not the wind.
 
 _CLUNK!_
 
-![](/static/images/cube.jpg)
+![](..//static/images/cube.jpg)
 
 A metal cube and its chain dropped to the floor in front of her. Chanel nearly squealed in fright but she managed to suppress her voice.
 

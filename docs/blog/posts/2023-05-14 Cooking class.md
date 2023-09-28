@@ -1,8 +1,14 @@
+---
+date: 2023-05-14
+---
+
 # Cooking Class
 
 Attended together on 2023-05-14 and 2023-05-21.
 
-Recipe book [here](../static/2023-05-14/recipes.pdf).
+Recipe book [here](../../static/2023-05-14/recipes.pdf).
+
+<!-- more -->
 
 Types of flour, from lowest to highest gluten
 
