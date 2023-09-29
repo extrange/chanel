@@ -1,0 +1,28 @@
+name: Check Markdown links
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Run weekly at 00:00 on Sunday
+    - cron: "0 0 * * 0"
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: "yes"
+          use-verbose-mode: "yes"
+          folder-path: "docs"
+      
+      - name: Notify telegram on failure
+        env:
+          BOT_TOKEN: ${{secrets.BOT_TOKEN}}
+          CHAT_ID: ${{secrets.CHAT_ID}}
+        if: ${{ failure() }}
+        run: |
+          curl -X POST --data-urlencode "chat_id=$CHAT_ID" -d "parse_mode=Markdown" --data-urlencode "text=*chanel.nicholaslyz.com*
+          Link Checker: Bad links found (refer to Github Actions log)" "https://api.telegram.org/bot$BOT_TOKEN/sendMessage"
+          
