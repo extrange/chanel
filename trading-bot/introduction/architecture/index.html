@@ -8,11 +8,13 @@
       
       
       
-        <link rel="canonical" href="https://chanel.nicholaslyz.com/blog/">
+        <link rel="canonical" href="https://chanel.nicholaslyz.com/trading-bot/introduction/architecture/">
       
       
+        <link rel="prev" href="../principles/">
       
-        <link rel="next" href="category/trips/">
+      
+        <link rel="next" href="../ibkr-quirks/">
       
       
       <link rel="icon" href="/static/images/favicon.png">
@@ -20,14 +22,14 @@
     
     
       
-        <title>Blog - Chanel & Nicholas</title>
+        <title>Architecture - Chanel & Nicholas</title>
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.79e020e9.min.css">
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.79e020e9.min.css">
       
         
-        <link rel="stylesheet" href="../assets/stylesheets/palette.a5377069.min.css">
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.a5377069.min.css">
       
       
 
@@ -46,7 +48,7 @@
       
     
     
-    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
@@ -55,7 +57,7 @@
     
 <meta property="robots" content="noindex, nofollow" />
 
-   <link href="../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+   <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
         html.glightbox-open { overflow: initial; height: 100%; }
         .gslide-title { margin-top: 0px; user-select: text; }
         .gslide-desc { color: #666; user-select: text; }
@@ -66,7 +68,7 @@
             body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
             body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
             body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
-            </style> <script src="../assets/javascripts/glightbox.min.js"></script></head>
+            </style> <script src="../../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -84,7 +86,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#blog" class="md-skip">
+        <a href="#architecture" class="md-skip">
           Skip to content
         </a>
       
@@ -98,7 +100,7 @@
 
 <header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href=".." title="Chanel &amp; Nicholas" class="md-header__button md-logo" aria-label="Chanel & Nicholas" data-md-component="logo">
+    <a href="../../.." title="Chanel &amp; Nicholas" class="md-header__button md-logo" aria-label="Chanel & Nicholas" data-md-component="logo">
       
   
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8h5Z"/></svg>
@@ -118,7 +120,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Blog
+              Architecture
             
           </span>
         </div>
@@ -196,13 +198,11 @@
         
   
   
-    
-  
   
     
     
-      <li class="md-tabs__item md-tabs__item--active">
-        <a href="./" class="md-tabs__link">
+      <li class="md-tabs__item">
+        <a href="../../../blog/" class="md-tabs__link">
           
   
     
@@ -222,7 +222,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../stories/story/" class="md-tabs__link">
+        <a href="../../../stories/story/" class="md-tabs__link">
           
   
     
@@ -238,11 +238,13 @@
         
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
-        <a href="../trading-bot/" class="md-tabs__link">
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../" class="md-tabs__link">
           
   
     
@@ -279,7 +281,7 @@
 
 <nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href=".." title="Chanel &amp; Nicholas" class="md-nav__button md-logo" aria-label="Chanel & Nicholas" data-md-component="logo">
+    <a href="../../.." title="Chanel &amp; Nicholas" class="md-nav__button md-logo" aria-label="Chanel & Nicholas" data-md-component="logo">
       
   
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8h5Z"/></svg>
@@ -306,8 +308,6 @@
       
   
   
-    
-  
   
     
     
@@ -327,17 +327,19 @@
       
       
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
         
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" checked>
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_1" >
         
           
           
           <div class="md-nav__link md-nav__container">
-            <a href="./" class="md-nav__link md-nav__link--active">
+            <a href="../../../blog/" class="md-nav__link ">
               
   
   <span class="md-ellipsis">
@@ -348,13 +350,13 @@
             </a>
             
               
-              <label class="md-nav__link md-nav__link--active" for="__nav_1" id="__nav_1_label" tabindex="">
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="">
                 <span class="md-nav__icon md-icon"></span>
               </label>
             
           </div>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_1">
             <span class="md-nav__icon md-icon"></span>
             Blog
@@ -416,7 +418,7 @@
   
   
     <li class="md-nav__item">
-      <a href="archive/2023/" class="md-nav__link">
+      <a href="../../../blog/archive/2023/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -436,7 +438,7 @@
   
   
     <li class="md-nav__item">
-      <a href="archive/2022/" class="md-nav__link">
+      <a href="../../../blog/archive/2022/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -509,7 +511,7 @@
   
   
     <li class="md-nav__item">
-      <a href="category/trips/" class="md-nav__link">
+      <a href="../../../blog/category/trips/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -589,7 +591,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../stories/story/" class="md-nav__link">
+      <a href="../../../stories/story/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -614,6 +616,8 @@
       
   
   
+    
+  
   
     
     
@@ -637,19 +641,17 @@
       
       
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
         
         
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
         
           
           
           <div class="md-nav__link md-nav__container">
-            <a href="../trading-bot/" class="md-nav__link ">
+            <a href="../../" class="md-nav__link ">
               
   
   <span class="md-ellipsis">
@@ -666,7 +668,7 @@
             
           </div>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             Trading Bot
@@ -679,6 +681,8 @@
                 
   
   
+    
+  
   
     
     
@@ -698,14 +702,12 @@
       
       
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
         
         
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" checked>
         
           
           <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="">
@@ -719,7 +721,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_3_2">
             <span class="md-nav__icon md-icon"></span>
             Introduction
@@ -732,7 +734,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-bot/introduction/getting-started/" class="md-nav__link">
+      <a href="../getting-started/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -752,7 +754,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-bot/introduction/principles/" class="md-nav__link">
+      <a href="../principles/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -770,9 +772,29 @@
                 
   
   
+    
   
-    <li class="md-nav__item">
-      <a href="../trading-bot/introduction/architecture/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Architecture
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
@@ -781,6 +803,33 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#trading-engine" class="md-nav__link">
+    Trading Engine
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -792,7 +841,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-bot/introduction/ibkr-quirks/" class="md-nav__link">
+      <a href="../ibkr-quirks/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -875,7 +924,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-bot/components/backtester/" class="md-nav__link">
+      <a href="../../components/backtester/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -895,7 +944,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-bot/components/execution-engine/" class="md-nav__link">
+      <a href="../../components/execution-engine/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -915,7 +964,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-bot/components/models-and-strategies/" class="md-nav__link">
+      <a href="../../components/models-and-strategies/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -935,7 +984,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-bot/components/notebook/" class="md-nav__link">
+      <a href="../../components/notebook/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -955,7 +1004,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-bot/components/sizer/" class="md-nav__link">
+      <a href="../../components/sizer/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -975,7 +1024,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-bot/components/web-ui/" class="md-nav__link">
+      <a href="../../components/web-ui/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1048,7 +1097,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-bot/trading-journal/2023-07-21-chfjpy-cfd/" class="md-nav__link">
+      <a href="../../trading-journal/2023-07-21-chfjpy-cfd/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1129,7 +1178,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-bot/notes/forex/" class="md-nav__link">
+      <a href="../../notes/forex/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1149,7 +1198,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-bot/notes/risk-management/" class="md-nav__link">
+      <a href="../../notes/risk-management/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1169,7 +1218,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-bot/notes/strategies/" class="md-nav__link">
+      <a href="../../notes/strategies/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1189,7 +1238,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-bot/notes/market-data/" class="md-nav__link">
+      <a href="../../notes/market-data/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1209,7 +1258,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-bot/notes/useful-resources/" class="md-nav__link">
+      <a href="../../notes/useful-resources/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1247,348 +1296,93 @@
             
           
           
-  <div class="md-content" data-md-component="content">
-    <div class="md-content__inner">
-      <header class="md-typeset">
-        <h1 id="blog">Blog</h1>
-      </header>
-      
-        <article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-    
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-        <li class="md-meta__item">
-          <time datetime="2023-05-14 00:00:00">May 14, 2023</time></li>
-        
-        
-          
-          <li class="md-meta__item">
-            
-              1 min read
-            
-          </li>
-        
-      </ul>
-      
-    </div>
-  </header>
-  <div class="md-post__content md-typeset">
-    <h2 id="cooking-class"><a class="toclink" href="2023/05/14/cooking-class/">Cooking Class</a></h2>
-<p>Attended together on 2023-05-14 and 2023-05-21.</p>
-<p>Recipe book <a href="../static/blog/2023-05-14/recipes.pdf">here</a>.</p>
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
 
-    <nav class="md-post__action">
-      <a href="2023/05/14/cooking-class/">
-        Continue reading
-      </a>
-    </nav>
-  </div>
-</article>
-      
-        <article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-    
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-        <li class="md-meta__item">
-          <time datetime="2023-04-07 00:00:00">April 7, 2023</time></li>
-        
-          <li class="md-meta__item">
-            in
-            
-              <a href="category/trips/" class="md-meta__link">Trips</a></li>
-        
-        
-          
-          <li class="md-meta__item">
-            
-              16 min read
-            
-          </li>
-        
-      </ul>
-      
-    </div>
-  </header>
-  <div class="md-post__content md-typeset">
-    <h2 id="2023-jun-kamikochi-japan"><a class="toclink" href="2023/04/07/2023-jun-kamikochi-japan/">2023 Jun: Kamikochi Japan</a></h2>
-<p>Our first multiday hike (Panorama Ginza) with camping, from 29 Jun - 9 Jul 2023.</p>
-<p><img alt="" src="../static/blog/2023-04-07/panoramaginza.jpg" /></p>
-
-    <nav class="md-post__action">
-      <a href="2023/04/07/2023-jun-kamikochi-japan/">
-        Continue reading
-      </a>
-    </nav>
-  </div>
-</article>
-      
-        <article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-    
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-        <li class="md-meta__item">
-          <time datetime="2023-02-19 00:00:00">February 19, 2023</time></li>
-        
-        
-          
-          <li class="md-meta__item">
-            
-              3 min read
-            
-          </li>
-        
-      </ul>
-      
-    </div>
-  </header>
-  <div class="md-post__content md-typeset">
-    <h2 id="teas"><a class="toclink" href="2023/02/19/teas/">Teas</a></h2>
-<p>This post briefly summarizes the various types of teas (traditional and herbal/flower) and our experiences with them.</p>
-
-    <nav class="md-post__action">
-      <a href="2023/02/19/teas/">
-        Continue reading
-      </a>
-    </nav>
-  </div>
-</article>
-      
-        <article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-    
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-        <li class="md-meta__item">
-          <time datetime="2023-02-06 00:00:00">February 6, 2023</time></li>
-        
-        
-          
-          <li class="md-meta__item">
-            
-              2 min read
-            
-          </li>
-        
-      </ul>
-      
-    </div>
-  </header>
-  <div class="md-post__content md-typeset">
-    <h2 id="on-sweet-potatoes"><a class="toclink" href="2023/02/06/on-sweet-potatoes/">On Sweet Potatoes</a></h2>
-<p>We've been eating sweet potatoes recently and they are easy to make (just bake them plain), taste good, are cheap, and have lots of <a href="https://www.healthline.com/nutrition/foods/sweet-potatoes">health benefits</a>.</p>
-<p>Through the process we've learnt there are several varieties of sweet potatoes, and all of them taste different.</p>
-
-    <nav class="md-post__action">
-      <a href="2023/02/06/on-sweet-potatoes/">
-        Continue reading
-      </a>
-    </nav>
-  </div>
-</article>
-      
-        <article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-    
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-        <li class="md-meta__item">
-          <time datetime="2022-12-28 00:00:00">December 28, 2022</time></li>
-        
-        
-          
-          <li class="md-meta__item">
-            
-              45 min read
-            
-          </li>
-        
-      </ul>
-      
-    </div>
-  </header>
-  <div class="md-post__content md-typeset">
-    <h2 id="facebooks-statements-and-conduct-on-the-cambridge-analytica-data-breaches"><a class="toclink" href="2022/12/28/facebooks-statements-and-conduct-on-the-cambridge-analytica-data-breaches/">Facebook's statements and conduct on the Cambridge Analytica data breaches</a></h2>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A7gJPjLt4Dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-    <nav class="md-post__action">
-      <a href="2022/12/28/facebooks-statements-and-conduct-on-the-cambridge-analytica-data-breaches/">
-        Continue reading
-      </a>
-    </nav>
-  </div>
-</article>
-      
-        <article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-    
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-        <li class="md-meta__item">
-          <time datetime="2022-09-15 00:00:00">September 15, 2022</time></li>
-        
-          <li class="md-meta__item">
-            in
-            
-              <a href="category/trips/" class="md-meta__link">Trips</a></li>
-        
-        
-          
-          <li class="md-meta__item">
-            
-              2 min read
-            
-          </li>
-        
-      </ul>
-      
-    </div>
-  </header>
-  <div class="md-post__content md-typeset">
-    <h2 id="2022-oct-bintan"><a class="toclink" href="2022/09/15/2022-oct-bintan/">2022 Oct: Bintan</a></h2>
-<p>A chill trip by the beach from 23-25 Oct 2022.</p>
-<p><img alt="" src="../static/blog/2022-09-15/bintan.jpg" /></p>
-
-    <nav class="md-post__action">
-      <a href="2022/09/15/2022-oct-bintan/">
-        Continue reading
-      </a>
-    </nav>
-  </div>
-</article>
-      
-        <article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-    
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-        <li class="md-meta__item">
-          <time datetime="2022-08-22 00:00:00">August 22, 2022</time></li>
-        
-          <li class="md-meta__item">
-            in
-            
-              <a href="category/trips/" class="md-meta__link">Trips</a></li>
-        
-        
-          
-          <li class="md-meta__item">
-            
-              4 min read
-            
-          </li>
-        
-      </ul>
-      
-    </div>
-  </header>
-  <div class="md-post__content md-typeset">
-    <h2 id="2022-nov-vietnam"><a class="toclink" href="2022/08/22/2022-nov-vietnam/">2022 Nov: Vietnam</a></h2>
-<p>Ninh Bin, motorbiking, caving and a cruise from 13-19 Nov 2022.</p>
-<p><img alt="" src="../static/blog/2022-08-22/hang-mua.jpg" /></p>
-<p>View photos <a href="https://photos.nicholaslyz.com/s/3t9dvzhxad/2022-vietnam">here</a>.</p>
-
-    <nav class="md-post__action">
-      <a href="2022/08/22/2022-nov-vietnam/">
-        Continue reading
-      </a>
-    </nav>
-  </div>
-</article>
-      
-        <article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-    
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-        <li class="md-meta__item">
-          <time datetime="2022-05-01 00:00:00">May 1, 2022</time></li>
-        
-          <li class="md-meta__item">
-            in
-            
-              <a href="category/trips/" class="md-meta__link">Trips</a></li>
-        
-        
-          
-          <li class="md-meta__item">
-            
-              4 min read
-            
-          </li>
-        
-      </ul>
-      
-    </div>
-  </header>
-  <div class="md-post__content md-typeset">
-    <h2 id="2022-may-nice-france"><a class="toclink" href="2022/05/01/2022-may-nice-france/">2022 May: Nice France</a></h2>
-<p>Hiking trip in Nice from 7-10 May 2022.</p>
-<p><img alt="" src="../static/blog/2022-05/mercantour_np.jpg" /></p>
-
-    <nav class="md-post__action">
-      <a href="2022/05/01/2022-may-nice-france/">
-        Continue reading
-      </a>
-    </nav>
-  </div>
-</article>
-      
-        <article class="md-post md-post--excerpt">
-  <header class="md-post__header">
-    
-    <div class="md-post__meta md-meta">
-      <ul class="md-meta__list">
-        <li class="md-meta__item">
-          <time datetime="2022-04-09 00:00:00">April 9, 2022</time></li>
-        
-          <li class="md-meta__item">
-            in
-            
-              <a href="category/trips/" class="md-meta__link">Trips</a></li>
-        
-        
-          
-          <li class="md-meta__item">
-            
-              1 min read
-            
-          </li>
-        
-      </ul>
-      
-    </div>
-  </header>
-  <div class="md-post__content md-typeset">
-    <h2 id="2022-apr-lazarus-island"><a class="toclink" href="2022/04/09/2022-apr-lazarus-island/">2022 Apr: Lazarus Island</a></h2>
-<p>We went camping on Lazarus Island with Chai Xun and Cassandra from 9-10 Apr 2022. Here are some notes about the trip.</p>
-<p><img alt="" src="../static/blog/2022-04/lazarus-island-map.jpg" /></p>
-
-    <nav class="md-post__action">
-      <a href="2022/04/09/2022-apr-lazarus-island/">
-        Continue reading
-      </a>
-    </nav>
-  </div>
-</article>
-      
-      
-        
-          
-
-
-
-<nav class="md-pagination">
   
-</nav>
-        
+    <a href="https://github.com/extrange/chanel/edit/master/docs/trading-bot/introduction/architecture.md" title="Edit this page" class="md-content__button md-icon">
       
-    </div>
-  </div>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
+    </a>
+  
+  
+    
+      
+    
+    <a href="https://github.com/extrange/chanel/raw/master/docs/trading-bot/introduction/architecture.md" title="View source of this page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.15 8.15 0 0 1-1.23-2Z"/></svg>
+    </a>
+  
 
+
+<h1 id="architecture">Architecture</h1>
+<pre class="mermaid"><code>graph TD
+  IbkrDocker["IBKR Gateway (Docker)"]
+  TradingConfig
+  CommandHandler
+  Telegram
+  IBKR[IBKR's Servers]
+
+  IbkrDocker &lt;--&gt; |TWS Gateway| IBKR
+  CommandHandler --&gt; |controls| TradingEngine
+
+  TradingEngine["Trading Engine (see below)"]
+  TradingConfig["Trading Config"] --&gt; TradingEngine
+
+  TradingEngine &lt;--&gt;|ib_insync| IbkrDocker
+  Telegram --&gt; CommandHandler</code></pre>
+<h2 id="trading-engine">Trading Engine</h2>
+<p>The Trading Engine is the heart of the bot, and receives market data, executes strategies, and performs trade executions.</p>
+<pre class="mermaid"><code>graph TD
+
+  Instrument1["Instrument 1"]
+  Instrument2["Instrument 2"]
+  Instrument3["Instrument 3"]
+  Model1["Model 1"]
+  Model2["Model 2"]
+  Model3["Model 3"]
+  Sizer["Sizer"]
+  Position1["Units to buy/sell for&lt;br/&gt;Instrument 1"]
+  Position2["Units to buy/sell for&lt;br/&gt;Instrument 2"]
+  Position3["Units to buy/sell for&lt;br/&gt;Instrument 3"]
+  ExecutionEngine["Execution Engine"]
+
+  subgraph Strategy 1
+    Instrument1 --&gt; |price data| Model1
+  end
+
+  subgraph Strategy 2
+    Instrument2 --&gt; |price data| Model2
+  end
+
+  subgraph Strategy 3
+    Instrument3 --&gt; |price data| Model3
+  end
+
+  Model1 --&gt; |confidence| Sizer
+  Model2 --&gt; |confidence| Sizer
+  Model3 --&gt; |confidence| Sizer
+  Sizer --&gt; Position1
+  Sizer --&gt; Position2
+  Sizer --&gt; Position3
+  Position1 --&gt; |executed by| ExecutionEngine
+  Position2 --&gt; |executed by| ExecutionEngine
+  Position3 --&gt; |executed by| ExecutionEngine</code></pre>
+<p>A strategy can be combined with any instrument. The same model can operate on different instruments, e.g. <code>Model1</code> on <code>Instrument1</code> and <code>Model2</code> on <code>Instrument1</code>.</p>
+<p>Adapted from <a href="https://github.com/extrange/trading-bot/releases/download/trading-books/systematic-trading.pdf">Systematic Trading</a>:</p>
+<p><a class="glightbox" href="../../../static/trading-bot/trading-system.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="" src="../../../static/trading-bot/trading-system.png" /></a></p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
           
         </div>
         
@@ -1600,15 +1394,31 @@
       
       <nav class="md-footer__inner md-grid" aria-label="Footer" >
         
+          
+          <a href="../principles/" class="md-footer__link md-footer__link--prev" aria-label="Previous: 3 Core Principles">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                3 Core Principles
+              </div>
+            </div>
+          </a>
+        
         
           
-          <a href="category/trips/" class="md-footer__link md-footer__link--next" aria-label="Next: Trips">
+          <a href="../ibkr-quirks/" class="md-footer__link md-footer__link--next" aria-label="Next: IBKR Quirks">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Next
               </span>
               <div class="md-ellipsis">
-                Trips
+                IBKR Quirks
               </div>
             </div>
             <div class="md-footer__button md-icon">
@@ -1642,10 +1452,10 @@
     </div>
     
     
-    <script id="__config" type="application/json">{"base": "..", "features": ["content.action.edit", "content.action.view", "header.autohide", "navigation.expand", "navigation.footer", "navigation.indexes", "navigation.instant", "navigation.sections", "navigation.tabs", "toc.integrate"], "search": "../assets/javascripts/workers/search.a264c092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["content.action.edit", "content.action.view", "header.autohide", "navigation.expand", "navigation.footer", "navigation.indexes", "navigation.instant", "navigation.sections", "navigation.tabs", "toc.integrate"], "search": "../../../assets/javascripts/workers/search.a264c092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../assets/javascripts/bundle.6eac0284.min.js"></script>
+      <script src="../../../assets/javascripts/bundle.6eac0284.min.js"></script>
       
     
   <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>

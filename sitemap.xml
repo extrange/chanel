@@ -2,72 +2,167 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://chanel.nicholaslyz.com/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <lastmod>2023-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chanel.nicholaslyz.com/blog/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/blog/2022/04/09/2022-apr-lazarus-island/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/blog/2022/05/01/2022-may-nice-france/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/blog/2022/08/22/2022-nov-vietnam/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/blog/2022/09/15/2022-oct-bintan/</loc>
+         <lastmod>2023-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chanel.nicholaslyz.com/blog/2022/12/28/facebooks-statements-and-conduct-on-the-cambridge-analytica-data-breaches/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <lastmod>2023-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chanel.nicholaslyz.com/blog/2023/02/06/on-sweet-potatoes/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <lastmod>2023-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chanel.nicholaslyz.com/blog/2023/02/19/teas/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/blog/2023/04/07/2023-jun-kamikochi-japan/</loc>
+         <lastmod>2023-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chanel.nicholaslyz.com/blog/2023/05/14/cooking-class/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <lastmod>2023-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chanel.nicholaslyz.com/stories/story/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <lastmod>2023-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chanel.nicholaslyz.com/trips/2022-04-09-lazarus-camping/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/</loc>
+         <lastmod>2023-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chanel.nicholaslyz.com/trips/2022-05-france-nice-hiking/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/components/backtester/</loc>
+         <lastmod>2023-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chanel.nicholaslyz.com/trips/2022-08-22-vietnam/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/components/execution-engine/</loc>
+         <lastmod>2023-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chanel.nicholaslyz.com/trips/2022-09-15-bintan/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/components/models-and-strategies/</loc>
+         <lastmod>2023-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://chanel.nicholaslyz.com/trips/2023-04-07-japan-hiking/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/components/notebook/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/components/sizer/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/components/web-ui/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/introduction/architecture/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/introduction/configuration/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/introduction/getting-started/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/introduction/ibkr-quirks/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/introduction/principles/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/notes/forex/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/notes/market-data/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/notes/risk-management/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/notes/strategies/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/notes/useful-resources/</loc>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/trading-bot/trading-journal/2023-07-21-chfjpy-cfd/</loc>
+         <lastmod>2023-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chanel.nicholaslyz.com/blog/archive/2023/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <lastmod>2023-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://chanel.nicholaslyz.com/blog/archive/2022/</loc>
-         <lastmod>2023-09-29</lastmod>
+         <lastmod>2023-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://chanel.nicholaslyz.com/blog/category/trips/</loc>
+         <lastmod>2023-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
