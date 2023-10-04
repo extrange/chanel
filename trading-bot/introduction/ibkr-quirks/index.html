@@ -14,7 +14,7 @@
         <link rel="prev" href="../architecture/">
       
       
-        <link rel="next" href="../../components/backtester/">
+        <link rel="next" href="../../components/trading-config/">
       
       
       <link rel="icon" href="/static/images/favicon.png">
@@ -695,6 +695,8 @@
       
         
       
+        
+      
     
     
     
@@ -754,11 +756,31 @@
   
   
     <li class="md-nav__item">
+      <a href="../env-variables/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Environment Variables
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../principles/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    3 Core Principles
+    Core Principles
   </span>
   
 
@@ -883,6 +905,8 @@
       
         
       
+        
+      
     
     
     
@@ -924,11 +948,51 @@
   
   
     <li class="md-nav__item">
-      <a href="../../components/backtester/" class="md-nav__link">
+      <a href="../../components/trading-config/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Backtester
+    Trading Config (todo)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../components/strategies-and-models/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Strategies and Models
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../components/sizer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sizer
   </span>
   
 
@@ -964,11 +1028,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../components/models-and-strategies/" class="md-nav__link">
+      <a href="../../components/backtester/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    Models and Strategies
+    Backtester
   </span>
   
 
@@ -989,26 +1053,6 @@
   
   <span class="md-ellipsis">
     Notebook
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../components/sizer/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Sizer
   </span>
   
 
@@ -1135,8 +1179,6 @@
       
         
       
-        
-      
     
     
     
@@ -1203,26 +1245,6 @@
   
   <span class="md-ellipsis">
     Risk Management
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../notes/strategies/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    Strategies
   </span>
   
 
@@ -1319,11 +1341,11 @@
 
 
 <h1 id="ibkr-quirks">IBKR Quirks</h1>
-<p>IBKR has some platform-specific quirks which affect connectivity, and they are detailed here.</p>
+<p>IBKR has some platform-specific quirks which affect connectivity, and are important to understand.</p>
 <h2 id="ib-gateway-restart-schdule">IB Gateway Restart Schdule</h2>
-<p>IB Gateway <a href="https://github.com/IbcAlpha/IBC/blob/ff041039e9f21369ebb3adb28dfda88a058237cd/resources/config.ini#L523">insists</a> on being restarted daily at least once. IBC can help with this, and the setting for the auto-restart is via the <code>docker compose</code> variable <code>IBC_AutoRestartTime</code>. No user authentication is required for this.</p>
-<p>IB Gateway also insists on being <strong>fully</strong> restarted <a href="https://www.ibkrguides.com/tws/usersguidebook/configuretws/auto_restart_info.htm">weekly</a> (every Sunday at 1300 SGT). A manual login is required for this.</p>
-<p>There are also routine server resets, which occur:</p>
+<p>IB Gateway insists on being <a href="https://github.com/IbcAlpha/IBC/blob/ff041039e9f21369ebb3adb28dfda88a058237cd/resources/config.ini#L523">restarted daily</a> at least once. IBC can help with this, and the setting for the auto-restart is via the <code>docker compose</code> variable <code>IBC_AutoRestartTime</code>. No user authentication is required for this.</p>
+<p>IB Gateway also insists on being <strong>fully</strong> <a href="https://www.ibkrguides.com/tws/usersguidebook/configuretws/auto_restart_info.htm">restarted weekly</a> (every Sunday at 1300 SGT). A manual login is required for this.</p>
+<p>There are also routine server <a href="https://www.interactivebrokers.com/en/index.php?f=2225">resets</a>, which occur:</p>
 <ul>
 <li>Daily at 0545 SGT (few seconds)</li>
 <li>Weekly on Saturday 1100-1500 SGT (entire duration)</li>
@@ -1367,13 +1389,13 @@
         
         
           
-          <a href="../../components/backtester/" class="md-footer__link md-footer__link--next" aria-label="Next: Backtester">
+          <a href="../../components/trading-config/" class="md-footer__link md-footer__link--next" aria-label="Next: Trading Config (todo)">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Next
               </span>
               <div class="md-ellipsis">
-                Backtester
+                Trading Config (todo)
               </div>
             </div>
             <div class="md-footer__button md-icon">
@@ -1407,7 +1429,7 @@
     </div>
     
     
-    <script id="__config" type="application/json">{"base": "../../..", "features": ["content.action.edit", "content.action.view", "header.autohide", "navigation.expand", "navigation.footer", "navigation.indexes", "navigation.instant", "navigation.sections", "navigation.tabs", "toc.integrate"], "search": "../../../assets/javascripts/workers/search.a264c092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["content.action.edit", "content.action.view", "content.code.copy", "header.autohide", "navigation.expand", "navigation.footer", "navigation.indexes", "navigation.instant", "navigation.sections", "navigation.tabs", "toc.integrate"], "search": "../../../assets/javascripts/workers/search.a264c092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
       <script src="../../../assets/javascripts/bundle.6eac0284.min.js"></script>
