@@ -4,11 +4,11 @@ categories:
     - Trips
 ---
 
-# Japan Panorama Ginza Hike 29 Jun - 9 Jul 2023
+# 2023 Jun: Kamikochi Japan
 
-Our first multiday hike with camping.
+Our first multiday hike (Panorama Ginza) with camping, from 29 Jun - 9 Jul 2023.
 
-![](../static/2023-04-07/panoramaginza.jpg)
+![](../../static/blog/2023-04-07/panoramaginza.jpg)
 
 <!-- more -->
 
@@ -466,9 +466,9 @@ Prices excluding flights.
 [panorama-ginza-map]: https://static.wixstatic.com/media/60507d_88f3c201ff294078b635af703a2eae9e~mv2.jpg?dn=Kamikochi%20Map%20Azumino%20Panorama%20Ginza.jpg
 [mt-hotaka]: https://www.hikemasterjapan.com/hotaka
 [dehydrate-food]: https://www.rei.com/learn/expert-advice/how-to-dehydrate-food.html
-[kamikochi-gpx]: ../static/2023-04-07/2023-06-kamikochi.gpx
-[panorama-gpx]: ../static/2023-04-07/2023-06-panorama-ginza.gpx
-[magome-tsumago]: ../static/2023-04-07/magome-tsumago.gpx
+[kamikochi-gpx]: ../../static/blog/2023-04-07/2023-06-kamikochi.gpx
+[panorama-gpx]: ../../static/blog/2023-04-07/2023-06-panorama-ginza.gpx
+[magome-tsumago]: ../../static/blog/2023-04-07/magome-tsumago.gpx
 [iroha-grand-hotel]: https://www.booking.com/Share-MYTWNC
 [dakasawa]: https://thejapanalps.com/en/mountain-hut/takesawagoya/
 [karasawa]: https://thejapanalps.com/en/mountain-hut/karasawahyutte/
@@ -496,7 +496,7 @@ Prices excluding flights.
 [willer]: https://willerexpress.com/en/bus_search/tokyo/all/nagano/kamikochi/ym_202306/day_28/?stockNumberMale=1&stockNumberFemale=1
 [alpico]: http://sawayaka.alpico.co.jp/
 [climbing-bus]: https://bus.maitabi.jp/tour_catsearch.html?departure=1&month=7&area=17&style=3&page=1
-[itinerary]: ../static/2023-04-07/itinerary.pdf
+[itinerary]: ../../static/blog/2023-04-07/itinerary.pdf
 [sekiya]: https://goo.gl/maps/RcmRhgYsF4kuRnux5
 [matsumoto-soba]: https://goo.gl/maps/Cp1ZYLPZgUthgxR3A
 [india-trek]: https://sgtrek.com/event/kashmir-tarsar-marsar-trek-2023/

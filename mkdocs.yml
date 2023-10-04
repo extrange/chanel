@@ -1,6 +1,9 @@
 site_name: Chanel & Nicholas
 site_url: https://chanel.nicholaslyz.com/
 
+repo_name: extrange/chanel
+repo_url: https://github.com/extrange/chanel/
+
 theme:
   name: material
   custom_dir: overrides
@@ -12,24 +15,44 @@ theme:
   icon:
     logo: material/home
   features:
+    - content.action.edit
+    - content.action.view
+    - header.autohide
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
     - navigation.instant
     - navigation.sections
-    - header.autohide
-    - navigation.indexes
-    - navigation.expand
+    - navigation.tabs
+    - toc.integrate
 
 nav:
-  - Home: index.md
   - Blog:
       - blog/index.md
   - Stories:
-      - The Story: stories/story.md
-  - Trips:
-      - "2023 Jun: Kamikochi, Japan": trips/2023-04-07-japan-hiking.md
-      - "2022 Nov: Vietnam": trips/2022-08-22-vietnam.md
-      - "2022 Oct: Bintan": trips/2022-09-15-bintan.md
-      - "2022 May: Nice, France": trips/2022-05-france-nice-hiking.md
-      - "2022 Apr: Lazarus Island": trips/2022-04-09-lazarus-camping.md
+      - stories/story.md
+  - Trading Bot:
+      - trading-bot/index.md
+      - Introduction:
+          - trading-bot/introduction/getting-started.md
+          - trading-bot/introduction/principles.md
+          - trading-bot/introduction/architecture.md
+          - trading-bot/introduction/ibkr-quirks.md
+      - Components:
+          - trading-bot/components/backtester.md
+          - trading-bot/components/execution-engine.md
+          - trading-bot/components/models-and-strategies.md
+          - trading-bot/components/notebook.md
+          - trading-bot/components/sizer.md
+          - trading-bot/components/web-ui.md
+      - Trading Journal:
+          - trading-bot/trading-journal/2023-07-21-chfjpy-cfd.md
+      - Notes:
+          - trading-bot/notes/forex.md
+          - trading-bot/notes/risk-management.md
+          - trading-bot/notes/strategies.md
+          - trading-bot/notes/market-data.md
+          - trading-bot/notes/useful-resources.md
 
 markdown_extensions:
   - abbr
@@ -37,7 +60,11 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - admonition
   - pymdownx.details
   - pymdownx.tasklist:
@@ -52,3 +79,5 @@ plugins:
   - blog:
       blog_toc: true
       post_excerpt: required
+      categories_allowed:
+        - Trips

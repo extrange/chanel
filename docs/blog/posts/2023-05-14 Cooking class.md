@@ -6,7 +6,7 @@ date: 2023-05-14
 
 Attended together on 2023-05-14 and 2023-05-21.
 
-Recipe book [here](../../static/2023-05-14/recipes.pdf).
+Recipe book [here](../../static/blog/2023-05-14/recipes.pdf).
 
 <!-- more -->
 
