@@ -1,8 +1,10 @@
-# 3 Core Principles
+# Core Principles
+
+During development of the trading bot, the following principles, which guide development, were agreed upon.
 
 ## 1. Fully automated
 
-This means **no** manual take profit/stop loss button, no human intervention whatsoever. While this may seem risky, the whole idea of the trading bot is so that human emotions and biases such as fear and greed do not influence what should really be improved upon - the algorithm.
+There should **never** be any manual take profit button, close position button, or any possibility for interfering with a trade whatsoever (barring errors occuring as a result of programming). While this may seem risky, the whole idea of the trading bot is so that human emotions and biases such as fear and greed do not play a part in trading, and lets us focus on what should really be improved upon - the algorithm.
 
 ## 2. Profitable
 
@@ -10,7 +12,7 @@ All rules in production must have at least a 1y backtest with positive return.
 
 ## 3. Pure functions
 
-Subclasses of `BaseModel` must be pure functions.
+Models (and by extension, Strategies) must be pure functions.
 
 This means that given the same inputs (e.g. `position`, `avg_cost`, OHLC data), it must return the same outputs (e.g. `confidence`). There must be no internal or hidden state whatsoever.
 

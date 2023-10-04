@@ -1,4 +1,4 @@
-# Models and Strategies
+# Strategies and Models
 
 A `Model` takes in price data from an instrument, optionally with the current position in that instrument, and calculates a confidence score, which is used by the `Sizer` to determine the desired position in that instrument.
 

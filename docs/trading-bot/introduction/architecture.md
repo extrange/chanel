@@ -22,6 +22,8 @@ graph TD
 
 The Trading Engine is the heart of the bot, and receives market data, executes strategies, and performs trade executions.
 
+It is made up of the [Strategy], [Sizer] and [Execution Engine].
+
 ```mermaid
 graph TD
 
@@ -67,3 +69,6 @@ Adapted from [Systematic Trading][systematic-trading]:
 ![](../../static/trading-bot/trading-system.png)
 
 [systematic-trading]: https://github.com/extrange/trading-bot/releases/download/trading-books/systematic-trading.pdf
+[Strategy]: ../components/strategies-and-models.md
+[Sizer]: ../components/sizer.md
+[Execution Engine]: ../components/execution-engine.md

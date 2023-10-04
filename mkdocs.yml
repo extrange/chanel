@@ -17,6 +17,7 @@ theme:
   features:
     - content.action.edit
     - content.action.view
+    - content.code.copy
     - header.autohide
     - navigation.expand
     - navigation.footer
@@ -35,22 +36,23 @@ nav:
       - trading-bot/index.md
       - Introduction:
           - trading-bot/introduction/getting-started.md
+          - trading-bot/introduction/env-variables.md
           - trading-bot/introduction/principles.md
           - trading-bot/introduction/architecture.md
           - trading-bot/introduction/ibkr-quirks.md
       - Components:
-          - trading-bot/components/backtester.md
-          - trading-bot/components/execution-engine.md
-          - trading-bot/components/models-and-strategies.md
-          - trading-bot/components/notebook.md
+          - trading-bot/components/trading-config.md
+          - trading-bot/components/strategies-and-models.md
           - trading-bot/components/sizer.md
+          - trading-bot/components/execution-engine.md
+          - trading-bot/components/backtester.md
+          - trading-bot/components/notebook.md
           - trading-bot/components/web-ui.md
       - Trading Journal:
           - trading-bot/trading-journal/2023-07-21-chfjpy-cfd.md
       - Notes:
           - trading-bot/notes/forex.md
           - trading-bot/notes/risk-management.md
-          - trading-bot/notes/strategies.md
           - trading-bot/notes/market-data.md
           - trading-bot/notes/useful-resources.md
 

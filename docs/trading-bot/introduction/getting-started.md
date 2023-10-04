@@ -1,21 +1,39 @@
 # Getting Started
 
-Clone the repo:
+First, clone the [repo]:
 
 ```bash
 git clone https://github.com/extrange/trading-bot
 ```
 
+Next, we'll need to configure the account credentials and other settings.
+
 Create a `.env` file in the root directory and fill it with the following variables.
 
-```env
-USERNAME=<Your IBKR username (in single quotes)>
-PASSWORD=<Your IBKR password (in single quotes)>
-ACCOUNT=<IBKR account number, e.g. U1234567>
+!!! note inline end ""
 
-PORT=6080
-CHAT_ID=<Telegram chat ID for notifications>
-TRADING_MODE=<paper
-UID=1000
-GID=1000
+    For an explanation of each variable, see [here][env-variables].
+
+```shell
+# Values are omitted here, but you will need to fill them accordingly
+USERNAME=
+PASSWORD=
+ACCOUNT=
+
+PORT=
+CHAT_ID=
+TRADING_MODE=
+UID=
+GID=
 ```
+
+Finally, start the bot:
+
+```bash
+docker compose up
+```
+
+You should now be able to see IB Gateway on the browser at `localhost:<PORT>`, and both the terminal and your Telegram chat/group should start showing notifications.
+
+[env-variables]: env-variables.md
+[repo]: https://github.com/extrange/trading-bot
