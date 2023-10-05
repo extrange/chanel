@@ -19,11 +19,9 @@ theme:
     - content.action.view
     - content.code.copy
     - header.autohide
-    - navigation.expand
     - navigation.footer
     - navigation.indexes
     - navigation.instant
-    - navigation.sections
     - navigation.tabs
     - toc.integrate
 
@@ -48,6 +46,9 @@ nav:
           - trading-bot/components/backtester.md
           - trading-bot/components/notebook.md
           - trading-bot/components/web-ui.md
+      - Guides:
+          - trading-bot/guides/writing-model.md
+          - trading-bot/guides/running-backtest.md
       - Trading Journal:
           - trading-bot/trading-journal/2023-07-21-chfjpy-cfd.md
       - Notes:
