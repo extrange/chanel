@@ -8,13 +8,13 @@
       
       
       
-        <link rel="canonical" href="https://chanel.nicholaslyz.com/trading-bot/introduction/env-variables/">
+        <link rel="canonical" href="https://chanel.nicholaslyz.com/trading-bot/introduction/development/">
       
       
-        <link rel="prev" href="../getting-started/">
+        <link rel="prev" href="../ibkr-quirks/">
       
       
-        <link rel="next" href="../principles/">
+        <link rel="next" href="../../components/trading-config/">
       
       
       <link rel="icon" href="/static/images/favicon.png">
@@ -22,7 +22,7 @@
     
     
       
-        <title>Environment Variables - Chanel & Nicholas</title>
+        <title>Development - Chanel & Nicholas</title>
       
     
     
@@ -86,7 +86,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#environment-variables" class="md-skip">
+        <a href="#development" class="md-skip">
           Skip to content
         </a>
       
@@ -120,7 +120,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Environment Variables
+              Development
             
           </span>
         </div>
@@ -741,29 +741,9 @@
                 
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  <span class="md-ellipsis">
-    Environment Variables
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../env-variables/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -772,40 +752,6 @@
   
 
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#the-ibkr-container" class="md-nav__link">
-    The ibkr container
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#the-bot-container" class="md-nav__link">
-    The bot container
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -875,9 +821,29 @@
                 
   
   
+    
   
-    <li class="md-nav__item">
-      <a href="../development/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Development
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
@@ -886,6 +852,33 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#asyncio-and-async-methods" class="md-nav__link">
+    asyncio and async methods
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -1413,7 +1406,7 @@
                   
 
   
-    <a href="https://github.com/extrange/chanel/edit/master/docs/trading-bot/introduction/env-variables.md" title="Edit this page" class="md-content__button md-icon">
+    <a href="https://github.com/extrange/chanel/edit/master/docs/trading-bot/introduction/development.md" title="Edit this page" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
     </a>
@@ -1422,29 +1415,28 @@
     
       
     
-    <a href="https://github.com/extrange/chanel/raw/master/docs/trading-bot/introduction/env-variables.md" title="View source of this page" class="md-content__button md-icon">
+    <a href="https://github.com/extrange/chanel/raw/master/docs/trading-bot/introduction/development.md" title="View source of this page" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.15 8.15 0 0 1-1.23-2Z"/></svg>
     </a>
   
 
 
-<h1 id="environment-variables">Environment Variables</h1>
-<p>Secrets (such as usernames and passwords) are passed to each container via environment variables supplied from a <code>.env</code> file.</p>
-<p>At runtime, Docker <a href="https://docs.docker.com/compose/environment-variables/set-environment-variables/">substitutes</a> environment variables defined in the Compose file with the values in the <code>.env</code> file.</p>
-<h2 id="the-ibkr-container">The <code>ibkr</code> container</h2>
-<p>Runs <a href="https://github.com/extrange/ibkr-docker">IBKR Docker</a>, which the trading bot uses to connect to IBKR's servers.</p>
-<p><code>USERNAME</code>: Your IBKR username corresponding to the account type (<code>paper</code>/<code>live</code>)</p>
-<p><code>PASSWORD</code>: Your IBKR password</p>
-<p><code>PORT</code>: port to access the noVNC viewer for IBKR Docker (e.g. <code>6080</code>)</p>
-<p><code>TRADING_MODE</code>: <code>paper</code> or <code>live</code></p>
-<p>For more options, refer to the <a href="https://github.com/extrange/ibkr-docker#environment-variables">repo</a>.</p>
-<h2 id="the-bot-container">The <code>bot</code> container</h2>
-<p>The container running the trading bot.</p>
-<p><code>ACCOUNT</code>: IBKR account number, e.g. <code>U1234567</code></p>
-<p><code>CHAT_ID</code>: ID of Telegram chat/group which notifications will be sent. The bot will only respond to commands from this group.</p>
-<p><code>UID</code>: The Linux user identifier of the current user (usually <code>1000</code>). Togethr with <code>GID</code>, this is used to set the owner of files created by the <code>bot</code> container (which is <code>root</code> by default).</p>
-<p><code>GID</code>: The Linux group identifier of the current user (usually <code>1000</code>).</p>
+<h1 id="development">Development</h1>
+<p>Some pointers regarding coding standards for the main library.</p>
+<h2 id="asyncio-and-async-methods"><code>asyncio</code> and async methods</h2>
+<p>The entire codebase has been re-written to be fully asynchronous, partly to avoid the use of <code>nest-asyncio</code> (which is not <a href="https://github.com/python/cpython/issues/66435#issuecomment-1526848310">recommended</a>). As a result, only the asynchronous methods of the <code>IB</code> class should be used (or else <code>asyncio</code> will throw an <a href="https://stackoverflow.com/questions/46827007/runtimeerror-this-event-loop-is-already-running-in-python">error about an event loop already running</a>).</p>
+<p>This means that methods like these should be <strong>avoided</strong>:</p>
+<div class="highlight"><pre><span></span><code><span class="c1"># Don&#39;t use these!</span>
+<span class="n">IB</span><span class="o">.</span><span class="n">reqAccountSummary</span><span class="p">()</span>
+<span class="n">IB</span><span class="o">.</span><span class="n">reqOpenOrders</span><span class="p">()</span>
+<span class="n">IB</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span> <span class="c1"># This will throw an error</span>
+
+<span class="c1"># Instead, the async versions should be used:</span>
+<span class="n">IB</span><span class="o">.</span><span class="n">reqAccountSummaryAsync</span><span class="p">()</span>
+<span class="n">IB</span><span class="o">.</span><span class="n">reqOpenOrdersAsync</span><span class="p">()</span>
+<span class="k">await</span> <span class="n">asyncio</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>
+</code></pre></div>
 
 
 
@@ -1466,7 +1458,7 @@
       <nav class="md-footer__inner md-grid" aria-label="Footer" >
         
           
-          <a href="../getting-started/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Getting Started">
+          <a href="../ibkr-quirks/" class="md-footer__link md-footer__link--prev" aria-label="Previous: IBKR Quirks">
             <div class="md-footer__button md-icon">
               
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
@@ -1476,20 +1468,20 @@
                 Previous
               </span>
               <div class="md-ellipsis">
-                Getting Started
+                IBKR Quirks
               </div>
             </div>
           </a>
         
         
           
-          <a href="../principles/" class="md-footer__link md-footer__link--next" aria-label="Next: Core Principles">
+          <a href="../../components/trading-config/" class="md-footer__link md-footer__link--next" aria-label="Next: Trading Config (todo)">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Next
               </span>
               <div class="md-ellipsis">
-                Core Principles
+                Trading Config (todo)
               </div>
             </div>
             <div class="md-footer__button md-icon">
