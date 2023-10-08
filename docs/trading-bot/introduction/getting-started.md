@@ -27,7 +27,19 @@ UID=
 GID=
 ```
 
-Finally, start the bot:
+Within VSCode, reopen the folder in the Dev Container:
+
+![](../../static/trading-bot/reopen-container.jpg)
+
+Then, we can configure our Telegram bot. If you have not already created a Telegram bot, you can do so by messaging [@BotFather] on Telegram.
+
+Run the following command and follow the instructions:
+
+```bash
+python -m setup-telegram
+```
+
+Finally, you can start the trading bot:
 
 ```bash
 docker compose up
@@ -37,3 +49,4 @@ You should now be able to see IB Gateway on the browser at `localhost:<PORT>`, a
 
 [env-variables]: env-variables.md
 [repo]: https://github.com/extrange/trading-bot
+[@BotFather]: https://t.me/botfather

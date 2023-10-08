@@ -38,6 +38,7 @@ nav:
           - trading-bot/introduction/principles.md
           - trading-bot/introduction/architecture.md
           - trading-bot/introduction/ibkr-quirks.md
+          - trading-bot/introduction/development.md
       - Components:
           - trading-bot/components/trading-config.md
           - trading-bot/components/strategies-and-models.md
