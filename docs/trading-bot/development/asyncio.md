@@ -1,8 +1,4 @@
-# Development
-
-Some pointers regarding coding standards for the main library.
-
-## `asyncio` and async methods
+# `asyncio` and Async Methods
 
 The entire codebase has been re-written to be fully asynchronous, partly to avoid the use of `nest-asyncio` (which is not [recommended]). As a result, only the asynchronous methods of the `IB` class should be used (or else `asyncio` will throw an [error about an event loop already running][error]).
 
@@ -10,11 +6,15 @@ This means that methods like these should be **avoided**:
 
 ```python
 # Don't use these!
-IB.reqAccountSummary()
+IB.reqAccountSummary() # These all throw errors
 IB.reqOpenOrders()
-IB.sleep(5) # This will throw an error
+IB.sleep(5) 
+time.sleep(5) # Never call this, as it will block the main asyncio loop
+```
 
-# Instead, the async versions should be used:
+Instead, their async versions should be used:
+
+```python
 IB.reqAccountSummaryAsync()
 IB.reqOpenOrdersAsync()
 await asyncio.sleep(5)

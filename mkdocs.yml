@@ -37,8 +37,6 @@ nav:
           - trading-bot/introduction/env-variables.md
           - trading-bot/introduction/principles.md
           - trading-bot/introduction/architecture.md
-          - trading-bot/introduction/ibkr-quirks.md
-          - trading-bot/introduction/development.md
       - Components:
           - trading-bot/components/trading-config.md
           - trading-bot/components/strategies-and-models.md
@@ -47,6 +45,9 @@ nav:
           - trading-bot/components/backtester.md
           - trading-bot/components/notebook.md
           - trading-bot/components/web-ui.md
+      - Development:
+          - trading-bot/development/asyncio.md
+          - trading-bot/development/ibkr-connectivity.md
       - Guides:
           - trading-bot/guides/writing-model.md
           - trading-bot/guides/running-backtest.md
