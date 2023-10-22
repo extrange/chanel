@@ -2,6 +2,12 @@
     "aliveStatusCodes": [
         0,
         200,
-        403
+        403,
+        500
+    ],
+    "ignorePatterns": [
+        {
+            "pattern": "^https://github.com/extrange/trading-bot"
+        }
     ]
 }
