@@ -4,7 +4,7 @@ date: 2023-11-19
 
 # Visual Studio Code with Remote-SSH on Samsung Dex (using Termux)
 
-![](../../static/blog//2023-11-19/2023-11-19_firefox_dev_tools.jpg)
+![](../../static/blog/2023-11-19/2023-11-19_firefox_dev_tools.jpg)
 
 Such powerfull portable devices from phones to tablets made available to us yet we are not provided with an equivalent capable code editor application on their systems (Android/iOS).
 
@@ -164,7 +164,7 @@ This posts describes our journey in getting a full Visual Studio Code running wi
 
 ## 4. Disable phantom process killing
 
-<img src="../../static/blog//2023-11-19/2023-11-19_process_completed_signal_9.jpg"  width="400" height="200">
+<img src="../../static/blog/2023-11-19/2023-11-19_process_completed_signal_9.jpg"  width="400" height="200">
 
 Phantom (forked) processes created by Termux may be killed by Android System to prevent excessive CPU usage, resulting in `[Process completed (signal 9) - press Enter]` error.
 
