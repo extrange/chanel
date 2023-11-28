@@ -5,13 +5,17 @@
 -   [awesome-quant]: A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 -   [backtesting.py] ([Github][backtesting-py-github]): Simple, lightweight backtesting library with intuitive logic
 -   [IB Insync]: Python API for IBKR's API
+-   [LEAN]: Open source, algorithmic trading engine
 -   [pysystemtrade]: Python implementation of Robert Carver's [Systematic Trading]
+-   [QuantResearch]: Python scripts for various machine learning strategies
+-   [Quant-trading]: Python scripts for technical indicator automated trading
 -   [TA-lib] (recommended)
 -   [vectorbt]: Vectorized, high perfomance backtesting library with visualizations
 
 ## Books/Articles
 
 -   [Automation of Trading Machine for Traders: How to Develop Trading Models by Jacinta Chan]
+-   Algorithmic Trading: A Practitioner’s Guide, by Jeffrey M. Bacidore
 -   [Dimitry's TWS API FAQ]
 -   Robert Carver's Systematic Trading ([PDF][systematic-trading-pdf]).
     -   In particular, **Chapter 5: Framework Overview**, explains the differences between his system and traditional systems.
@@ -38,3 +42,6 @@
 [pysystemtrade]: https://github.com/robcarver17/pysystemtrade
 [systematic-trading-pdf]: https://github.com/extrange/trading-bot/releases/download/trading-books/systematic-trading.pdf
 [vectorbt]: https://github.com/polakowo/vectorbt
+[QuantResearch]: https://github.com/letianzj/QuantResearch
+[Quant-trading]: https://github.com/je-suis-tm/quant-trading
+[LEAN]: https://www.lean.io/
