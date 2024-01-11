@@ -53,6 +53,7 @@ nav:
           - trading-bot/guides/running-backtest.md
       - Trading Journal:
           - trading-bot/trading-journal/2023-07-21-chfjpy-cfd.md
+          - trading-bot/trading-journal/2023-12-31-review.md
       - Notes:
           - trading-bot/notes/forex.md
           - trading-bot/notes/risk-management.md
