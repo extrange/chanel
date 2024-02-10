@@ -11,15 +11,14 @@ Our first multiday hike (Panorama Ginza) with camping, from 29 Jun - 9 Jul 2023.
 ![](../../static/blog/2023-04-07/panoramaginza.jpg)
 
 <!-- more -->
-
 <figure style="max-width:300px">
-  <img src="/static/2023-04-07/map-highlighted.jpg" alt="Hiking Map" loading="lazy"/>
+  <img src="/docs/static/blog/2023-04-07/map-highlighted.jpg" alt="Hiking Map" loading="lazy"/>
   <figcaption>Panorama Ginza Trail (click to enlarge). We started at Taisho Pond (bottom left) and hiked to Nakabusa Onsen (top right) over 5D4N in a tent.<figcaption/>
 </figure>
 
 <figure>
-  <img src="/static/2023-04-07/total-profile.jpg" alt="Elevation profile" loading="lazy"/>
-  <figcaption>Total distance was 76.94km over 5 days (moving time 28hr 6min, average speed 2.6km/h). Total ascent was 3227m, and total descent was 3228m. <a href="/static/2023-04-07/merged.gpx">GPX file</a><figcaption/>
+  <img src="/docs/static/blog/2023-04-07/total-profile.jpg" alt="Elevation profile" loading="lazy"/>
+  <figcaption>Total distance was 76.94km over 5 days (moving time 28hr 6min, average speed 2.6km/h). Total ascent was 3227m, and total descent was 3228m. <a href="/docs/static/blog/2023-04-07/merged.gpx">GPX file</a><figcaption/>
 </figure>
 
 This climb was done in summer. The original plan for the hike was taken from this [site][panorama-ginza]. For the actual hike, we climbed to Karasawa Hutte mountain hut on the first day, and then on the second day we went to Chogatake Hutte mountain hut. Subsequently, we followed the Panorama Ginza trail proper.
@@ -53,12 +52,12 @@ Chanel insisted on having cake on the train to Matsumoto and she purchase a sinf
 ## Jul 1, Sat D1: Taisho Pond to Karasawa Hutte
 
 <figure>
-  <img src="/static/2023-04-07/d1.jpg" alt="D1" loading="lazy"/>
-  <figcaption>25.44km (+908m/-131m) over 6h55m (3.6km/h) <a href="/static/2023-04-07/D1 Taisho pond to Karasawa Hutte.gpx">GPX file</a><figcaption/>
+  <img src="/docs/static/blog/2023-04-07/d1.jpg" alt="D1" loading="lazy"/>
+  <figcaption>25.44km (+908m/-131m) over 6h55m (3.6km/h) <a href="/docs/static/blog/2023-04-07/D1 Taisho pond to Karasawa Hutte.gpx">GPX file</a><figcaption/>
 </figure>
 
 <figure>
-  <img src="/static/2023-04-07/karasawa.jpg" alt="jonen" loading="lazy"/>
+  <img src="/docs/static/blog/2023-04-07/karasawa.jpg" alt="jonen" loading="lazy"/>
   <figcaption>Karasawa Hutte Camp Site, surrounded by 4 mountains (2,310m)<figcaption/>
 </figure>
 
@@ -101,11 +100,11 @@ We had curry with bread. Peanut butter is not recommended with curry. The bread 
 ## Jul 2, Sun D2: Karasawa Hutte to Chogatake Hutte
 
 <figure>
-  <img src="/static/2023-04-07/d2.jpg" alt="D2" loading="lazy"/>
-  <figcaption>19.58km (+1075m/-701m) over 7h19m (2.6km/h) <a href="/static/2023-04-07/D2 Karasawa to Chokagatte.gpx">GPX file</a><figcaption/>
+  <img src="/docs/static/blog/2023-04-07/d2.jpg" alt="D2" loading="lazy"/>
+  <figcaption>19.58km (+1075m/-701m) over 7h19m (2.6km/h) <a href="/docs/static/blog/2023-04-07/D2 Karasawa to Chokagatte.gpx">GPX file</a><figcaption/>
 </figure>
 <figure>
-  <img src="/static/2023-04-07/chogatake.jpg" alt="chogatake" loading="lazy"/>
+  <img src="/docs/static/blog/2023-04-07/chogatake.jpg" alt="chogatake" loading="lazy"/>
   <figcaption>Chōgatake Hütte Camp Site, overlooking Azumino (2,670m)<figcaption/>
 </figure>
 -   Karasawa -> Yoku Valley (-690m) -> Yokoo Junction (+1,000m) -> Chogatake Hutte
@@ -118,11 +117,11 @@ Today was the 800m descent to Yokoo, then the 1000 ascent to Chogatake hut. The 
 ## Jul 3, Mon D3: Chogatake Hutte to Jonen-goya
 
 <figure>
-  <img src="/static/2023-04-07/d3.jpg" alt="D3" loading="lazy"/>
-  <figcaption>10.91km (+549m/-758m) over 5h22m (1.8km/h) <a href="/static/2023-04-07/D3 Chogatake to Joten.gpx">GPX file</a><figcaption/>
+  <img src="/docs/static/blog/2023-04-07/d3.jpg" alt="D3" loading="lazy"/>
+  <figcaption>10.91km (+549m/-758m) over 5h22m (1.8km/h) <a href="/docs/static/blog/2023-04-07/D3 Chogatake to Joten.gpx">GPX file</a><figcaption/>
 </figure>
 <figure>
-  <img src="/static/2023-04-07/jonen.jpg" alt="jonen" loading="lazy"/>
+  <img src="/docs/static/blog/2023-04-07/jonen.jpg" alt="jonen" loading="lazy"/>
   <figcaption>Jonen-goya Camp Site, with a view of Yarigatake (2,450m)<figcaption/>
 </figure>
 
@@ -146,11 +145,11 @@ Chanel wanted to give up the 400m steep ascend to Mt Jonen. Even after reaching 
 ## Jul 4, Tue D4: Jonen-koya to Enzan-so
 
 <figure>
-  <img src="/static/2023-04-07/d4.jpg" alt="D4" loading="lazy"/>
-  <figcaption>13.38km (+705m/-469m) over 5h56m (2.1km/h) <a href="/static/2023-04-07/D4 Jogen to Ensanso.gpx">GPX file</a><figcaption/>
+  <img src="/docs/static/blog/2023-04-07/d4.jpg" alt="D4" loading="lazy"/>
+  <figcaption>13.38km (+705m/-469m) over 5h56m (2.1km/h) <a href="/docs/static/blog/2023-04-07/D4 Jogen to Ensanso.gpx">GPX file</a><figcaption/>
 </figure>
 <figure>
-<a href="/static/2023-04-07/enzansou.jpg"><img src="/static/2023-04-07/enzansou.jpg" alt="enzansou" loading="lazy"/>
+<a href="/docs/static/blog/2023-04-07/enzansou.jpg"><img src="/docs/static/blog/2023-04-07/enzansou.jpg" alt="enzansou" loading="lazy"/>
   <figcaption>Sunset at Enzan-so (2,712m)<figcaption/>
 </figure>
 
@@ -162,7 +161,7 @@ Chanel wanted to give up the 400m steep ascend to Mt Jonen. Even after reaching 
 Today was the most scenic trail out of all the 4 days.
 
 <figure>
-  <img src="/static/2023-04-07/abovetheclouds.jpg" alt="abovetheclouds" loading="lazy"/>
+  <img src="/docs/static/blog/2023-04-07/abovetheclouds.jpg" alt="abovetheclouds" loading="lazy"/>
   <figcaption>Photo taken by a Japanese hiker who passed us again on her way back<figcaption/>
 </figure>
 
@@ -173,11 +172,11 @@ Boil water first before throwing it powder/carbs.
 ## Jul 5, Wed D5: Enzan-so to Nakabusan Onsen, cycling from Azumino to Matsumoto
 
 <figure>
-  <img src="/static/2023-04-07/d5.jpg" alt="D5" loading="lazy"/>
-  <figcaption>7.26km (+0m/-1145) over 2h33m (2.8km/h) <a href="/static/2023-04-07/D5 Ensanso to Nakabusa onsen.gpx">GPX file</a><figcaption/>
+  <img src="/docs/static/blog/2023-04-07/d5.jpg" alt="D5" loading="lazy"/>
+  <figcaption>7.26km (+0m/-1145) over 2h33m (2.8km/h) <a href="/docs/static/blog/2023-04-07/D5 Ensanso to Nakabusa onsen.gpx">GPX file</a><figcaption/>
 </figure>
 <figure>
-  <img src="/static/2023-04-07/azumino.jpg" alt="azumino" loading="lazy"/>
+  <img src="/docs/static/blog/2023-04-07/azumino.jpg" alt="azumino" loading="lazy"/>
   <figcaption>Stopover at the Farmers' Market<figcaption/>
 </figure>
 
@@ -217,8 +216,8 @@ Nagiso was a very quiet town, and I liked the sound of the running water of the 
 ## Jul 7, Fri: Tsumago-Magome trail, back to Tokyo
 
 <figure>
-  <img src="/static/2023-04-07/tsumago-magome.jpg" alt="D5" loading="lazy"/>
-  <figcaption>6.14km (+417m/-37m) over 1h38m (3.7km/h) <a href="/static/2023-04-07/Tsumago to Magome.gpx">GPX file</a><figcaption/>
+  <img src="/docs/static/blog/2023-04-07/tsumago-magome.jpg" alt="D5" loading="lazy"/>
+  <figcaption>6.14km (+417m/-37m) over 1h38m (3.7km/h) <a href="/docs/static/blog/2023-04-07/Tsumago to Magome.gpx">GPX file</a><figcaption/>
 </figure>
 
 -   0840 Bus from Nagiso Station to Tsumago ([schedule][nagiso-bus-schedule])
