@@ -87,3 +87,4 @@ plugins:
       post_excerpt: required
       categories_allowed:
         - Trips
+        - DIY
