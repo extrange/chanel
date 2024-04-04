@@ -165,7 +165,7 @@ This posts describes our journey in getting a full Visual Studio Code running wi
 ## 4. Disable phantom process killing
 
 <figure>
-<img src="/static/blog/2023-11-19/2023-11-19_process_completed_signal_9.jpg"  width="400" height="200"/>
+<img src="/docs/static/blog/2023-11-19/2023-11-19_process_completed_signal_9.jpg"  width="400" height="200"/>
 </figure>
 
 Phantom (forked) processes created by Termux may be killed by Android System to prevent excessive CPU usage, resulting in `[Process completed (signal 9) - press Enter]` error.

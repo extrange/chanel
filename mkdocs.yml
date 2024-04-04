@@ -54,6 +54,7 @@ nav:
           - trading-bot/guides/running-backtest.md
       - Trading Journal:
           - trading-bot/trading-journal/2023-07-21-chfjpy-cfd.md
+          - trading-bot/trading-journal/2023-12-31-review.md
       - Notes:
           - trading-bot/notes/forex.md
           - trading-bot/notes/risk-management.md
@@ -65,7 +66,7 @@ markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -87,3 +88,4 @@ plugins:
       post_excerpt: required
       categories_allowed:
         - Trips
+        - DIY

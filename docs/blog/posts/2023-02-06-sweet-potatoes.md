@@ -11,22 +11,22 @@ Through the process we've learnt there are several varieties of sweet potatoes, 
 <!-- more -->
 
 <figure>
-  <div ><img src="/static/2023-02-06/sweet-potatoes.jpg" alt="Sweet potato varieties" loading="lazy"/></div>
+  <div ><img src="/static/blog/2023-02-06/sweet-potatoes.jpg" alt="Sweet potato varieties" loading="lazy"/></div>
   <figcaption>From left to right: Ipoh, Japan Red, Purple, Indonesia Honey, Unknown Japan variety. The control potato is on the bottom right. Note the different flesh colors.</figcaption>
 </figure>
 
 <figure>
-  <div ><img src="/static/2023-02-06/ipoh.jpg" alt="Sweet potato varieties" loading="lazy"/></div>
+  <div ><img src="/static/blog/2023-02-06/ipoh.jpg" alt="Sweet potato varieties" loading="lazy"/></div>
   <figcaption>Ipoh</figcaption>
 </figure>
 
 <figure>
-  <div ><img src="/static/2023-02-06/indonesia-honey.jpg" alt="Sweet potato varieties" loading="lazy"/></div>
+  <div ><img src="/static/blog/2023-02-06/indonesia-honey.jpg" alt="Sweet potato varieties" loading="lazy"/></div>
   <figcaption>Indonesia Honey</figcaption>
 </figure>
 
 <figure>
-  <div ><img src="/static/2023-02-06/real-japan-sweet-potato.jpg" alt="Sweet potato varieties" loading="lazy"/></div>
+  <div ><img src="/static/blog/2023-02-06/real-japan-sweet-potato.jpg" alt="Sweet potato varieties" loading="lazy"/></div>
   <figcaption>"Real" Japan Sweet Potato (probably the same as the unknown variety above)</figcaption>
 </figure>
 
