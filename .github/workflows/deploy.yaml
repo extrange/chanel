@@ -1,9 +1,9 @@
-name: Build and deploy
-
+name: Deploy to Github Pages
 on:
   push:
     branches:
       - master
+  workflow_call:
 
 jobs:
   build-and-deploy:
@@ -11,34 +11,25 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Set up Python 3.x
-        uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
-      - name: Install dependencies
+      - name: Set up pdm
         run: |
-          python --version
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          curl -sSL https://pdm-project.org/install-pdm.py | python3 -
+      
+      - name: Sync pdm
+        run: pdm sync
 
       - name: Build
-        run: |
-          mkdocs build
+        run: pdm run build
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-            branch: gh-pages # The branch the action should deploy to.
-            folder: site # The folder the action should deploy.
-
-      - name: Notify Relationship Manager
-        env:
-          BOT_TOKEN: ${{secrets.BOT_TOKEN}}
-          CHAT_ID: ${{secrets.CHAT_ID}}
-        run: |
-          curl -X POST --data-urlencode "chat_id=$CHAT_ID" -d "parse_mode=Markdown" --data-urlencode "text=*chanel.nicholaslyz.com*
-          New commit by *${{github.event.head_commit.author.name}}*" "https://api.telegram.org/bot$BOT_TOKEN/sendMessage"
-          curl -X POST --data-urlencode "chat_id=$CHAT_ID" --data-urlencode "text=${{github.event.head_commit.message}}" "https://api.telegram.org/bot$BOT_TOKEN/sendMessage"
+          branch: gh-pages # The branch the action should deploy to.
+          folder: site # The folder the action should deploy.
