@@ -6,7 +6,7 @@ authors = [
     {name = "", email = ""},
 ]
 dependencies = [
-    "mkdocs-material>=9.5.18",
+    "mkdocs-material>=9.5.19",
     "mkdocs-glightbox>=0.3.7",
 ]
 requires-python = "==3.12.*"
