@@ -6,9 +6,9 @@ categories:
 
 # 2024 May: Amsterdam, Netherlands & Nice, France
 
-Sightseeing, attempt at GR52 & adventure sports from 7-19 May 2024.
+![](../../static/blog/2024-05/apples.jpg)
 
-![](../../static/blog/2024-05/day2_tent.jpg)
+Sightseeing, attempt at GR52 & adventure sports from 7-19 May 2024.
 
 <!-- more -->
 
@@ -97,6 +97,7 @@ Sightseeing, attempt at GR52 & adventure sports from 7-19 May 2024.
 **13 May (Mon)**
 
 ![](../../static/blog/2024-05/day1_tent.jpg)
+
 - Cooked macaroni chicken noodle soup for breakfast
 - Headed down the mountain to La Madone de Fenestre, where we saw many alpine ibex
 - Attempted to reach Refuge de Nice but there was too much snow
@@ -109,7 +110,8 @@ Sightseeing, attempt at GR52 & adventure sports from 7-19 May 2024.
 
 **14 May (Tue)**
 
-![](../../static/blog/2024-05/oats.jpg)
+![](../../static/blog/2024-05/day2_tent.jpg)
+
 - Chanel woke up to cook but could not get the stove working
 - Nicholas fixed it and we had warm oats with nuts for breakfast
 - Returned back to La Madone de Fenestre and up again
@@ -123,6 +125,7 @@ Sightseeing, attempt at GR52 & adventure sports from 7-19 May 2024.
 **15 May (Wed)**
 
 ![](../../static/blog/2024-05/day3_tent.jpg)
+
 - Cooked somen for breakfast which could not be cooked for lunch
 - Attempted to hike a trail back to Saint Martin Vesubie
 - Crossed a huge waterfall and many snow paths
@@ -192,12 +195,7 @@ Approximate total cost per person: **SGD 3063.63**
 
 # Packing List
 
-??? note "Packing List"
-??? note "Total Cost"
-
-    -   Flights: $664
-    -   \[5N\] Accoms: $
-| Packing list | Chanel | Nicholas |
+| Items | Chanel | Nicholas |
 |--------------|-------|--------|
 | **CLOTHES**  |       |        |
 | Hat          |   x   |   x    |
