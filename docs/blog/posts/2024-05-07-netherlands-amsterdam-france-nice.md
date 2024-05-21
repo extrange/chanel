@@ -12,7 +12,7 @@ Sightseeing, attempt at GR52 & adventure sports from 7-19 May 2024.
 
 <!-- more -->
 
-## 7-11 May: Amsterdam Experience
+## 7 - 11 May: Amsterdam Experience
 
 **07 May (Tue)**
 
@@ -146,7 +146,7 @@ Sightseeing, attempt at GR52 & adventure sports from 7-19 May 2024.
 - Chanel bought soap bars, bag and clothes. Nicholas bought music box and a poker chip.
 - Overnight at Hotel So’Co by Happyculture 
 
-# 17 - 19 May: Water Rat's Adventures
+## 17 - 19 May: Water Rat's Adventures
 
 **17 May (Fri)**
 
@@ -181,9 +181,10 @@ Sightseeing, attempt at GR52 & adventure sports from 7-19 May 2024.
 
 - 1635: Arrive in SIN
 
-# Costs
+## Costs
 
 Total Amount: SGD 6127.26 
+
 - Accoms: 1402.62 (22.88%)
 - Activities: 734.48 (11.99%)
 - Car: 338.16 (5.52%)
@@ -193,7 +194,7 @@ Total Amount: SGD 6127.26
 
 Approximate total cost per person: **SGD 3063.63**
 
-# Packing List
+## Packing List
 
 | Items | Chanel | Nicholas |
 |--------------|-------|--------|
