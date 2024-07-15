@@ -8,13 +8,13 @@
       
       
       
-        <link rel="canonical" href="https://chanel.nicholaslyz.com/trading-bot/components/notebook/">
+        <link rel="canonical" href="https://chanel.nicholaslyz.com/trading-bot/development/workflow/">
       
       
-        <link rel="prev" href="../backtester/">
+        <link rel="prev" href="../../components/web-ui/">
       
       
-        <link rel="next" href="../web-ui/">
+        <link rel="next" href="../asyncio/">
       
       
       <link rel="icon" href="/static/images/favicon.png">
@@ -22,7 +22,7 @@
     
     
       
-        <title>Notebook - Chanel & Nicholas</title>
+        <title>Development Workflow - Chanel & Nicholas</title>
       
     
     
@@ -83,7 +83,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#notebook" class="md-skip">
+        <a href="#development-workflow" class="md-skip">
           Skip to content
         </a>
       
@@ -117,7 +117,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Notebook
+              Development Workflow
             
           </span>
         </div>
@@ -912,10 +912,8 @@
                 
   
   
-    
   
   
-  
     
     
       
@@ -939,11 +937,11 @@
       
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
         
           
           <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
@@ -957,7 +955,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_4_3">
             <span class="md-nav__icon md-icon"></span>
             Components
@@ -971,7 +969,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../trading-config/" class="md-nav__link">
+      <a href="../../components/trading-config/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -992,7 +990,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../strategies-and-models/" class="md-nav__link">
+      <a href="../../components/strategies-and-models/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1013,7 +1011,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../sizer/" class="md-nav__link">
+      <a href="../../components/sizer/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1034,7 +1032,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../execution-engine/" class="md-nav__link">
+      <a href="../../components/execution-engine/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1055,7 +1053,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../backtester/" class="md-nav__link">
+      <a href="../../components/backtester/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1073,19 +1071,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../../components/notebook/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1094,7 +1083,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -1107,7 +1095,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../web-ui/" class="md-nav__link">
+      <a href="../../components/web-ui/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1133,8 +1121,10 @@
                 
   
   
+    
   
   
+  
     
     
       
@@ -1150,11 +1140,11 @@
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_4" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_4" checked>
         
           
           <label class="md-nav__link" for="__nav_4_4" id="__nav_4_4_label" tabindex="0">
@@ -1168,7 +1158,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_4_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_4_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_4_4">
             <span class="md-nav__icon md-icon"></span>
             Development
@@ -1179,10 +1169,30 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../../development/workflow/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Development Workflow
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
@@ -1191,6 +1201,53 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#individual-issues" class="md-nav__link">
+    <span class="md-ellipsis">
+      Individual Issues
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#category-notes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Category Notes
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#standup-steps" class="md-nav__link">
+    <span class="md-ellipsis">
+      Standup Steps
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -1203,7 +1260,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../development/asyncio/" class="md-nav__link">
+      <a href="../asyncio/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1224,7 +1281,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../development/ibkr-connectivity/" class="md-nav__link">
+      <a href="../ibkr-connectivity/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1617,7 +1674,7 @@
                   
 
   
-    <a href="https://github.com/extrange/chanel/edit/master/docs/trading-bot/components/notebook.md" title="Edit this page" class="md-content__button md-icon">
+    <a href="https://github.com/extrange/chanel/edit/master/docs/trading-bot/development/workflow.md" title="Edit this page" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
     </a>
@@ -1626,15 +1683,38 @@
     
       
     
-    <a href="https://github.com/extrange/chanel/raw/master/docs/trading-bot/components/notebook.md" title="View source of this page" class="md-content__button md-icon">
+    <a href="https://github.com/extrange/chanel/raw/master/docs/trading-bot/development/workflow.md" title="View source of this page" class="md-content__button md-icon">
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.15 8.15 0 0 1-1.23-2Z"/></svg>
     </a>
   
 
 
-<h1 id="notebook">Notebook</h1>
-<p>Used to test the <code>ib_insync</code> API. Run in a Jupyter notebook.</p>
+<h1 id="development-workflow">Development Workflow</h1>
+<p>Workflow Specification - move to README.md. To follow on weekly standup.</p>
+<h2 id="individual-issues">Individual Issues</h2>
+<ul>
+<li>Requirements must be stated clearly</li>
+<li>If a feature is large, do not split it to multiple issues. Instead, specify it more clearly in terms of subtasks.</li>
+</ul>
+<h2 id="category-notes">Category Notes</h2>
+<ul>
+<li>Design/Develop<ul>
+<li>max 1 big item (sub-requirements must be specified clearly)</li>
+</ul>
+</li>
+<li>Test<ul>
+<li>Developers make PRs here. Other developers run tests/check functionalities, and when they approve and merge it moves to Done.</li>
+<li>If this was a feature, documentation is also required.</li>
+</ul>
+</li>
+</ul>
+<h2 id="standup-steps">Standup Steps</h2>
+<ol>
+<li>CLeanup Bugs, Design/Develop and Test categories</li>
+<li>Reprioritize Backlog</li>
+<li>Decide next tasks for Design/Develop</li>
+</ol>
 
 
 
@@ -1664,7 +1744,7 @@
       <nav class="md-footer__inner md-grid" aria-label="Footer" >
         
           
-          <a href="../backtester/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Backtester">
+          <a href="../../components/web-ui/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Web UI (TODO)">
             <div class="md-footer__button md-icon">
               
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
@@ -1674,20 +1754,20 @@
                 Previous
               </span>
               <div class="md-ellipsis">
-                Backtester
+                Web UI (TODO)
               </div>
             </div>
           </a>
         
         
           
-          <a href="../web-ui/" class="md-footer__link md-footer__link--next" aria-label="Next: Web UI (TODO)">
+          <a href="../asyncio/" class="md-footer__link md-footer__link--next" aria-label="Next: asyncio and Async Methods">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Next
               </span>
               <div class="md-ellipsis">
-                Web UI (TODO)
+                asyncio and Async Methods
               </div>
             </div>
             <div class="md-footer__button md-icon">
