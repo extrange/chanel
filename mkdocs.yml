@@ -47,6 +47,7 @@ nav:
           - trading-bot/components/notebook.md
           - trading-bot/components/web-ui.md
       - Development:
+          - trading-bot/development/workflow.md
           - trading-bot/development/asyncio.md
           - trading-bot/development/ibkr-connectivity.md
       - Guides:
@@ -60,6 +61,7 @@ nav:
           - trading-bot/notes/risk-management.md
           - trading-bot/notes/market-data.md
           - trading-bot/notes/useful-resources.md
+      - trading-bot/monitoring.md
 
 markdown_extensions:
   - abbr

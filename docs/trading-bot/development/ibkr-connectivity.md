@@ -45,6 +45,31 @@ At times, the [`reqHistoricalData`][reqHistoricalData] method can timeout. One p
 | 1 M              | 30 mins - 1 month |
 | 1 Y              | 1 day - 1 month   |
 
+## Error codes
+
+-   `errorCode=162: Historical Market Data Service error`
+    -   Connection lost
+-   `errorCode=1100: Connectivity between IB and Trader Workstation has been lost.`
+    -   Every day at 5.55am
+    -   On user login
+        -   Followup errors are 2105 and 2103
+-   `errorCode=162: Historical Market Data Service error`
+    -   Connection lost
+-   `errorCode=1100: Connectivity between IB and Trader Workstation has been lost.`
+    -   Every day at 5.55am
+    -   On user login
+        -   Followup errors are 2105 and 2103
+-   `Zero data received`
+    -   Everyday at 5am
+-   `errorCode=2150: Invalid position trade derived value`
+    -   What is this?
+-   Every Sunday at 0100 ET (Sunday 1300 SGT), a [manual login](https://www.ibkrguides.com/tws/usersguidebook/configuretws/auto_restart_info.htm) is required.
+-   `Zero data received`
+    -   Everyday at 5am
+-   `errorCode=2150: Invalid position trade derived value`
+    -   What is this?
+-   Every Sunday at 0100 ET (Sunday 1300 SGT), a [manual login](https://www.ibkrguides.com/tws/usersguidebook/configuretws/auto_restart_info.htm) is required.
+
 [restarted daily]: https://github.com/IbcAlpha/IBC/blob/ff041039e9f21369ebb3adb28dfda88a058237cd/resources/config.ini#L523
 [restarted weekly]: https://www.ibkrguides.com/tws/usersguidebook/configuretws/auto_restart_info.htm
 [resets]: https://www.interactivebrokers.com/en/index.php?f=2225
