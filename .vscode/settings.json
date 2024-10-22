@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "./.venv/bin/python",
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    }
+}
