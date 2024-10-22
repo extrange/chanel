@@ -76,6 +76,7 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - admonition
   - pymdownx.details
+  - pymdownx.tilde
   - pymdownx.tasklist:
       custom_checkbox: true
   - footnotes
@@ -92,3 +93,4 @@ plugins:
         - Trips
         - DIY
         - Games
+        - Cooking
