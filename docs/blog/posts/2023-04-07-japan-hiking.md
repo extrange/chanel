@@ -482,10 +482,9 @@ Prices excluding flights.
 [narita-transport]: https://tokyocheapo.com/travel/narita-to-shinjuku/
 [nex-train]: https://tokyocheapo.com/travel/narita-express-nex/
 [azusa-train-schedule]: https://www.snowmonkeyresorts.com/wp-content/uploads/2022/03/Shinjuku-Matsumoto-1.png
-[matsumoto-train]: https://japantravel.navitime.com/en/area/jp/route/result?start=00003876&goal=00007171&start_name=Matsumoto&goal_name=Nagiso&date_time=2023-07-06T15%3A36
 [kamikochi-bus-info]: https://www.kamikochi.org/pdf/Kamikochi_Leaflet.pdf
 [nakabusa-bus-schedule]: https://azumino-e-tabi.net/pdf/p3-4.pdf
-[matsumoto-tsumago]: https://japantravel.navitime.com/en/area/jp/route/result?start=00003876&goal=00007171&start_name=Matsumoto&goal_name=Nagiso&date_time=2023-07-06T15%3A36
+[matsumoto-tsumago]: https://web.archive.org/web/20250106004731/https://japantravel.navitime.com/en/area/jp/route/result?start=00003876&goal=00007171&start_name=Matsumoto&goal_name=Nagiso&date_time=2023-07-06T15%3A36
 [nagiso-bus-schedule]: https://www.japan-guide.com/bus/kiso.html
 [magome-shinjuku]: https://www.kousokubus.net/JpnBus/en/WebTicket/Index/busnetticket-20230606233731.pdf?key=Pov6rzaByzpoCd7vkMw4EoL7SfRA9m32
 [magome-bus]: https://www.kousokubus.net/JpnBus/en
