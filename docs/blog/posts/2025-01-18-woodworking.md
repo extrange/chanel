@@ -1,5 +1,5 @@
 ---
-date: 2025-01-12
+date: 2025-01-18
 categories:
     - DIY
     - House
@@ -19,7 +19,7 @@ We went to a furniture making workshop at Tombalek (shared by our friend) and ma
 - **Mahogany**: Used for the bench top, known for its rich color and durability.
 - **Beech Wood**: Chosen for the legs due to its strength and stability.
 <figure style="max-width:300px">
-  <img src="/static/blog/2025-01-18/materials-min.jpg" loading="lazy"/>
+  <img src="/static/blog/2025-01-18/tombalek_materials-min.jpg" loading="lazy"/>
 </figure>
 
 ## Equipment
@@ -45,20 +45,20 @@ We went to a furniture making workshop at Tombalek (shared by our friend) and ma
 4. **Create Inserts on Leg Supports**: Using the **Bandsaw**.
 5. **Sand Bench Top**: Smooth edges with a **Belt Sander** .
 6. **Create Curved Edges**: Use the **Router** for a finished edge.
-<figure style="max-width:300px">
-  <img src="/static/blog/2025-01-18/tombalek_router-min.jpg" loading="lazy"/>
-</figure>
+  <figure style="max-width:300px">
+    <img src="/static/blog/2025-01-18/tombalek_router-min.jpg" loading="lazy"/>
+  </figure>
 
 7. **Smooth Edges**: Use the **Orbital Sander** to finish all surfaces (start with 80-grit, finish with 240-grit).
-<figure style="max-width:300px">
-  <img src="/static/blog/2025-01-18/tombalek_sanding-min.jpg" loading="lazy"/>
-</figure>
+  <figure style="max-width:300px">
+    <img src="/static/blog/2025-01-18/tombalek_sanding-min.jpg" loading="lazy"/>
+  </figure>
 
 8. **Drill Leg Holes**: Use the **Drill Press** for accurate leg insert holes.
 
-<figure style="max-width:300px">
-  <img src="/static/blog/2025-01-18/tombalek_marking-min.jpg" loading="lazy"/>
-</figure>
+  <figure style="max-width:300px">
+    <img src="/static/blog/2025-01-18/tombalek_marking-min.jpg" loading="lazy"/>
+  </figure>
 
 9. **Assemble Bench**: Attach legs with glue and screws, ensuring alignment and stability.
 10. **Apply Finish**: Apply **Linseed Oil** and wipe off excess after 10-20 minutes. This is **Penetrating Oil Finish** and it is best for Natural-looking furniture and floors that need protection without a glossy or shiny finish. However, it requires regular maintenance and reapplication, especially on floors.
@@ -86,11 +86,11 @@ We went to a furniture making workshop at Tombalek (shared by our friend) and ma
 We bought a furniture marker to get rid of deep scratch on the wooden parquet floor.
 
 <figure style="max-width:300px">
-  <img src="/static/blog/2025-01-18/furniture_marker_before-min.jpg" loading="lazy"/>
+  <img src="/static/blog/2025-01-18/furniture_marker_before.jpg" loading="lazy"/>
 </figure>
 
 <figure style="max-width:300px">
-  <img src="/static/blog/2025-01-18/furniture_marker_after-min.jpg" loading="lazy"/>
+  <img src="/static/blog/2025-01-18/furniture_marker_after.jpg" loading="lazy"/>
 </figure>
 
 
