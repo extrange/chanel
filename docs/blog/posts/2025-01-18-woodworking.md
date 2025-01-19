@@ -60,7 +60,9 @@ We went to a furniture making workshop at Tombalek (shared by our friend) and ma
     <img src="/static/blog/2025-01-18/tombalek_marking-min.jpg" loading="lazy"/>
   </figure>
 
+
 9. **Assemble Bench**: Attach legs with glue and screws, ensuring alignment and stability.
+
 10. **Apply Finish**: Apply **Linseed Oil** and wipe off excess after 10-20 minutes. This is **Penetrating Oil Finish** and it is best for Natural-looking furniture and floors that need protection without a glossy or shiny finish. However, it requires regular maintenance and reapplication, especially on floors.
 
 ## Alternative Wood Finishes
