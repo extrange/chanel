@@ -6,6 +6,10 @@ categories:
 
 # Laser Cutting Guide
 
+A short guide to using the laser cutting machine at NLB.
+
+<!-- more -->
+
 ## TinkerCAD Controls
 
 -   **View Movement**: Shift + Right Click
