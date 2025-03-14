@@ -6,12 +6,12 @@ categories:
 
 # Painting The Wall
 <div style="display: flex; gap: 10px;">
-  <figure style="max-width:50px">
-    <img src="/static/blog/2025-02-28/painting_nicholas.jpg" loading="lazy"/>
+  <figure style="max-width:300px">
+    <img src="/static/blog/2025-02-28/painting_roller.jpg" loading="lazy"/>
   </figure>
 
-  <figure style="max-width:50px">
-    <img src="/static/blog/2025-02-28/painting_chanel.jpg" loading="lazy"/>
+  <figure style="max-width:300px">
+    <img src="/static/blog/2025-02-28/painting_tape.jpg" loading="lazy"/>
   </figure>
 </div>
 
