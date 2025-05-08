@@ -14,6 +14,15 @@ China Experience, Tang Dynasty Wedding and Minya Konka hiking from 25 Apr-6 May 
 
 ## 25 - 27 Apr: Pandas & Tang Dynasty Wedding
 
+<div style="display: flex; gap: 10px;">
+  <figure style="max-width:300px">
+    <img src="/static/blog/2025-04/wedding.png" loading="lazy"/>
+  </figure>
+  <figure style="max-width:300px">
+    <img src="/static/blog/2025-04/meituan.png" loading="lazy"/>
+  </figure>
+</div>
+
 **25 Apr (Fri)**
 
 -   1600-2025: Flight to TFU
@@ -33,15 +42,6 @@ China Experience, Tang Dynasty Wedding and Minya Konka hiking from 25 Apr-6 May 
 
 **27 Apr (Sun)**
 
-<div style="display: flex; gap: 10px;">
-  <figure style="max-width:300px">
-    <img src="/static/blog/2025-04/wedding.png" loading="lazy"/>
-  </figure>
-  <figure style="max-width:300px">
-    <img src="/static/blog/2025-04/meituan.png" loading="lazy"/>
-  </figure>
-</div>
-
 -   0900: Didi to Furong Garden to see Sky's arrival by horse and carriage.
 -   Played mahjong and bought bubble tea
 -   Experienced Sky's & Hengzai's Tang Dynasty-style wedding - significant food wastage
@@ -51,6 +51,15 @@ China Experience, Tang Dynasty Wedding and Minya Konka hiking from 25 Apr-6 May 
 -   Overnight at Echeng Hotel (Chengdu Chunxi Road Taikoo Li Branch) (SGD70)
 
 ## 28 Apr - 2 May: Kangding Tibetian Culture Experience
+
+<div style="display: flex; gap: 10px;">
+  <figure style="max-width:300px">
+    <img src="/static/blog/2025-04/minya.png" loading="lazy"/>
+  </figure>
+  <figure style="max-width:300px">
+    <img src="/static/blog/2025-04/horse.png" loading="lazy"/>
+  </figure>
+</div>
 
 **28 Apr (Mon)**
 -   1020: Bus to Kangding (SGD25/pax)
@@ -108,6 +117,15 @@ China Experience, Tang Dynasty Wedding and Minya Konka hiking from 25 Apr-6 May 
 -   Overnight at 7 Days Premium Kangding. (SGD90)
 
 ## 3 - 6 May: Chengdu Tea & Bian Lian Experience
+
+<div style="display: flex; gap: 10px;">
+  <figure style="max-width:300px">
+    <img src="/static/blog/2025-04/tea.png" loading="lazy"/>
+  </figure>
+  <figure style="max-width:300px">
+    <img src="/static/blog/2025-04/bianlian.png" loading="lazy"/>
+  </figure>
+</div>
 
 **3 May (Sat)**
 
