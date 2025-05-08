@@ -20,7 +20,7 @@ China Experience, Tang Dynasty Wedding and Minya Konka hiking from 25 Apr-6 May 
 -   Tooked the airport express bus to Chunxi IFS (SGD3/pax, 1 hour)
 -   Walked to Echeng Hotel in the drizzle with our luggage
 -   Overnight at Echeng Hotel (Chengdu Chunxi Road Taikoo Li Branch) (SGD70)
--
+
 **26 Apr (Sat)**
 
 -   Woke up and decided to visit Panda Base
@@ -35,14 +35,12 @@ China Experience, Tang Dynasty Wedding and Minya Konka hiking from 25 Apr-6 May 
 
 <div style="display: flex; gap: 10px;">
   <figure style="max-width:300px">
-    <img src="/static/blog/2025-04-25/wedding.jpg" loading="lazy"/>
+    <img src="/static/blog/2025-04/wedding.png" loading="lazy"/>
   </figure>
-
   <figure style="max-width:300px">
-    <img src="/static/blog/2025-04-25/meituan.jpg" loading="lazy"/>
+    <img src="/static/blog/2025-04/meituan.png" loading="lazy"/>
   </figure>
 </div>
-
 
 -   0900: Didi to Furong Garden to see Sky's arrival by horse and carriage.
 -   Played mahjong and bought bubble tea
@@ -64,7 +62,6 @@ China Experience, Tang Dynasty Wedding and Minya Konka hiking from 25 Apr-6 May 
 -   Overnight at Lan Au Shangpin Hotel (Kangding Xinduqiao Branch) by 3300m (SGD54)
 
 **29 Apr (Tue)**
-
 
 -   0800-1200: Private car tour to Yuzixi, Gedilaram Sky City and Sidingcuo lake. (SGD140)
 -   Got abandoned by private tour guide to the transport van to return to Kangding.
@@ -147,7 +144,6 @@ China Experience, Tang Dynasty Wedding and Minya Konka hiking from 25 Apr-6 May 
 
 -   We meituan breakfast and took didi (SGD40) to airport
 -   1000-1500: Flight to SIN
--
 
 ## Costs
 
