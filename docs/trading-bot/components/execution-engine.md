@@ -6,5 +6,5 @@ Also manages reconnections.
 
 [ibkr-docker]: https://github.com/extrange/ibkr-docker
 [ibkr]: https://www.interactivebrokers.com/en/home.php
-[paper-trading]: https://www.interactivebrokers.com/en/software/omnibrokers/topics/papertrader.htm
+[paper-trading]: https://www.ibkrguides.com/clientportal/aboutpapertradingaccounts.htm
 [tws-api]: https://interactivebrokers.github.io/tws-api/
