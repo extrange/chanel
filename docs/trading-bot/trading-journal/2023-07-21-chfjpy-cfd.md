@@ -18,7 +18,7 @@ From 8 May - 21 Jul 2023.
 
 Commission: Minimum of USD 2 per order
 
-## [Margins](https://www.interactivebrokers.com.sg/en/index.php?f=4745&p=cfd2)
+## Margins
 
 Since our trading amount is 10,000 CHF (approx. 12,000 USD), we must maintain a minimum initial margin of USD 360. This amount varies depending on the exchange rates.
 
