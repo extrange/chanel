@@ -58,7 +58,8 @@ Wedding Photoshoot and Tailoring Experience from 29 Nov-5 Dec 2025.
 -   We took Grab to Han Market and bought dried mangoes and Chanel almost got scammed by ao dai seller and got her money back. She found another ao dai seller and Nicholas found 4 shirts.
 -   We had a seafood at LoCo but they forgot the octopus and the next table had a runaway crab but he was captured, washed and retuned to the hot tub.
 -   Overnight at Sanouva Da Nang Hotel ($69)
--   **2 Dec (Tue)**
+-   
+**2 Dec (Tue)**
 
 -   Breakfast at the hotel before taking grab back to Hoi An.
 -   It was raining heavily when we went for our 3rd fitting, Chanel requested for bra pads for the dress from Tuong and demanded that Blue Eye corrected the shiny satin of Nicholas Tuxedo.
@@ -96,7 +97,7 @@ Wedding Photoshoot and Tailoring Experience from 29 Nov-5 Dec 2025.
 
 ## Overall Trip Expenses
 
-Total Amount (exluding clothes, shoes & gifts): SGD 1122 per pax
+Total Amount (exluding clothes, shoes & gifts): SGD 1,122 per pax
 
 | Item                           | Nicholas (SGD) | Chanel (SGD) |
 | ------------------------------ | -------------- | ------------ |
@@ -112,16 +113,15 @@ Total Amount (exluding clothes, shoes & gifts): SGD 1122 per pax
 
 ??? note "Breakdown: Clothes, Shoes and Gifts"
 
-
-| Nicholas Item                       | Nicholas (SGD) | Chanel Item             | Chanel (SGD) |
-| ----------------------------------- | -------------- | ----------------------- | ------------ |
-| Blue Eye 3 pc black suit + 2 shirts | 364            | Blue Eye suit + 1 shirt | 266          |
-| Tuong 2 pc blue suit + 1 shirt      | 350            | Tuong dress             | 155          |
-| Bari 2 pc beight suit               | 123            | Bari 2 linen shirts     | 103          |
-| Bari 1 cottom shirt 1 linen shirt   | 103            | Bari 2 pants            | 114          |
-| Bari alteration for 4 shirts        | 45             | 2 linen dress           | 98           |
-| Hello Leather 2 shoes               | 118            | Nails, spa              | 27           |
-| Shoe repair                         | 25             | Ao Dai                  | 17           |
-| Friendly Shoe bag                   | 123            | Cosmetics               | 152          |
-| Tea cup set                         | 22             | Wine                    | 42           |
-| **Total**                           | **1,272**      | **Total**               | **974**      |
+    | Nicholas Item                       | Nicholas (SGD) | Chanel Item             | Chanel (SGD) |
+    | ----------------------------------- | -------------- | ----------------------- | ------------ |
+    | Blue Eye 3 pc black suit + 2 shirts | 364            | Blue Eye suit + 1 shirt | 266          |
+    | Tuong 2 pc blue suit + 1 shirt      | 350            | Tuong dress             | 155          |
+    | Bari 2 pc beight suit               | 123            | Bari 2 linen shirts     | 103          |
+    | Bari 1 cottom shirt 1 linen shirt   | 103            | Bari 2 pants            | 114          |
+    | Bari alteration for 4 shirts        | 45             | 2 linen dress           | 98           |
+    | Hello Leather 2 shoes               | 118            | Nails, spa              | 27           |
+    | Shoe repair                         | 25             | Ao Dai                  | 17           |
+    | Friendly Shoe bag                   | 123            | Cosmetics               | 152          |
+    | Tea cup set                         | 22             | Wine                    | 42           |
+    | **Total**                           | **1,272**      | **Total**               | **974**      |
