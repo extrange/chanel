@@ -6,7 +6,7 @@ categories:
 
 # 2025 Nov-Dec: Da Nang & Hoi An, Central Vietnam
 
-![](../../static/blog/2025-11/tuart-0.png)
+![](../../static/blog/2025-11/tuart-0.jpg)
 
 Wedding Photoshoot and Tailoring Experience from 29 Nov-5 Dec 2025.
 
@@ -40,17 +40,17 @@ Wedding Photoshoot and Tailoring Experience from 29 Nov-5 Dec 2025.
 
 <div style="display: flex; gap: 10px;">
   <figure style="max-width:300px">
-    <img src="/static/blog/2025-11/tuart-1.png" loading="lazy"/>
+    <img src="/static/blog/2025-11/tuart-1.jpg" loading="lazy"/>
   </figure>
   <figure style="max-width:300px">
-    <img src="/static/blog/2025-11/tuart-2.png" loading="lazy"/>
+    <img src="/static/blog/2025-11/tuart-2.jpg" loading="lazy"/>
   </figure>
 </div>
 
 -   0430: We woke up and the make up artist Thu arrived to give Chanel Korean make up, lashes and pretty hairstyles
 -   0700: The photographer Thuc and helper Huy arrived and we started taking photos at the hotel lobby.
 -   It was raining so we could not go to the beach. Hence, we had breakfast first at an authentic Vietnam place in our gowns/suits.
--   THe beach photos were nice but it started raining so we took shelter and saw baby crabs together with the photographer.
+-   The beach photos were nice but it started raining so we took shelter and saw baby crabs together with the photographer.
 -   As the rain was not stopping, we headed to the studio for more photos and Chanel was tired but the make up artist was super positive and encouraging.
 -   After the studio, they even allowed us to go back to the beach for more photos as the rain stopped. We return to Tuart to have our makeup removed.
 -   While waiting for the photos to be downloaded, we went back to the hotel to change and drop our things.
@@ -58,7 +58,8 @@ Wedding Photoshoot and Tailoring Experience from 29 Nov-5 Dec 2025.
 -   We took Grab to Han Market and bought dried mangoes and Chanel almost got scammed by an ao dai seller but utilized her assertiveness to get her money back by herself (without Nicholas intervening). She found another ao dai seller and Nicholas found 4 shirts.
 -   We had a seafood at LoCo but they forgot the octopus and the next table had a runaway crab but he was captured, washed and retuned to the hot tub. Nicholas was traumatized at watching the crab and his friend get cooked.
 -   Overnight at Sanouva Da Nang Hotel ($69)
--   **2 Dec (Tue)**
+
+**2 Dec (Tue)**
 
 -   Breakfast at the hotel before taking grab back to Hoi An.
 -   It was raining heavily when we went for our 3rd fitting, Chanel requested for bra pads for the dress from Tuong and demanded that Blue Eye correct the shiny satin of Nicholas' Tuxedo.
