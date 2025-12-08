@@ -10,6 +10,8 @@ categories:
 
 Wedding Photoshoot and Tailoring Experience from 29 Nov-5 Dec 2025.
 
+Nicholas felt that the trip was a good mix between productivity and relaxation.
+
 <!-- more -->
 
 **29 Nov (Sat): Tailoring**
