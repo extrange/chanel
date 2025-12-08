@@ -12,7 +12,7 @@ Wedding Photoshoot and Tailoring Experience from 29 Nov-5 Dec 2025.
 
 <!-- more -->
 
-**29 Nov (Sat)**
+**29 Nov (Sat): Tailoring**
 
 -   1115 - 1305 SIN T4 - DAD via Vietjet, JPVAM3
 -   Our flight was shifted from evening to morning, hence, we rescheduled the second day of our marriage course. It was a good change as it gave us more time in Hoi An.
@@ -23,7 +23,7 @@ Wedding Photoshoot and Tailoring Experience from 29 Nov-5 Dec 2025.
 -   We returned to Blue Eye as Chanel insisted that Nicholas get a slightly shiny 3-pc black suit + 2 shirts (7,420k VND) from there. She also got a 2-pc suit set + shirt (5,432k VND) for herself. Full payment upfront.
 -   Overnight at Hoi An Em's House Hoi An Homestay (768k VND) - Nicholas slept well with the soundproof room. Of note the windows of the door-type (non-sliding) which made for better soundproofing.
 
-**30 Nov (Sun)**
+**30 Nov (Sun): Second Fitting**
 
 -   Woke up and headed the other direction for breakfast at Cam Coffee. We had egg coffee, coconut cream coffee (nice) and an American breakfast set.
 -   Nicholas purchased 2 leather shoes from Hello Leather at 2,400k VND (deposit 1,200k VND). The shop was run by a couple.
@@ -36,7 +36,7 @@ Wedding Photoshoot and Tailoring Experience from 29 Nov-5 Dec 2025.
 -   We walked back to the hotel and had more noodles.
 -   Overnight at Sanouva Da Nang Hotel ($65) - Nicholas did not sleep well due to the arguing Korean couple next door/too much coffee. Chanel slept slightly less well.
 
-**1 Dec (Mon)**
+**1 Dec (Mon): Photoshoot, Seafood Dinner**
 
 <div style="display: flex; gap: 10px;">
   <figure style="max-width:300px">
@@ -59,7 +59,7 @@ Wedding Photoshoot and Tailoring Experience from 29 Nov-5 Dec 2025.
 -   We had a seafood at LoCo but they forgot the octopus and the next table had a runaway crab but he was captured, washed and retuned to the hot tub. Nicholas was traumatized at watching the crab and his friend get cooked.
 -   Overnight at Sanouva Da Nang Hotel ($69)
 
-**2 Dec (Tue)**
+**2 Dec (Tue): Cooking Class/Coconut Boat Tour**
 
 -   Breakfast at the hotel before taking grab back to Hoi An.
 -   It was raining heavily when we went for our 3rd fitting, Chanel requested for bra pads for the dress from Tuong and demanded that Blue Eye correct the shiny satin of Nicholas' Tuxedo.
@@ -69,7 +69,7 @@ Wedding Photoshoot and Tailoring Experience from 29 Nov-5 Dec 2025.
 -   We walked around the streets of Hoi An before heading back to try the Hello Leather shoes where the cobbler adjusted them on the fly, and then left Nicholas' broken black shoes for them to fix.
 -   Overnight at Em's Homestay.
 
-**3 Dec (Wed)**
+**3 Dec (Wed): Beach Holiday, Bikini Bottom Burgers**
 
 -   We tried on the tailored clothes again and Chanel decided to go back to Blue Eye to get her shirt to fit better.
 -   It was a rainy day and on the way there, we got some coffee and pistachio croissant (lots of cream) and Chanel found her pretty linen dress in the store opposite the cafe for VND 1,000k.
@@ -80,7 +80,7 @@ Wedding Photoshoot and Tailoring Experience from 29 Nov-5 Dec 2025.
 -   The repaired shoes was also delivered to our hotel.
 -   Overnight at Wyndham Hoi An Royal Beachfront Resort & Villas (SGD 103)
 
-**4 Dec (Thu)**
+**4 Dec (Thu): Beach Holiday, Bag Making**
 
 -   Chanel wanted to take more beach photos since its no longer raining so we dressed up.
 -   Instead of taking pictures, we decided to alter dresses and shirts so we took the 9am shuttle bus back to Hoi An.
@@ -93,7 +93,7 @@ Wedding Photoshoot and Tailoring Experience from 29 Nov-5 Dec 2025.
 -   Chanel thought Nicholas was being a washing machine at night which she found funny.
 -   Overnight at Le Sands Oceanfront Danang Hotel (SGD 71)
 
-**5 Dec (Fri)**
+**5 Dec (Fri): Back to Singapore**
 
 -   We had breakfast at the hotel on a nice window facing the beach, and coffee at a Jollybee-owned franchise at the airport. There was a cool crowd/people detector dashboard at the airport as well, presumably working via an overhead camera.
 -   1150 - 1550 DAD T2 - SIN via SQ171, EIPAWU
