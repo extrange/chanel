@@ -120,15 +120,15 @@ Wedding Photoshoot and Tailoring Experience from 29 Nov-5 Dec 2025.
 
 ??? note "Personal Expenses"
 
-    | Nicholas’ Item                      | Price (SGD) | Chanel’s Item           | Price (SGD) |
-    | ----------------------------------- | ----------- | ----------------------- | ----------- |
-    | Blue Eye 3 pc black suit + 2 shirts | 364         | Blue Eye suit + 1 shirt | 266         |
-    | Tuong 2 pc blue suit + 1 shirt      | 350         | Tuong dress             | 155         |
-    | Bari 2 pc beige suit                | 123         | Cosmetics               | 152         |
-    | Friendly Shoe bag                   | 123         | Bari 2 pants            | 114         |
-    | Hello Leather 2 shoes               | 118         | Bari 2 linen shirts     | 103         |
-    | Bari 1 cotton shirt 1 linen shirt   | 103         | 2 linen dress           | 98          |
-    | Bari alteration for 4 shirts        | 45          | Wine                    | 42          |
-    | Shoe repair                         | 25          | Nails, spa              | 27          |
-    | Tea cup set                         | 22          | Ao Dai                  | 17          |
-    | **Total**                           | **1,272**   | **Total**               | **974**     |
+    | Nicholas’ Item                     | Price (SGD) | Chanel’s Item           | Price (SGD) |
+    | ---------------------------------- | ----------- | ----------------------- | ----------- |
+    | Blue Eye 3 pc black suit + 1 shirt | 364         | Blue Eye suit + 1 shirt | 266         |
+    | Tuong 2 pc blue suit + 1 shirt     | 350         | Tuong dress             | 155         |
+    | Bari 2 pc beige suit               | 123         | Cosmetics               | 152         |
+    | Friendly Shoe bag                  | 123         | Bari 2 pants            | 114         |
+    | Hello Leather 2 shoes              | 118         | Bari 2 linen shirts     | 103         |
+    | Bari 1 cotton shirt 1 linen shirt  | 103         | 2 linen dress           | 98          |
+    | Bari alteration for 4 shirts       | 45          | Wine                    | 42          |
+    | Shoe repair                        | 25          | Nails, spa              | 27          |
+    | Tea cup set                        | 22          | Ao Dai                  | 17          |
+    | **Total**                          | **1,272**   | **Total**               | **974**     |
